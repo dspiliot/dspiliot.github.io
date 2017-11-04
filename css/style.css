@@ -113,6 +113,25 @@
 		line-height: 1.5em;
 	}
 
+h7-opacity{
+        background-color: transparent;
+		border-radius: 0.5em;
+		color: #635151 !important;
+		display: inline-block;
+		font-size: 0.8em;
+		font-weight: 700;
+		height: 3.5em;
+		letter-spacing: 0.1em;
+		line-height: 3.5em;
+		overflow: hidden;
+		padding: 0 1em;
+		text-align: center;
+		text-decoration: none;
+		text-overflow: ellipsis;
+		text-transform: uppercase;
+		white-space: nowrap;
+}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
