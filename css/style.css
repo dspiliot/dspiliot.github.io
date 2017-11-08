@@ -58,7 +58,7 @@
 
         a:visited {color: #646161;}
 
-        a.pdf {color: darkred; font-variant: small-caps; font-weight: 700;}
+        a.pdf {color: darkred; font-size: 1.1em; font-variant: small-caps; font-weight: 700;}
 
 	strong, b {
 		color: #545454;
@@ -112,6 +112,17 @@
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
+
+	h7 {
+		font-size: 1.0em;
+        font-weight: 500;
+	}
+
+	h8 {
+		font-size: 1.0em;
+        font-style: italic;
+	}
+
 
 h7-opacity{
         background-color: transparent;
