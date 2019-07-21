@@ -1,0 +1,12 @@
+@InProceedings{spiliotopoulos2019language
+author="Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Margaris, Dionisis
+and Kotis, Konstantinos",
+title="A Methodology for Generated Text Annotation for High Quality Speech Synthesis",
+booktitle="Proceedings of the 10th IEEE International Conference on Information, Intelligence, Systems and Applications",
+year="2019",
+location = {Patra, Greece},
+pages="1--8",
+}
+

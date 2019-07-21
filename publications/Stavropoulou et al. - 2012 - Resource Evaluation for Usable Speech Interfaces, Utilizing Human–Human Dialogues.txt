@@ -1,0 +1,13 @@
+@inproceedings{stavropoulou2012resource,
+    title = "Resource Evaluation for Usable Speech Interfaces: Utilizing Human-Human Dialogue",
+    author = "Stavropoulou, Pepi  and
+      Spiliotopoulos, Dimitris  and
+      Kouroupetroglou, Georgios",
+    booktitle = "Proceedings of the 8th International Conference on Language Resources and Evaluation ({LREC}-2012)",
+    month = may,
+    year = "2012",
+    address = "Istanbul, Turkey",
+    publisher = "European Languages Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2012/pdf/977_Paper.pdf",
+    pages = "1348--1353",
+}

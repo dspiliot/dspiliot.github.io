@@ -1,0 +1,9 @@
+@inproceedings{Schefbeck2012recent,
+ author = {Schefbech, Guenther and Spiliotopoulos, Dimitris and Risse, Thomas},
+ title = {The Recent Challenge in Web Archiving: Archiving the Social Web},
+ booktitle = {Proceedings of the International Council on Archives Congress},
+ year = {2012},
+ location = {Brisbane, Australia},
+ pages = {1--5},
+ numpages = {5},
+} 

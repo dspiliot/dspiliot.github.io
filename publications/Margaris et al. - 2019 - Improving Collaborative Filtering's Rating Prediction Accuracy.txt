@@ -1,0 +1,12 @@
+@InProceedings{margaris2019predictionaccuracy
+author="Margaris, Dionisis
+and Vasilopoulos, Dionysios
+and Vassilakis, Costas
+and Spiliotopoulos, Dimitris",
+title="Improving Collaborative Filtering's Rating Prediction Accuracy by Introducing the Common Item Rating Past Criterion",
+booktitle="Proceedings of the 10th IEEE International Conference on Information, Intelligence, Systems and Applications",
+year="2019",
+location = {Patra, Greece},
+pages="1--8",
+}
+

@@ -1,0 +1,18 @@
+@Inbook{Spiliotopoulos2015,
+author="Spiliotopoulos, Dimitris
+and Dalianis, Athanasios
+and Koryzis, Dimitris",
+editor="Antona, Margherita
+and Stephanidis, Constantine",
+title="Speech Enabled Ontology Graph Navigation and Editing",
+bookTitle="Universal Access in Human-Computer Interaction.   Access to Today's Technologies: 9th International Conference, UAHCI 2015, Held as Part of HCI International 2015, Los Angeles, CA, USA, August 2-7, 2015, Proceedings, Part I",
+year="2015",
+publisher="Springer International Publishing",
+address="Cham",
+pages="487--494",
+abstract="Graphs are commonly used to represent multiple relations between many items. Ontology graphs implement the connections and constraints between levels of interdependence between nodes; the nodes themselves being the members of the data types. As part of a design-for-all approach, this paper reports on the use of speech for ontology graph navigation and editing. The graphs can be fully created by using voice commands only, essentially creating large and complex ontologies by speech. The formative usability evaluation and user involvement experimentation results revealed that the introduction of speech, greatly enhanced specific parts of the navigation and improved the speed of editing, especially for the trivial, yet time consuming tasks of editing large and complex graphs.",
+isbn="978-3-319-20678-3",
+doi="10.1007/978-3-319-20678-3_47",
+url="https://doi.org/10.1007/978-3-319-20678-3_47"
+}
+

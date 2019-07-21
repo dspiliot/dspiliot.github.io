@@ -1,0 +1,11 @@
+@InProceedings{spiliotopoulos2013semantic
+author="Spiliotopoulos, Dimitris
+and Bouwmeester, Ruben
+and Proios, Dimitris",
+title="Relation Visualization for Semantically Enriched Web Content",
+booktitle="Proceedings of the 1st Communicating Complexity International Design Conference (2CO-2013)",
+year="2013",
+location = {Alghero, Italy},
+pages="1--10",
+}
+

@@ -1,0 +1,19 @@
+@InProceedings{papatheodorou2013emotional,
+author="Papatheodorou, Nikolaos
+and Stavropoulou, Pepi
+and Tsonos, Dimitrios
+and Kouroupetroglou, Georgios
+and Spiliotopoulos, Dimitris
+and Papageorgiou, Charalambos",
+editor="Demey, Yan Tang
+and Panetto, Herv{\'e}",
+title="On the Identification and Annotation of Emotional Properties of Verbs",
+booktitle="OTM Confederated International Conferences (OTM-2013)",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="588--597",
+abstract="Adequate and reliable lexical resources are essential for effective sentiment analysis and opinion mining. This paper proposes a methodology for the emotional assessment and annotation of words. The process is based on the Self Assessment Manikin test, and is coupled with two psychometric measurements for identifying possible bias due to the annotator's psychological condition and personality: the EPQ scale and the SCL-90-R scale. A web based tool was developed to support the process. The methodology was validated through a pilot study in which 10 participants were asked to assess the emotional state elicited by each of 75 verbs that were used as stimuli. Results are compared with SentiWordNet's emotional scoring on respective verbs, and primarily show logical continuity and consistency.",
+isbn="978-3-642-41033-8"
+}
+

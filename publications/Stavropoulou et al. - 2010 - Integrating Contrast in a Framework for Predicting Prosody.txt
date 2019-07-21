@@ -1,0 +1,15 @@
+@InProceedings{stavropoulou2010prosody,
+author="Stavropoulou, Pepi
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+editor="Gelbukh, Alexander",
+title="Integrating Contrast in a Framework for Predicting Prosody",
+booktitle="Proceedings of the 11th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2010)"
+year="2010",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="748--758",
+abstract="Information Structure (IS) is known to bear a significant effect on Prosody, making the identification of this effect crucial for improving the quality of synthetic speech. Recent theories identify contrast as a central IS element affecting accentuation. This paper presents the results of two experiments aiming to investigate the function of the different levels of contrast within the topic and focus of the utterance, and their effect on the prosody of Greek. Analysis showed that distinguishing between at least two contrast types is important for determining the appropriate accent type, and, therefore, such a distinction should be included in a description of the IS -- Prosody interaction. For this description to be useful for practical applications, a framework is required that makes this information accessible to the speech synthesizer. This work reports on such a language-independent framework integration of all identified grammatical and syntactic prerequisites for creating a linguistically enriched input for speech synthesis.",
+isbn="978-3-642-12116-6"
+}
+

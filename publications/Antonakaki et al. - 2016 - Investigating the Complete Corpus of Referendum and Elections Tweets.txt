@@ -1,0 +1,12 @@
+@INPROCEEDINGS{7752220, 
+author={D. Antonakaki and D. Spiliotopoulos and C. V. Samaras and S. Ioannidis and P. Fragopoulou}, 
+booktitle={2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, 
+title={Investigating the complete corpus of referendum and elections tweets}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={100-105}, 
+keywords={computational linguistics;politics;sentiment analysis;social networking (online);2015 Greek referendum;European political actions;Greek language;Greek political actions;antiausterity sentiment;election tweets;entity detection;entity discovery;legislative elections;linguistic preprocessing;local electoral events;noise reduction;online social networks;public political discourse;sarcasm correction;sarcasm detection;semantic proximity;sentiment analysis;volume analysis;Dictionaries;Europe;Sentiment analysis;Tagging;Twitter;Voting}, 
+doi={10.1109/ASONAM.2016.7752220}, 
+ISSN={}, 
+month={Aug},}

@@ -1,0 +1,17 @@
+@InProceedings{spiliotopoulos2013usability,
+author="Spiliotopoulos, Dimitris
+and Bouwmeester, Ruben
+and Kouroupetroglou, Georgios
+and Stavropoulou, Pepi
+and Tsonos, Dimitrios",
+editor="Marcus, Aaron",
+title="Usability Design and Testing of an Interface for Search and Retrieval of Social Web Data",
+booktitle="Design, User Experience, and Usability. Web, Mobile, and Product Design. Proceedings of the 15th International Conference on Human-Computer Interaction (HCII 2013)",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="575--580",
+abstract="The vast amount of data on the web has been extensively harvested for many years for the purpose of digital archiving. In the recent years, however, the social networks contain the sources of most of the debating between the people. Recent approaches include social web information to the archived content for various reasons. This work reports on the usability design and evaluation of a search and retrieval user interface that was designed to retrieve web objects along with semantic information analyzed for the social web. The main task of the interface was to combine the social information with the standard archived content in meaningful and usable ways.",
+isbn="978-3-642-39253-5"
+}
+

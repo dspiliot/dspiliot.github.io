@@ -1,0 +1,9 @@
+@InProceedings{spiliotopoulos2001robot,
+author="Spiliotopoulos, Dimitris
+and Androutsopoulos, Ion
+and Spyropoulos, Constantine D.",
+title="Human-Robot Interaction Based on Spoken Natural Language Dialogue",
+booktitle="Proceedings of the European Workshop on Service and Humanoid Robots (ServiceRob-2001), Santorini, Greece, 25-27 June 2001",
+pages="1--5",
+}
+

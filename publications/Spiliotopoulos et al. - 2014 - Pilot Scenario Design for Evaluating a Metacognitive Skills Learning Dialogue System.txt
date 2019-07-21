@@ -1,0 +1,11 @@
+@InProceedings{spiliotopoulos2014pilotscenario,
+author="Spiliotopoulos, Dimitris
+and Petukhova, Olga
+and Koryzis, Dimitris
+and Aretoulaki, Maria",
+booktitle = {Proceedings of the 16th International Conference on Human-Computer Interaction (HCII 2014)}, 
+title="Pilot Scenario Design for Evaluating a Metacognitive Skills Learning Dialogue System",
+year="2014",
+publisher="Springer International Publishing",
+pages="162--166",
+}

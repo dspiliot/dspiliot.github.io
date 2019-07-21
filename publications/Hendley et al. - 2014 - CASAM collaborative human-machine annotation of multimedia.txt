@@ -1,0 +1,24 @@
+@Article{Hendley2014,
+author="Hendley, Robert J.
+and Beale, Russell
+and Bowers, Chris P.
+and Georgousopoulos, Christos
+and Vassiliou, Charalampos
+and Sergios, Petridis
+and Moeller, Ralf
+and Karstens, Eric
+and Spiliotopoulos, Dimitris",
+title="CASAM: collaborative human-machine annotation of multimedia",
+journal="Multimedia Tools and Applications",
+year="2014",
+month="May",
+day="01",
+volume="70",
+number="2",
+pages="1277--1308",
+abstract="The CASAM multimedia annotation system implements a model of cooperative annotation between a human annotator and automated components. The aim is that they work asynchronously but together. The system focuses upon the areas where automated recognition and reasoning are most effective and the user is able to work in the areas where their unique skills are required. The system's reasoning is influenced by the annotations provided by the user and, similarly, the user can see the system's work and modify and, implicitly, direct it. The CASAM system interacts with the user by providing a window onto the current state of annotation, and by generating requests for information which are important for the final annotation or to constrain its reasoning. The user can modify the annotation, respond to requests and also add their own annotations. The objective is that the human annotator's time is used more effectively and that the result is an annotation that is both of higher quality and produced more quickly. This can be especially important in circumstances where the annotator has a very restricted amount of time in which to annotate the document. In this paper we describe our prototype system. We expand upon the techniques used for automatically analysing the multimedia document, for reasoning over the annotations generated and for the generation of an effective interaction with the end-user. We also present the results of evaluations undertaken with media professionals in order to validate the approach and gain feedback to drive further research.",
+issn="1573-7721",
+doi="10.1007/s11042-012-1255-1",
+url="https://doi.org/10.1007/s11042-012-1255-1"
+}
+

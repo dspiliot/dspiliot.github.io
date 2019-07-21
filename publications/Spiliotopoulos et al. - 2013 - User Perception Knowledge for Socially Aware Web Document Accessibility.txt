@@ -1,0 +1,17 @@
+@InProceedings{spiliotopoulos2013accessibility,
+author="Spiliotopoulos, Dimitris
+and Stavropoulou, Pepi
+and Kouroupetroglou, Georgios
+and Tsonos, Dimitrios",
+editor="Stephanidis, Constantine
+and Antona, Margherita",
+title="User Perception Knowledge for Socially-Aware Web Document Accessibility",
+booktitle="Universal Access in Human-Computer Interaction. User and Context Diversity. The 15th International Conference on Human-Computer Interaction (HCII 2013)",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="710--717",
+abstract="Social Media provide a vast amount of information identifying stories, events, entities that play the crucial role of shaping the community in an everyday heavy user involvement. This work involves the study of social media information in terms of type (multimodal: text, video, sound, picture) and role players (agents, users, opinion leaders) and the potential of using that information for the design of accessible, usable preservation strategies. The challenge was to analyze the social web and present ways of preserving the web documents with social content in such way as to make them accessible for the future. The web documents should preserve accessible data and stored in such way as to enable intelligent retrieval.",
+isbn="978-3-642-39191-0"
+}
+

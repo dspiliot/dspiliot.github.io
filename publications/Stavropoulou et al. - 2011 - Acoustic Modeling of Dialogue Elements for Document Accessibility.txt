@@ -1,0 +1,15 @@
+@InProceedings{stavropoulou2011accessibility,
+author="Stavropoulou, Pepi
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+editor="Stephanidis, Constantine",
+title="Acoustic Modeling of Dialogue Elements for Document Accessibility",
+booktitle="Proceedings of the 14th International Conference on Human-Computer Interaction (HCII 2011",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="175--184",
+abstract="Document-to-Audio accessibility assumes that all meaningful presentaion elements in the document, such as bold, italics, tables or bullets, should be properly processed and acoustically modeled, in order to convey the intended meaning to the listeners in a complete and adequate manner. Similarly, several types of documents may contain reported speech and dialogue content signaled through punctuation and other visual elements that require further processing before being rendered to speech. This paper explores such dialogue elements in documents, examines their actual indicators and their use, and investigates the most prominent methods for their acoustic modeling, namely the use of prosody manipulation and voice alternation. It further reports on a pilot experiment on the appropriateness of voice alternation as means for the effective spoken rendition of dialogue elements in documents. Results demonstrate a clear listener preference for the ``multiple voice'' renditions over the ones using a single voice.",
+isbn="978-3-642-21657-2"
+}
+

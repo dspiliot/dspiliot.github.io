@@ -1,0 +1,11 @@
+@InProceedings{spiliotopoulos2013feedback
+author="Spiliotopoulos, Dimitris
+and Schebeck, Guenther
+and Koryzis, Dimitris",
+title="Obtaining Societal Feedback on Legislative Issues through Content Extraction from the Social Web",
+booktitle="Proceedings of the 16th International Symposium on Legal Informatics",
+year="2013",
+location = {Salzburg, Austria},
+pages="1--4",
+}
+

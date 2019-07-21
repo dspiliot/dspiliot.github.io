@@ -1,0 +1,13 @@
+@inproceedings{Spiliotopoulos2015,
+author = {Spiliotopoulos, Dimitris and Dalianis, Athanasios},
+ title = {Technically Challenging Human Factors Issues for a Policy Argumentation Approach},
+ booktitle = {Proceedings of the 5th International Conference on Applied Human Factors and Ergonomics},
+ year = {2014},
+ isbn = {978-1-4503-4337-4},
+ location = {Kraków, Poland},
+ numpages = {4},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ month={Aug},
+ keywords = {Facebook, activity tracking, health, motivation, well-being},
+}

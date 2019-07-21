@@ -1,0 +1,10 @@
+@InProceedings{spiliotopoulos2005prosody
+author="Spiliotopoulos, Dimitris
+and Petasis, Georgios
+and Kouroupetroglou, Georgios",
+title="Prosodically Enriched Text Annotation for High Quality Speech Synthesis",
+booktitle="Proceedings of the 10th International Conference on Speech and Computer",
+year="2005",
+pages="1--4",
+}
+

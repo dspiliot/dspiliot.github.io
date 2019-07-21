@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-319-07509-9_10,
+author="Spiliotopoulos, Dimitris
+and Dalianis, Athanasios
+and Kouroupetroglou, Georgios",
+editor="Stephanidis, Constantine
+and Antona, Margherita",
+title="Accessibility Driven Design for Policy Argumentation Modelling",
+booktitle="Universal Access in Human-Computer Interaction. Design for All and Accessibility Practice",
+year="2014",
+publisher="Springer International Publishing",
+address="Cham",
+pages="101--108",
+abstract="This paper discusses the design of a web interface for policy argumentation modeling. Given the complexity of the interface the WAI-ARIA descriptions were used to ensure that the data were accessible and the visual-heavy presentation was simplified. Conclusions were drawn as to the usefulness of the WAI-ARIA guidelines to an elaborate design of user interaction with highly dynamic content.",
+isbn="978-3-319-07509-9"
+}
+

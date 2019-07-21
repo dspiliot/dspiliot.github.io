@@ -1,0 +1,13 @@
+@article{Xydas2005,
+author = {Xydas, Gerasimos and Spiliotopoulos, Dimitris and Kouroupetroglou, Georgios},
+doi = {10.1093/ietisy/e88-d.3.510},
+issn = {09168532},
+journal = {IEICE Transactions on Information and Systems},
+keywords = {Linguistic meta-information,Prosody modeling,Synthetic prosody evaluation,Text-to-speech},
+number = {3},
+pages = {510--518},
+title = {{Modeling improved prosody generation from high-level linguistically annotated corpora}},
+url = {http://www.spiliotopoulos.org/index.php/researchmenu/publications},
+volume = {E88-D},
+year = {2005}
+}

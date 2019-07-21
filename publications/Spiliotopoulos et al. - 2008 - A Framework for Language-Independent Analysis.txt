@@ -1,0 +1,13 @@
+@InProceedings{spiliotopoulos2008annotation,
+author="Spiliotopoulos, Dimitris
+and Petasis, Georgios
+and Kouroupetroglou, Georgios",
+title="A Framework for Language-Independent Analysis and Prosodic Feature Annotation of Text Corpora",
+booktitle="Proceedings of the 11th International Conference on Text, Speech and Dialogue",
+year="2008",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="517--524",
+isbn="978-3-540-87391-4"
+}
+

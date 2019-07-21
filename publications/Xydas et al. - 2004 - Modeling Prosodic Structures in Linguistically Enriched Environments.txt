@@ -1,0 +1,12 @@
+@InProceedings{xydas2004prosody,
+author="Xydas, Gerasimos
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+title="Modeling Prosodic Structures in Linguistically Enriched Environments",
+booktitle="Proceedings of the 7th International Conference on Text, Speech and Dialogue",
+year="2004",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="521--528",
+}
+

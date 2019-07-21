@@ -1,0 +1,16 @@
+@InProceedings{spiliotopoulos2009usability,
+author="Spiliotopoulos, Dimitris
+and Stavropoulou, Pepi
+and Kouroupetroglou, Georgios",
+editor="Holzinger, Andreas
+and Miesenberger, Klaus",
+title="Spoken Dialogue Interfaces: Integrating Usability",
+booktitle="Proceedings of the 5th Symposium of the Austrian HCI and Usability Engineering Group",
+year="2009",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="484--499",
+abstract="Usability is a fundamental requirement for natural language interfaces. Usability evaluation reflects the impact of the interface and the acceptance from the users. This work examines the potential of usability evaluation in terms of issues and methodologies for spoken dialogue interfaces along with the appropriate designer-needs analysis. It unfolds the perspective to the usability integration in the spoken language interface design lifecycle and provides a framework description for creating and testing usable content and applications for conversational interfaces. Main concerns include the problem identification of design issues for usability design and evaluation, the use of customer experience for the design of voice interfaces and dialogue, and the problems that arise from real-life deployment. Moreover it presents a real-life paradigm of a hands-on approach for applying usability methodologies in a spoken dialogue application environment to compare against a DTMF approach. Finally, the scope and interpretation of results from both the designer and the user standpoint of usability evaluation are discussed.",
+isbn="978-3-642-10308-7"
+}
+

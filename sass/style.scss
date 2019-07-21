@@ -92,6 +92,7 @@
 		line-height: 1.5em;
 	}
 
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -189,11 +190,11 @@
 		h4 + p,
 		h5 + p,
 		h6 + p {
-			font-size: 0.9em;
+			font-size: 1.0em;
 			margin-top: -0.75em;
 			line-height: 1.5em;
 		}
-		
+		      
 		&.major {
 			text-align: center;
 			

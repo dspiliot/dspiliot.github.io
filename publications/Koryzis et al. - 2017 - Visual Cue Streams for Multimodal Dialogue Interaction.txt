@@ -1,0 +1,22 @@
+@Inbook{Koryzis2017,
+author="Koryzis, Dimitris
+and Samaras, Christos V.
+and Makri, Eleni
+and Svolopoulos, Vasilios
+and Spiliotopoulos, Dimitris",
+editor="Kantola, Jussi Ilari
+and Barath, Tibor
+and Nazir, Salman
+and Andre, Terence",
+title="Visual Cue Streams for Multimodal Dialogue Interaction",
+bookTitle="Advances in Human Factors, Business Management, Training and Education: Proceedings of the AHFE 2016 International Conference on Human Factors, Business Management and Society, July 27-31, 2016, Walt Disney World®, Florida, USA",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="541--547",
+abstract="This work examines the visual information streams as feedback to users engaging in multimodal interaction during specific settings. It reports on the findings from complexity and frequency of information presentation paired to user acceptance. It also addresses technical design issues by examining how multiple visual streams are presented in real situations, for the specific complex use case.",
+isbn="978-3-319-42070-7",
+doi="10.1007/978-3-319-42070-7_50",
+url="https://doi.org/10.1007/978-3-319-42070-7_50"
+}
+

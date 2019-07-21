@@ -1,0 +1,18 @@
+@InProceedings{petasis2014sentiment,
+author="Petasis, Georgios
+and Spiliotopoulos, Dimitrios
+and Tsirakis, Nikos
+and Tsantilas, Panayiotis",
+editor="Likas, Aristidis
+and Blekas, Konstantinos
+and Kalles, Dimitris",
+title="Sentiment Analysis for Reputation Management: Mining the Greek Web",
+booktitle="Artificial Intelligence: Methods and Applications",
+year="2014",
+publisher="Springer International Publishing",
+address="Cham",
+pages="327--340",
+abstract="Harvesting the web and social web data is a meticulous and complex task. Applying the results to a successful business case such as brand monitoring requires high precision and recall for the opinion mining and entity recognition tasks. This work reports on the integrated platform of a state of the art Named-entity Recognition and Classification (NERC) system and opinion mining methods for a Software-as-a-Service (SaaS) approach on a fully automatic service for brand monitoring for the Greek language. The service has been successfully deployed to the biggest search engine in Greece powering the large-scale linguistic and sentiment analysis of about 80.000 resources per hour.",
+isbn="978-3-319-07064-3"
+}
+

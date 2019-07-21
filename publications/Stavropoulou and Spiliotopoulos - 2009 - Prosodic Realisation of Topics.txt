@@ -1,0 +1,8 @@
+@InProceedings{stavropoulou2009topics,
+author="Stavropoulou, Pepi
+and Spiliotopoulos, Dimitris",
+title="Prosodic Realisation of Topics",
+booktitle="Proceedings of the 19th International Symposium on Theoretical and Applied Linguistics, Thessaloniki, 3-5 April 2009, Greece",
+pages="1--9",
+}
+

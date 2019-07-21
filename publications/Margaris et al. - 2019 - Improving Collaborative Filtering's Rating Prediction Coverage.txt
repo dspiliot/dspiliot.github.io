@@ -1,0 +1,12 @@
+@InProceedings{margaris2019predictioncoverage
+author="Margaris, Dionisis
+and Vasilopoulos, Dionysios
+and Vassilakis, Costas
+and Spiliotopoulos, Dimitris",
+title="Improving Collaborative Filtering's Rating Prediction Coverage in Sparse Datasets through the Introduction of Virtual Near Neighbors",
+booktitle="Proceedings of the 10th IEEE International Conference on Information, Intelligence, Systems and Applications",
+year="2019",
+location = {Patra, Greece},
+pages="1--8",
+}
+

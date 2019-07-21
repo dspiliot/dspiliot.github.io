@@ -1,0 +1,15 @@
+@InProceedings{spiliotopoulos2009prosody,
+author="Spiliotopoulos, Dimitris
+and Stavropoulou, Panagiota
+and Kouroupetroglou, Georgios",
+editor="Stephanidis, Constantine",
+title="Acoustic Rendering of Data Tables Using Earcons and Prosody for Document Accessibility",
+booktitle="Proceedings of the 13th International Conference on Human-Computer Interaction",
+year="2009",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="587--596",
+abstract="Earlier works show that using a prosody specification that is derived from natural human spoken rendition, increases the naturalness and overall acceptance of speech synthesised complex visual structures by conveying to audio certain semantic information hidden in the visual structure. However, prosody alone, although exhibits significant improvement, cannot perform adequately in the cases of very large complex data tables browsed in a linear manner. This work reports on the use of earcons and spearcons combined with prosodically enriched aural rendition of simple and complex tables. Three spoken combinations earcons+prosody, spearcons+prosody, and prosody were evaluated in order to examine how the resulting acoustic output would improve the document-to-audio semantic correlation throughput from the visual modality. The results show that the use of non-speech sounds can further improve certain qualities, such as listening effort, a crucial parameter when vocalising any complex visual structure contained in a document.",
+isbn="978-3-642-02713-0"
+}
+

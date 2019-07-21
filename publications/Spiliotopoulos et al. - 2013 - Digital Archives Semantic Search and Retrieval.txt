@@ -1,0 +1,17 @@
+@InProceedings{spiliotopoulos2013semanticsearch,
+author="Spiliotopoulos, Dimitris
+and Tzoannos, Efstratios
+and Cabulea, Cosmin
+and Frey, Dominik",
+editor="Holzinger, Andreas
+and Pasi, Gabriella",
+title="Digital Archives: Semantic Search and Retrieval",
+booktitle="Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured, Big Data, HCI-KDD-2013",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="173--182",
+abstract="Social media, in the recent years, has become the main source of information regarding society's feedback on events that shape the everyday life. The social web is where journalists look to find how people respond to the news they read but is also the place where politicians and political analysts would look to find how societies feel about political decisions, politicians, events and policies that are announced. This work reports on the design and evaluation of a search and retrieval interface for socially enriched web archives. The considerations on the end user requirements regarding the social content are presented as well as the approach on the design and testing using a large collection of web documents.",
+isbn="978-3-642-39146-0"
+}
+

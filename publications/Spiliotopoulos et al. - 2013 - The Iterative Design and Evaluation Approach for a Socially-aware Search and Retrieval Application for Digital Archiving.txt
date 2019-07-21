@@ -1,0 +1,13 @@
+@InProceedings{spiliotopoulos2013iterative
+author="Spiliotopoulos, Dimitris
+and Bouwmeester, Ruben
+and Frey, Dominik
+and Kouroupetroglou, Georgios
+and Stavropoulou, Pepi",
+title="The Iterative Design and Evaluation Approach for a Socially-aware Search and Retrieval Application for Digital Archiving",
+booktitle="Proceedings of the 6th International Conference on Advances in Computer-Human Interaction",
+year="2013",
+location = {Nice, France},
+pages="157--161",
+}
+

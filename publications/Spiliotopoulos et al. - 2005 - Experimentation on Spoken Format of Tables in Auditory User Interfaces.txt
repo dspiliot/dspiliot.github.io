@@ -1,0 +1,10 @@
+@InProceedings{spiliotopoulos2005prosody
+author="Spiliotopoulos, Dimitris
+and Petasis, Georgios
+and Kouroupetroglou, Georgios",
+title="Experimentation on Spoken Format of Tables in Auditory User Interfaces",
+booktitle="Proc. 11th International Conference on Human-Computer Interaction (HCII-2005)",
+year="2005",
+pages="1--10",
+}
+

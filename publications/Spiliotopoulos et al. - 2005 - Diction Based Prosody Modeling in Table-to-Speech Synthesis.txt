@@ -1,0 +1,13 @@
+@InProceedings{spiliotopoulos2005prosody,
+author="Spiliotopoulos, Dimitris
+and Xydas, Gerasimos
+and Kouroupetroglou, Georgios",
+title="Diction Based Prosody Modeling in Table-to-Speech Synthesis",
+booktitle="Proceedings of the 8th International Conference on Text, Speech and Dialogue",
+year="2005",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="294--301",
+isbn="978-3-540-31817-0"
+}
+

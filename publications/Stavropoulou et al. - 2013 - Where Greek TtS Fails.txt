@@ -1,0 +1,10 @@
+@InProceedings{stavropoulou2013tts
+author="Stavropoulou, Pepi
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+title="Where Greek TtS Fails",
+booktitle="Proceedings of the 11th International Conference on Greek Linguistics",
+year="2013",
+pages="1--19",
+}
+

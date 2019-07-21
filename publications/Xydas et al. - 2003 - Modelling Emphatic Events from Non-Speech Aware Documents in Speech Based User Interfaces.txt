@@ -1,0 +1,10 @@
+@InProceedings{xydas2003speech,
+author="Xydas, Gerasimos
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+title="Modelling Emphatic Events from Non-Speech Aware Documents in Speech Based User Interfaces",
+booktitle="Proc. International Confonference on Human-Computer Interaction (HCII-2003)",
+year="2003",
+pages="806--810",
+}
+

@@ -1,0 +1,15 @@
+@InProceedings{spiliotopoulos2014needdriven,
+author="Spiliotopoulos, Dimitris
+and Dalianis, Athanasios
+and Koryzis, Dimitris",
+editor="Marcus, Aaron",
+title="Need Driven Prototype Design for a Policy Modeling Authoring Interface",
+booktitle="Design, User Experience, and Usability. User Experience Design for Diverse Interaction Platforms and Environments",
+year="2014",
+publisher="Springer International Publishing",
+address="Cham",
+pages="481--487",
+abstract="This work reflects upon the design stages of a web prototype for creating policy models and policy domains. The approach allows for user input on policy modeling, creating domains and producing relations between entities, arguments, etc. The data collected during need finding provided insight into the type of interaction required for that. This paper reports on the need-finding methodology and the several iterative interaction modeling steps in order to produce a visualized authoring design.",
+isbn="978-3-319-07626-3"
+}
+

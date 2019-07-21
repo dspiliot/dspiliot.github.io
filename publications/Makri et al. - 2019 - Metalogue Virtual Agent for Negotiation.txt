@@ -1,0 +1,12 @@
+@InProceedings{makri2019negotiation
+author="Makri, Eleni
+and Koryzis, Dimitris
+and Spiliotopoulos, Dimitris
+and Svolopoulos, Vasilios",
+title="Metalogue's Virtual Agent for Negotiation: Its Effect On Learniing Experience, Metacognitive and Individual-and-Community-Llevel Attitudes Pre-and-Post Interaction",
+booktitle="Proceedings of the 11th Annual International Conference on Education and New Learning Technologies",
+year="2019",
+location = {Palma de Mallorca, Spain},
+pages="1--10",
+}
+

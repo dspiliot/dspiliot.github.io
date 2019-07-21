@@ -1,0 +1,18 @@
+@InProceedings{androutsopoulos2002generation,
+author="Androutsopoulos, Ion
+and Spiliotopoulos, Dimitris
+and Stamatakis, Konstantinos
+and Dimitromanolaki, Aggeliki
+and Karkaletsis, Vangelis
+and Spyropoulos, Constantine D.",
+editor="Vlahavas, Ioannis P.
+and Spyropoulos, Constantine D.",
+title="Symbolic Authoring for Multilingual Natural Language Generation",
+booktitle="Methods and Applications of Artificial Intelligence. Proceedings of the 2nd Hellenic Conference in Artificial Intelligence",
+year="2002",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="131--142",
+isbn="978-3-540-46014-5"
+}
+

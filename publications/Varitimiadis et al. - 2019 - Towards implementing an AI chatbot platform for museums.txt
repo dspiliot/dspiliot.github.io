@@ -1,0 +1,9 @@
+@conference {vsritimiadis2019chatbot,
+	title = {Towards implementing an AI chatbot platform for museums},
+	booktitle = {2nd International Conference on Cultural Informatics, Communication \& Media Studies},
+	year = {2019},
+	month = {06/2019},
+	address = {Mitilini, Lesvos},
+	keywords = {AI systems and tools, Intelligent systems, ontologies, smart environments},
+	author = {Savvas Varitimiadis and Alexandros Tzortzakakis and Konstantinos Kotis and George Tsekouras and Dimitris Spiliotopoulos}
+}

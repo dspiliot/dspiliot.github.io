@@ -1,0 +1,10 @@
+@InProceedings{xydas2003enriched,
+author="Xydas, Gerasimos
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+title="Building Prosodic Structures in a Concept-to-Speech System",
+booktitle="Proceedings of the 1st Balkan Conference on Informatics",
+year="2003",
+pages="105--114",
+}
+

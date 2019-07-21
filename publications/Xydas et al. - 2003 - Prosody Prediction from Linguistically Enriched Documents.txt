@@ -1,0 +1,10 @@
+@InProceedings{xydas2003prosody,
+author="Xydas, Gerasimos
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+title="Prosody Prediction from Linguistically Enriched Documents Based on a Machine Learning Approach",
+booktitle="Proceedings of the 6th International Conference of Greek Linguistics",
+year="2004",
+pages="1--9",
+}
+
