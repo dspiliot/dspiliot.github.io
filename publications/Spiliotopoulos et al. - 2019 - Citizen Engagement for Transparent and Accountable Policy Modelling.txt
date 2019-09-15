@@ -1,0 +1,14 @@
+@InProceedings{spiliotopoulos2019citizenEngagement,
+  author    = {Dimitris Spiliotopoulos and Dionisis Margaris and Costas Vassilakis},
+  title     = {Citizen Engagement for Transparent and Accountable Policy Modelling},
+  booktitle = {Proceedings of the 11th International Conference on Management of Digital EcoSystems (MEDES'19)},
+  year      = {2019},
+  month     = nov,
+  publisher = {ACM},
+  abstract  = {In the modern information society, learning is no longer just about obtaining factual knowledge, but more about general skills on how and where to apply available knowledge and obtain new knowledge in order to solve new problems. Such skills include abilities to connect and organize ideas, fill gaps in knowledge structures, evaluate evidence, argue with new information, test and modify, predict, clarify, generate questions, learn new concepts, make unexpected connections, reflect, analyze, synthesize and loop back. This work presents the Immersion framework, a digital ecosystem for adaptive smart learning environments for interactive mixed reality driven methods to foster learners’ self-regulating skill development.},
+  keywords  = {Mobile Learning; Mixed Reality; Self-regulated Learning; Game-based Interaction; Technology Enhanced Learning; Learner Collaboration},
+  timestamp = {2019-08-17},
+}
+
+
+

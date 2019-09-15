@@ -1,0 +1,17 @@
+@InProceedings{margaris2019adoptionEagerness,
+  author    = {Dionisis Margaris and Dimitris Spiliotopoulos and Costas Vassilakis},
+  title     = {Improving Collaborative Filtering’s Rating Prediction Quality by Exploiting the Item Adoption Eagerness Information},
+  booktitle = {Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence},
+  year      = {2019},
+  month     = oct,
+  publisher = {ACM},
+  abstract  = {Collaborative filtering computes personalized recommendations by taking into account ratings expressed by users. Collaborative filtering algorithms firstly identify people having similar tastes,
+who are termed as “near neighbors" and recommendations for a user, are based on his near neighbors’ ratings. On the other hand, people exhibit different levels of eagerness to adopt new products:
+according to this characteristic, there is a set of users, termed as “Early Adopters", who are prone to start using a product or technology as soon as it becomes available, in contrast to the majority of
+users, who prefer to start using items once they reach maturity; this important aspect of user behavior is not taken into account by existing algorithms. In this work, we (1) propose an algorithm that
+considers the eagerness shown by users to adopt products, aiming to improve rating prediction quality and (2) evaluate the proposed algorithm against seven widely used datasets.},
+  doi       = {10.1145/3350546.3352544},
+  isbn      = {978-1-4503-6934-3},
+  keywords  = {collaborative filtering, item adoption eagerness, rating prediction quality, evaluation, Pearson correlation coefficient, cosine similarity},
+  timestamp = {2019-07-27},
+}
