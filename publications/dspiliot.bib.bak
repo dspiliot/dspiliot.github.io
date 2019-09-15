@@ -325,7 +325,7 @@
   keywords  = {cognition;interactive systems;software architecture;adaptive dialogue management;application domains;flexible dialogue management;high-level description;integrated metalogue system;interactive behaviors;metacognitive abilities;metalogue project;multimodal interaction;multiperspective multimodal dialogue system;open architecture;processing stages;Artificial intelligence;Computer architecture;Context;Educational institutions;Natural languages;Speech;Training;human-computer interface;meta-cognition;multi-modal dialogue;natural language;systems architecture},
 }
 
-@InProceedings{Spiliotopoulos2015,
+@InProceedings{Spiliotopoulos2014,
   author    = {Spiliotopoulos, Dimitris and Dalianis, Athanasios},
   title     = {{Technically Challenging Human Factors Issues for a Policy Argumentation Approach}},
   booktitle = {Proceedings of the 5th International Conference on Applied Human Factors and Ergonomics},
@@ -505,7 +505,7 @@
   location  = {Salzburg, Austria},
 }
 
-@Conference{stavropoulou2010prosody,
+@InProceedings{stavropoulou2010prosody,
   author    = {Stavropoulou, Pepi and Spiliotopoulos, Dimitris and Kouroupetroglou, Georgios},
   title     = {{Integrating Contrast in a Framework for Predicting Prosody}},
   booktitle = {Proceedings of the 11th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2010)},
@@ -518,8 +518,9 @@
 
 @InProceedings{stavropoulou2009topics,
   author    = {Stavropoulou, Pepi and Spiliotopoulos, Dimitris},
-  title     = {Prosodic Realisation of Topics},
+  title     = {{Prosodic Realisation of Topics}},
   booktitle = {Proceedings of the 19th International Symposium on Theoretical and Applied Linguistics, Thessaloniki, 3-5 April 2009, Greece},
+  year      = {2009},
   pages     = {1--9},
 }
 
@@ -583,7 +584,7 @@
   isbn      = {978-3-540-87391-4},
 }
 
-@InProceedings{spiliotopoulos2005prosodyrohtua,
+@InProceedings{Spiliotopoulos2005,
   author    = {Spiliotopoulos, Dimitris and Petasis, Georgios and Kouroupetroglou, Georgios},
   title     = {{Prosodically Enriched Text Annotation for High Quality Speech Synthesis}},
   booktitle = {Proceedings of the 10th International Conference on Speech and Computer},
@@ -602,7 +603,7 @@
   isbn      = {978-3-540-31817-0},
 }
 
-@InProceedings{spiliotopoulos2005prosodyrohtua,
+@InProceedings{Spiliotopoulos2005a,
   author    = {Spiliotopoulos, Dimitris and Petasis, Georgios and Kouroupetroglou, Georgios},
   title     = {{Experimentation on Spoken Format of Tables in Auditory User Interfaces}},
   booktitle = {Proc. 11th International Conference on Human-Computer Interaction (HCII-2005)},
@@ -664,7 +665,7 @@
   pages     = {1--5},
 }
 
-@InBook{Spiliotopoulos2011a,
+@InBook{Spiliotopoulos2011,
   pages     = {340--359},
   title     = {{VoiceWeb: Spoken Dialogue Interfaces and Usability}},
   publisher = {IGI Global},
