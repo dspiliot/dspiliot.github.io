@@ -1,4 +1,4 @@
-@conference {vsritimiadis2019chatbot,
+@conference {varitimiadis2019chatbot,
 	title = {Towards implementing an AI chatbot platform for museums},
 	booktitle = {2nd International Conference on Cultural Informatics, Communication \& Media Studies},
 	year = {2019},
