@@ -1,0 +1,16 @@
+@article{aivazoglou2020,
+abstract = {Recommender systems have greatly evolved in recent years and have become an integral part of the Web. From e-commerce sites to mobile apps, our daily routine revolves around a series of “small” decisions that are influenced by such recommendations. In a similar manner, online social networks recommend only a subset of the massive amount of content published by a user's friends. However, the prevalent approach for the content selection process in such systems is driven by the amount of interaction between the user and the friend who published the content. As a result, content of interest is often lost due to weak social ties. In this paper, we present a fine-grained recommender system for social ecosystems, designed to recommend media content (e.g., music videos, online clips) published by the user's friends. The system design was driven by the findings of our qualitative user study that explored the value and requirements of a recommendation component within a social network. The core idea behind the proposed approach was to leverage the abundance of preexisting information in each user's account for creating interest profiles, to calculate similarity scores at a fine-grained level for each friend. The intuition behind the proposed method was to find consistent ways to obtain information representations that can identify overlapping interests in very specific sub-categories (e.g., two users' music preferences may only coincide on hard rock). While the system is intended as a component of the social networking service, we developed a proof-of-concept implementation for Facebook and explored the effectiveness of our underlying mechanisms for content analysis. Our experimental evaluation demonstrates the effectiveness of our approach, as the recommended content of interest was both overlooked by the existing Facebook engine and not contained in the users' Facebook News Feed. We also conducted a user study for exploring the usability aspects of the prototype and found that it offers functionality that could significantly improve user experience in popular services.},
+author = {Aivazoglou, Markos and Roussos, Antonios O and Margaris, Dionisis and Vassilakis, Costas and Ioannidis, Sotiris and Polakis, Jason and Spiliotopoulos, Dimitris},
+doi = {10.1007/s13278-019-0621-7},
+issn = {1869-5469},
+journal = {Social Network Analysis and Mining},
+keywords = {dspiliot},
+mendeley-tags = {dspiliot},
+month = {dec},
+number = {1},
+pages = {8},
+title = {{A fine-grained social network recommender system}},
+url = {https://doi.org/10.1007/s13278-019-0621-7},
+volume = {10},
+year = {2020}
+}
