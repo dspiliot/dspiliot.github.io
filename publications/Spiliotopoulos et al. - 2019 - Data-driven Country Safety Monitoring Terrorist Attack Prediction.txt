@@ -5,9 +5,10 @@
   year      = {2019},
   month     = aug,
   pages    = "1128--1135",
+  doi = {10.1145/3341161.3343527},
   abstract  = {Terrorism is a key risk for prospective visitors of tourist destinations. This work reports on the analysis of past terrorist at-tack data, focusing on tourist-related attacks and attack types in Mediterranean EU area and the development of algorithms to predict terrorist attack risk levels. Data on attacks in 10 countries have been analysed to quantify the threat level of tourism-related terrorism based on the data from 2000 to 2017 and formulate predictions for subsequent periods. Results show that predictions on potential target types can be derived with adequate accuracy. Such results are useful for initiating, shifting and validating active terrorism surveillance based on real predicted attack and target types per country.},
   keywords  = {Data Analysis, Terrorist Attacks, Safety Perception, Risk Calculation, Threat Ranking},
-  timestamp = {2019-06-28},
+  timestamp = {2019-09-01},
 }
 
 

@@ -5,7 +5,8 @@
   year      = {2019},
   month     = aug,
   pages    = "1160--1167",
+  doi = {10.1145/3341161.3345620},
   abstract  = {Online advertising benefits by recommender systems since the latter analyse reviews and rating of products, providing useful insight of the buyer perception of products and services. When traditional recommender system information is enriched with social network information, more successful recommendations are produced, since more users’ aspects are taken into consideration. However, social network information may be unavailable since some users may not have social network accounts or may not consent to their use for recommendations, while rating data may be unavailable due to the cold start phenomenon. In this paper, we propose an algorithm that combines limited collaborative filtering information, comprised only of users’ ratings on items, with limited social network information, com-prised only of users’ social relations, in order to improve (1) prediction accuracy and (2) prediction coverage in collaborative filtering recommender systems, at the same time. The proposed algorithm considerably improves rating prediction accuracy and coverage, while it can be easily integrated in recommender systems.},
   keywords  = {Online Advertising, Social Networks, Collaborative Filtering, Limited Information, Near Neighbours, Pearson Correlation Coefficient, Evaluation},
-  timestamp = {2019-06-27},
+  timestamp = {2019-09-01},
 }
