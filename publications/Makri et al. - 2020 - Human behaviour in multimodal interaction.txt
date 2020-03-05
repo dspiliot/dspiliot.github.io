@@ -1,0 +1,15 @@
+@article{makri2020,
+author = {Makri, Eleni G. and Spiliotopoulos, Dimitris and Vassilakis, Costas and Margaris, Dionisis},
+doi = {10.1007/s12652-020-01846-x},
+issn = {1868-5145},
+journal = {Journal of Ambient Intelligence and Humanized Computing},
+keywords = {dspiliot},
+mendeley-tags = {dspiliot},
+month = {mar},
+number = {4},
+pages = {16},
+title = {{Human behaviour in multimodal interaction: main effects of civic action and interpersonal and problem-solving skills}},
+url = {https://doi.org/10.1007/s12652-020-01846-x},
+volume = {1},
+year = {2020}
+}
