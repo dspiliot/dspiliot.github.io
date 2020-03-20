@@ -1,0 +1,12 @@
+@ARTICLE{9040526,
+author={D. {Margaris} and A. {Kobusińska} and D. {Spiliotopoulos} and C. {Vassilakis}},
+journal={IEEE Access},
+title={An Adaptive Social Network-Aware Collaborative Filtering Algorithm for Improved Rating Prediction Accuracy},
+year={2020},
+volume={},
+number={},
+pages={1-1},
+keywords={Social computing;recommender systems;performance evaluation},
+doi={10.1109/ACCESS.2020.2981567},
+ISSN={2169-3536},
+month={},}
