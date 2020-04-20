@@ -1,0 +1,17 @@
+
+@Article{bdcc4020006,
+AUTHOR = {Vassilakis, Costas and Kotis, Konstantinos and Spiliotopoulos, Dimitris and Margaris, Dionisis and Kasapakis, Vlasios and Anagnostopoulos, Christos-Nikolaos and Santipantakis, Georgios and Vouros, George A. and Kotsilieris, Theodore and Petukhova, Volha and Malchanau, Andrei and Lykourentzou, Ioanna and Helin, Kaj Michael and Revenko, Artem and Gligoric, Nenad and Pokric, Boris},
+TITLE = {A Semantic Mixed Reality Framework for Shared Cultural Experiences Ecosystems},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {4},
+YEAR = {2020},
+NUMBER = {2},
+ARTICLE-NUMBER = {6},
+URL = {https://www.mdpi.com/2504-2289/4/2/6},
+ISSN = {2504-2289},
+ABSTRACT = {This paper presents SemMR, a semantic framework for modelling interactions between human and non-human entities and managing reusable and optimized cultural experiences, towards a shared cultural experience ecosystem that might seamlessly accommodate mixed reality experiences. The SemMR framework synthesizes and integrates interaction data into semantically rich reusable structures and facilitates the interaction between different types of entities in a symbiotic way, within a large, virtual, and fully experiential open world, promoting experience sharing at the user level, as well as data/application interoperability and low-effort implementation at the software engineering level. The proposed semantic framework introduces methods for low-effort implementation and the deployment of open and reusable cultural content, applications, and tools, around the concept of cultural experience as a semantic trajectory or simply, experience as a trajectory (eX-trajectory). The methods facilitate the collection and analysis of data regarding the behaviour of users and their interaction with other users and the environment, towards optimizing eX-trajectories via reconfiguration. The SemMR framework supports the synthesis, enhancement, and recommendation of highly complex reconfigurable eX-trajectories, while using semantically integrated disparate and heterogeneous related data. Overall, this work aims to semantically manage interactions and experiences through the eX-trajectory concept, towards delivering enriched cultural experiences.},
+DOI = {10.3390/bdcc4020006}
+}
+
+
+
