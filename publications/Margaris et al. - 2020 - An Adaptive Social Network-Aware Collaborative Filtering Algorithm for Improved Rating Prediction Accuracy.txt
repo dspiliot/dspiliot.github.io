@@ -3,10 +3,11 @@ author={D. {Margaris} and A. {Kobusińska} and D. {Spiliotopoulos} and C. {Vassi
 journal={IEEE Access},
 title={An Adaptive Social Network-Aware Collaborative Filtering Algorithm for Improved Rating Prediction Accuracy},
 year={2020},
-volume={},
-number={},
-pages={1-1},
+volume={8},
+number={1},
+pages={68301-68310},
 keywords={Social computing;recommender systems;performance evaluation},
 doi={10.1109/ACCESS.2020.2981567},
 ISSN={2169-3536},
-month={},}
+month={December},
+}
