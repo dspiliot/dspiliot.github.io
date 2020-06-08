@@ -1,0 +1,17 @@
+
+@Article{challe11010010,
+AUTHOR = {Kotis, Konstantinos and Spiliotopoulos, Dimitris and Papasalouros, Andreas},
+TITLE = {Intelligent Collaborative Authoring of Place-Based, Cross-Cultural and Media-Rich Experiences},
+JOURNAL = {Challenges},
+VOLUME = {11},
+YEAR = {2020},
+NUMBER = {1},
+ARTICLE-NUMBER = {10},
+URL = {https://www.mdpi.com/2078-1547/11/1/10},
+ISSN = {2078-1547},
+ABSTRACT = {In this paper, we present a framework that aims to support the active participation and collaboration of knowledge workers and engineers in the co-authoring of place-based, cross-cultural and media-rich memories, experiences, stories and narration. To achieve this, the framework proposes a novel approach for facilitating such a participation and collaboration through the semantic integration of data/information and integrated tools that will be both accessible via an open, user-friendly, mobile and knowledge-based platform, emphasizing a low-effort participative and guided co-authoring approach. The presented collaborative and participative approach is expected to foster social cohesion in heterogeneous communities of interest and practice. For the realization of the framework, we propose the implementation of a proof-of-concept system and its evaluation in the socio-cultural group of immigrants and refugees within the context of creating and sharing knowledge related to the physical and digital artifacts of a modern art museum. Our vision for the proposed framework is to introduce new technology for the collaborative authoring of cultural experiences with low effort using an intelligent assistant. Additionally, we envision a Shared Experiences Ecosystem (SEE) that aims to provide media-rich content and tools that will eventually foster the inclusive access of heterogeneous socio-cultural groups to shared experiences, increasing social cohesion in resilient local environments.},
+DOI = {10.3390/challe11010010}
+}
+
+
+

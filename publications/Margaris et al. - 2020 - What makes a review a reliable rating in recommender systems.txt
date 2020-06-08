@@ -1,0 +1,12 @@
+Dionisis Margaris, Costas Vassilakis, Dimitris Spiliotopoulos,
+What makes a review a reliable rating in recommender systems?,
+Information Processing & Management,
+Volume 57, Issue 6,
+2020,
+102304,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2020.102304.
+(http://www.sciencedirect.com/science/article/pii/S0306457320307998)
+Abstract: ABSTRACT
+The way that users provide feedback on items regarding their satisfaction varies among systems: in some systems, only explicit ratings can be entered; in other systems textual reviews are accepted; and in some systems, both feedback types are accommodated. Recommender systems can readily exploit explicit ratings in the rating prediction and recommendation formulation process, however textual reviews -which in the context of many social networks are in abundance and significantly outnumber numeric ratings- need to be converted to numeric ratings. While numerous approaches exist that calculate a user's rating based on the respective textual review, all such approaches may introduce errors, in the sense that the process of rating calculation based on textual reviews involves an uncertainty level, due to the characteristics of the human language, and therefore the calculated ratings may not accurately reflect the actual ratings that the corresponding user would enter. In this work (1) we examine the features of textual reviews, which affect the reliability of the review-to-rating conversion procedure, (2) we compute a confidence level for each rating, which reflects the uncertainty level for each conversion process, (3) we exploit this metric both in the users’ similarity computation and in the prediction formulation phases in recommender systems, by presenting a novel rating prediction algorithm and (4) we validate the accuracy of the presented algorithm in terms of (i) rating prediction accuracy, using widely-used recommender systems datasets and (ii) recommendations generated for social network user satisfaction and precision, where textual reviews are abundant.
+Keywords: Recommender systems; Collaborative filtering; Rating prediction using textual information; Confidence level; Feature selection
