@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-030-49282-3_35,
+author="Stavropoulou, Pepi
+and Spiliotopoulos, Dimitris
+and Kouroupetroglou, Georgios",
+editor="Antona, Margherita
+and Stephanidis, Constantine",
+title="Voice User Interfaces for Service Robots: Design Principles and Methodology",
+booktitle="Universal Access in Human-Computer Interaction. Design Approaches and Supporting Technologies",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="489--505",
+abstract="This work presents the concerns, prerequisites, and methods for building interaction interfaces for service robots. It mainly deals with Voice User Interfaces - VUI (also called Spoken Dialogue Interfaces - SDIs) but also includes issues on multimodal interfaces, involving speech and other modalities. Human-machine interaction in the area of robotics raises certain challenges that respective interface design for other domains ignores. Robots, and more importantly, service robots, execute actual tasks based on plans and scenarios that, in effect, layout their usage. The completion requirements, as well as the workflow needed for those tasks, form a very significant set of rules that affect and sometimes govern the interaction between the user and the machine. Those rules are embedded to the design of the interaction system and, together with the communicated context, provide the sets and constraints that the system is based upon. These constraints can be realized in the form of specific dialogue management design, dialogue flow, belief states models, verification, disambiguation, and grounding techniques as well as more subtly use of specific speech and dialogue acts -- all the above affect all stages of the lifecycle. Moreover, significant merit goes to usability, and the techniques for its evaluation, issues that are of the utmost importance when any user-machine interface is designed and assessed.",
+isbn="978-3-030-49282-3"
+}
+

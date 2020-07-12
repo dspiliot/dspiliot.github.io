@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-030-50267-6_20,
+author="Spiliotopoulos, Dimitris
+and Kotis, Konstantinos
+and Vassilakis, Costas
+and Margaris, Dionisis",
+editor="Rauterberg, Matthias",
+title="Semantics-Driven Conversational Interfaces for Museum Chatbots",
+booktitle="Culture and Computing",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="255--266",
+abstract="This work addresses the challenges of creating usable and personalized conversational interfaces for broad, yet applicable, domains that require user engagement and learning, such as museum chatbots. Whether the chatbots are standalone or coupled with virtual agents or real-life robots, the functional requirements for interaction that targets specific learning aspects would be expected to be more or less similar. This work reports on experimental semantics-driven conversational interface design for chatbots in museum settings, targeting visitors to converse about exhibits and learn information about their style, the artists, the era, and other aspects related to them. Depending on the semantics (presentation, learning, exploration), chatbot scenarios were designed and evaluated by participants in a formative evaluation. The evaluation show that user requirement perception manifests in expectations on the semantic level, instead of just the technical level. The results between the scenarios are compared to see how the semantics considered for the design transferred to the implementation and to the user perception.",
+isbn="978-3-030-50267-6"
+}
+

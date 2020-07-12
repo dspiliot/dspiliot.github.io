@@ -4,5 +4,6 @@ and Spiliotopoulos, Dimitris",
 title="Prosodic Realisation of Topics",
 booktitle="Proceedings of the 19th International Symposium on Theoretical and Applied Linguistics, Thessaloniki, 3-5 April 2009, Greece",
 pages="1--9",
+doi = {10.26262/istal.v19i0.5519},
 }
 

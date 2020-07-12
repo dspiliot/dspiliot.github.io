@@ -1,0 +1,17 @@
+@InProceedings{10.1007/978-3-030-50267-6_22,
+author="Varitimiadis, Savvas
+and Kotis, Konstantinos
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Margaris, Dionisis",
+editor="Rauterberg, Matthias",
+title="``Talking'' Triples to Museum Chatbots",
+booktitle="Culture and Computing",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="281--299",
+abstract="The paper presents recent work on the design and development of AI chatbots for museums using Knowledge Graphs (KGs). The utilization of KGs as a key technology for implementing chatbots raises not only issues related to the representation and structuring of exhibits' knowledge in suitable formalism and models, but also issues related to the translation of natural language dialogues to and from the selected technology for the formal representation and structuring of information and knowledge. Moreover, such a translation must be as transparent as possible to visitors, towards a realistic human-like question-answering process. The paper reviews and evaluates a number of recent approaches for the use of KGs in developing AI chatbots, as well as key tools that provide solutions for natural language translation and the querying of Knowledge Bases and Linked Open Data sources. This evaluation aims to provide answers to issues that are identified within the proposed MuBot approach for designing and implementing AI chatbots for museums. The paper also presents Cretan MuBot, the first experimental KG/Ontology-based AI chatbot of the MuBot Platform, which is under development in the Heracleum Archaeological Museum.",
+isbn="978-3-030-50267-6"
+}
+
