@@ -1,0 +1,17 @@
+
+@Article{a13070174,
+AUTHOR = {Margaris, Dionisis and Spiliotopoulos, Dimitris and Karagiorgos, Gregory and Vassilakis, Costas},
+TITLE = {An Algorithm for Density Enrichment of Sparse Collaborative Filtering Datasets Using Robust Predictions as Derived Ratings},
+JOURNAL = {Algorithms},
+VOLUME = {13},
+YEAR = {2020},
+NUMBER = {7},
+ARTICLE-NUMBER = {174},
+URL = {https://www.mdpi.com/1999-4893/13/7/174},
+ISSN = {1999-4893},
+ABSTRACT = {Collaborative filtering algorithms formulate personalized recommendations for a user, first by analysing already entered ratings to identify other users with similar tastes to the user (termed as near neighbours), and then using the opinions of the near neighbours to predict which items the target user would like. However, in sparse datasets, too few near neighbours can be identified, resulting in low accuracy predictions and even a total inability to formulate personalized predictions. This paper addresses the sparsity problem by presenting an algorithm that uses robust predictions, that is predictions deemed as highly probable to be accurate, as derived ratings. Thus, the density of sparse datasets increases, and improved rating prediction coverage and accuracy are achieved. The proposed algorithm, termed as CFDR, is extensively evaluated using (1) seven widely-used collaborative filtering datasets, (2) the two most widely-used correlation metrics in collaborative filtering research, namely the Pearson correlation coefficient and the cosine similarity, and (3) the two most widely-used error metrics in collaborative filtering, namely the mean absolute error and the root mean square error. The evaluation results show that, by successfully increasing the density of the datasets, the capacity of collaborative filtering systems to formulate personalized and accurate recommendations is considerably improved.},
+DOI = {10.3390/a13070174}
+}
+
+
+
