@@ -1,0 +1,17 @@
+
+@Article{info11080381,
+AUTHOR = {Spiliotopoulos, Dimitris and Makri, Eleni and Vassilakis, Costas and Margaris, Dionisis},
+TITLE = {Multimodal Interaction: Correlates of Learners’ Metacognitive Skill Training Negotiation Experience},
+JOURNAL = {Information},
+VOLUME = {11},
+YEAR = {2020},
+NUMBER = {8},
+ARTICLE-NUMBER = {381},
+URL = {https://www.mdpi.com/2078-2489/11/8/381},
+ISSN = {2078-2489},
+ABSTRACT = {Metacognitive training reflects knowledge, consideration and control over decision-making and task performance evident in any social and learning context. Interest in understanding the best account of effective (win-win) negotiation emerges in different social and cultural interactions worldwide. The research presented in this paper explores an extended study of metacognitive training system during negotiation using an embodied conversational agent. It elaborates on the findings from the usability evaluation employing 40 adult learners pre- and postinteraction with the system, reporting on the usability and metacognitive, individual- and community-level related attributes. Empirical evidence indicates (a) higher levels of self-efficacy, individual readiness to change and civic action after user-system experience, (b) significant and positive direct associations between self-efficacy, self-regulation, interpersonal and problem-solving skills, individual readiness to change, mastery goal orientation and civic action pre- and postinteraction and (c) gender differences in the perceptions of system usability performance according to country of origin. Theoretical and practical implications in tandem with future research avenues are discussed in light of embodied conversational agent metacognitive training in negotiation.},
+DOI = {10.3390/info11080381}
+}
+
+
+
