@@ -1,0 +1,20 @@
+@InProceedings{10.1007/978-3-030-60149-2_10,
+author="Spiliotopoulos, Dimitris
+and Poulopoulos, Vassilis
+and Margaris, Dionisis
+and Makri, Eleni
+and Vassilakis, Costas",
+editor="Stephanidis, Constantine
+and Antona, Margherita
+and Gao, Qin
+and Zhou, Jia",
+title="MOOC Accessibility from the Educator Perspective",
+booktitle="HCI International 2020 -- Late Breaking Papers: Universal Access and Inclusive Design",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="114--125",
+abstract="This work presents the universal access design principles and methods for natural language communication design in e-learning for the disabled. It unfolds a theoretical perspective to the design-for-all methodology and provides a framework description for technologies for creating accessible content for educational content communication. Main concerns include the problem identification of design issues for universal accessibility of spoken material, the primary pedagogical aspects that such content implementation should follow upon, as well as look into the state of the most popular e-learning platforms for which educators create and communicate educational content in an e-learning environment. References to massive open online course platform types of content that exist at the moment are examined in order to understand the challenges of bridging the gap between the modern design of rich courses and universal accessibility. The paper looks into the existing technologies for accessibility and a frame for analysis, including methodological and design issues, available resources and implementation using the existing technologies for accessibility and the perception of the designer as well as the user standpoint. Finally, a study to inform and access how potential educators may perceive the accessibility factor shows that accessible content is a major requirement toward a successful path to universally accessible e-learning.",
+isbn="978-3-030-60149-2"
+}
+
