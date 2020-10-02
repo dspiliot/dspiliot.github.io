@@ -1,0 +1,23 @@
+@InProceedings{10.1007/978-3-030-60152-2_41,
+author="Margaris, Dionisis
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Karagiorgos, Gregory",
+editor="Stephanidis, Constantine
+and Salvendy, Gavriel
+and Wei, June
+and Yamamoto, Sakae
+and Mori, Hirohiko
+and Meiselwitz, Gabriele
+and Nah, Fiona Fui-Hoon
+and Siau, Keng",
+title="A User Interface for Personalized Web Service Selection in Business Processes",
+booktitle="HCI International 2020 -- Late Breaking Papers: Interaction, Knowledge and Social Media",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="560--573",
+abstract="Nowadays, due to the huge volume of information available on the web, the need for personalization is more than necessary. Choosing the right information for each user is as important as the way this information is presented to him or her. Currently, user-triggered recommendation requests for web services are implemented as an automatic recommendation based on parametric computation. This work reports on a specialized user interface for business processes, where writing code entails invocation of business process information. The paper presents the user interface design for Personalized Web Service Selection in Business Process scenario execution and the user evaluation by business process engineers.",
+isbn="978-3-030-60152-2"
+}
+
