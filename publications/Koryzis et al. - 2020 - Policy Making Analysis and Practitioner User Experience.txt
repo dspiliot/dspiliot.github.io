@@ -1,0 +1,23 @@
+@InProceedings{10.1007/978-3-030-60114-0_29,
+author="Koryzis, Dimitris
+and Fitsilis, Fotios
+and Spiliotopoulos, Dimitris
+and Theocharopoulos, Theocharis
+and Margaris, Dionisis
+and Vassilakis, Costas",
+editor="Stephanidis, Constantine
+and Marcus, Aaron
+and Rosenzweig, Elizabeth
+and Rau, Pei-Luen Patrick
+and Moallem, Abbas
+and Rauterberg, Matthias",
+title="Policy Making Analysis and Practitioner User Experience",
+booktitle="HCI International 2020 - Late Breaking Papers: User Experience Design and Case Studies",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="415--431",
+abstract="This article presents the work on social media analysis-driven policy-making platforms that are powered by classic social media analysis technologies, such as policy modelling, linguistic analysis, opinion mining, sentiment analysis and information visualization. The approach examines the user design perspective towards user experience in policymaking for all the innovative modules used. The technology behind such complex task is presented while the resulting platform is appraised on the potential for real world application. The findings drive the development and the requirements for the summative usability assessment tests. We also report on the level the practitioners adopted the policy formulation tools.",
+isbn="978-3-030-60114-0"
+}
+
