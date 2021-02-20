@@ -1,0 +1,12 @@
+@article{Margaris2020_BPEL,
+author = {Margaris, Dionisis and Spiliotopoulos, Dimitris and Kardiasmenos, Apostolos and Pantazopoulos, Dimitrios},
+doi = {10.1504/IJWET.2020.113068},
+issn = {1476-1289},
+journal = {International Journal of Web Engineering and Technology},
+number = {3},
+pages = {307--332},
+title = {{An integer programming-based algorithm for optimising the WS-BPEL scenario execution adaptation process}},
+url = {http://www.inderscience.com/link.php?id=113068},
+volume = {15},
+year = {2020}
+}

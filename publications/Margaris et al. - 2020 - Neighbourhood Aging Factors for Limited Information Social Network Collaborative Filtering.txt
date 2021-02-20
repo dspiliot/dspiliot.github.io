@@ -1,0 +1,11 @@
+@InProceedings{margaris_2020_asonam,
+  author    = {Dionisis Margaris and Dimitris Spiliotopoulos and Costas Vassilakis},
+  booktitle = {Proceedings of the 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM-2020)},
+  title     = {Neighbourhood Aging Factors for Limited Information Social Network Collaborative Filtering},
+  year      = {2020},
+  month     = dec,
+  pages     = "877--883",
+  abstract  = {Businesses benefit by recommender systems since the latter analyse reviews and ratings of products and services, providing useful insight of the buyer perception of them. One of the most popular, successful and easy-to-build recommender system techniques is collaborative filtering. Recommender systems take into account social network information, to achieve more accurate predictions. Unfortunately, however, many applications do not have full access to such “rich” information, so they have to properly manage the limited information, which, in the worst case, is comprised of just the user relationships in the social network. A social network collaborative filtering system combines the two sources of information, in order to formulate rat-ing predictions which will lead to recommendations. However, the vast majority of users change their tastes, as time goes by, a phenomenon termed as concept drift, and in order for a recommender system to be successful, it must effectively face this problem. In this paper, we present a social network collaborative filtering rating prediction algorithm that tunes the weight-importance of each source of information based on the age of the information. The proposed algorithm considerably improves rating prediction accuracy, while it can be easily integrated in social network collaborative filtering recommender systems.},
+  keywords  = {Social Networks, Personalisation, Recommender Systems Collaborative Filtering, Concept Drift, Business, Prediction Accuracy},
+  timestamp = {2020-12-11},
+}

@@ -1,0 +1,11 @@
+@InProceedings{spiliotopoulos_2020_asonam,
+  author    = {Dimitris Spiliotopoulos and Costas Vassilakis and Dionisis Margaris},
+  booktitle = {Proceedings of the 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM-2020)},
+  title     = {On Recommending Safe Travel Periods to High Attack Risk Destinations},
+  year      = {2020},
+  month     = dec,
+  pages     = "854--861",
+  abstract  = {Terrorism is a major disincentive to tourism. It affects both a country or area's tourists as well as local residents and staff. On the one hand, the prospective tourist is likely to avoid traveling to a high-risk country due to safety concerns, and thus lose the opportunity to visit it, while, on the other hand, the tourism of the country would decline. This work solves the above-mentioned problem by (1) showing that reasonably safe visits to high-risk countries can be predicted with high precision, using limited information, including data on attacks and fatalities from recent years, which is widely available, and (2) creating an algorithm that recommends these periods to potential travellers. The findings of this work would be useful for tourists, citizens, businesses and operators, as well as related stakeholders.},
+  keywords  = {Terrorist Attacks, Safety Perception, Tourism, Risk Calculation, Safety Prediction, Recommendations},
+  timestamp = {2020-12-11},
+}
