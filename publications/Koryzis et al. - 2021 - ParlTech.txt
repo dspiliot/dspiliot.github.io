@@ -1,0 +1,17 @@
+
+@Article{bdcc5010015,
+AUTHOR = {Koryzis, Dimitris and Dalas, Apostolos and Spiliotopoulos, Dimitris and Fitsilis, Fotios},
+TITLE = {ParlTech: Transformation Framework for the Digital Parliament},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {5},
+YEAR = {2021},
+NUMBER = {1},
+ARTICLE-NUMBER = {15},
+URL = {https://www.mdpi.com/2504-2289/5/1/15},
+ISSN = {2504-2289},
+ABSTRACT = {Societies are entering the age of technological disruption, which also impacts governance institutions such as parliamentary organizations. Thus, parliaments need to adjust swiftly by incorporating innovative methods into their organizational culture and novel technologies into their working procedures. Inter-Parliamentary Union World e-Parliament Reports capture digital transformation trends towards open data production, standardized and knowledge-driven business processes, and the implementation of inclusive and participatory schemes. Nevertheless, there is still a limited consensus on how these trends will materialize into specific tools, products, and services, with added value for parliamentary and societal stakeholders. This article outlines the rapid evolution of the digital parliament from the user perspective. In doing so, it describes a transformational framework based on the evaluation of empirical data by an expert survey of parliamentarians and parliamentary administrators. Basic sets of tools and technologies that are perceived as vital for future parliamentary use by intra-parliamentary stakeholders, such as systems and processes for information and knowledge sharing, are analyzed. Moreover, boundary conditions for development and implementation of parliamentary technologies are set and highlighted. Concluding recommendations regarding the expected investments, interdisciplinary research, and cross-sector collaboration within the defined framework are presented.},
+DOI = {10.3390/bdcc5010015}
+}
+
+
+
