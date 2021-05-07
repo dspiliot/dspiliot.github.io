@@ -1,0 +1,19 @@
+
+
+@Article{Margaris_sncs_2021,
+  author    = {Margaris, Dionisis and Spiliotopoulos, Dimitris and Karagiorgos, Gregory and Vassilakis, Costas and Vasilopoulos, Dionysios},
+  journal   = {SN Computer Science},
+  title     = {{On Addressing the Low Rating Prediction Coverage in Sparse Datasets Using Virtual Ratings}},
+  year      = {2021},
+  issn      = {2661-8907},
+  month     = {May},
+  number    = {4},
+  pages     = {255},
+  volume    = {2},
+  abstract  = {Collaborative filtering-based recommendation systems consider users' likings and interests, articulated as ratings within a database to offer personalized recommendations. Unfortunately, many collaborative filtering datasets exhibit the ``grey sheep'' phenomenon, a state where no near neighbours can be found for certain users. This phenomenon is extremely frequent in datasets where users, on average, have rated only a small percentage of the available items, which are termed as sparse datasets. This paper addresses the ``grey sheep'' problem by proposing the virtual ratings concept and introduces an algorithm for virtual rating creation on the basis of actual ratings. The novelty behind this concept is that the introduction of the virtual ratings effectively reduces the user--item rating matrix sparsity, thus alleviating the aforementioned problem. The proposed algorithm, which is termed as CFVR, has been extensively evaluated and the results show that it achieves to considerably improve the capability of a collaborative filtering system to formulate tailored recommendations for each user, when operating on sparse datasets, while at the same time improves rating prediction quality.},
+  day       = {06},
+  doi       = {10.1007/s42979-021-00668-8},
+  keywords  = {Recommender systems, Collaborative filtering, Virtual ratings, Sparse datasets, Pearson correlation coefficient, Cosine similarity, Evaluation},
+  url       = {https://doi.org/10.1007/s42979-021-00668-8},
+}
+
