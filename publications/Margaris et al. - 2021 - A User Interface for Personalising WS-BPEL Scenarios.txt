@@ -1,0 +1,17 @@
+@InProceedings{10.1007/978-3-030-77750-0_25,
+author="Margaris, Dionisis
+and Spiliotopoulos, Dimitris
+and Vasilopoulos, Dionysios
+and Vassilakis, Costas",
+editor="Nah, Fiona Fui-Hoon
+and Siau, Keng",
+title="A User Interface for Personalising WS-BPEL Scenarios",
+booktitle="HCI in Business, Government and Organizations",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="399--416",
+abstract="Due to the huge volume of web services available, both locally and in the cloud, the performance of users and systems need significant research attention. Since WS-BPEL is the dominant language for orchestrating individual web services into business processes, by composing WS-BPEL scripts/scenarios, graphical notations facilitating WS-BPEL design can be extremely useful. Current user interfaces allow WS-BPEL designers not only to invoke selected web services, but also to explicitly ask for recommendations. Then, the user interface appends the services achieving the highest score, according to the attributes' importance, set by the designer, to their WS-BPEL scenario. However, since the final selection is produced automatically, rather than relying on the designers' choices, many times, from a personalisation point of view, the adaptation fails. This work reports on the design, development and user evaluation of a user interface that incorporates functionalities that support the designers' selection performance, thereby upgrading the personalisation level of the WS-BPEL scenarios, as well as the success of the adaptation.",
+isbn="978-3-030-77750-0"
+}
+

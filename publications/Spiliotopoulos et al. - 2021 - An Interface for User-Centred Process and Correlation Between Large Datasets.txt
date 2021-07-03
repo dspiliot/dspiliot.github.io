@@ -1,0 +1,21 @@
+@InProceedings{10.1007/978-3-030-78221-4_32,
+author="Spiliotopoulos, Dimitris
+and Giannakopoulos, $\Tau$heodoros
+and Vassilakis, Costas
+and Wallace, Manolis
+and Lantzouni, Marina
+and Poulopoulos, Vassilis
+and Margaris, Dionisis",
+editor="Soares, Marcelo M.
+and Rosenzweig, Elizabeth
+and Marcus, Aaron",
+title="An Interface for User-Centred Process and Correlation Between Large Datasets",
+booktitle="Design, User Experience, and Usability:  UX Research and Design",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="477--494",
+abstract="Standard database query systems are designed to process data on a single installation only, and do not provide optimal solutions for cases that data from multiple sources need to be queried. In these cases, the sources may have different data schemata, data representations etc., necessitating extensive coding and data transformations to retrieve partial results and combine them to reach the desired outcome. Differences in schemata and representations may be subtle and remain unnoticed, leading to the production of erroneous results. The goal of this paper is to present an easy-to-use solution for the end users, enabling them to query data from a given set of databases through a single user interface. This user interface allows users to visualize database contents and query results, while facilities for uploading and validating the data are also accommodated. To demonstrate the applicability of our approach, a use case is presented where data from two different sources are uploaded into the system and thereafter the data from the two databases can be utilized in tandem. The usability evaluation involved software developers in free evaluation scenarios.",
+isbn="978-3-030-78221-4"
+}
+
