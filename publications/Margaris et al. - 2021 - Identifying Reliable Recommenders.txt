@@ -1,0 +1,18 @@
+@Inbook{Margaris2021,
+author="Margaris, Dionisis
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas",
+editor="{\c{C}}ak{\i}rta{\c{s}}, Mehmet
+and Ozdemir, Mehmet Kemal",
+title="Identifying Reliable Recommenders in Users' Collaborating Filtering and Social Neighbourhoods",
+bookTitle="Big Data and Social Media Analytics: Trending Applications",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="51--76",
+abstract="Recommender systems increasingly use information sourced from social networks to improve the quality of their recommendations. However, both recommender systems and social networks exhibit phenomena under which information for certain users or items is limited, such as the cold start and the grey sheep phenomena in collaborative filtering systems and the isolated users in social networks. In the context of a social network-aware collaborative filtering, where the collaborating filtering- and social network--based neighbourhoods are of varying density and utility for recommendation formulation, the ability to identify the most reliable recommenders from each neighbourhood for each user and appropriately combine the information associated with them in the recommendation computation process can significantly improve the quality and accuracy of the recommendations offered. In this chapter, we report on our extensions on earlier works in this area which comprise of (1) the development of an algorithm for discovering the most reliable recommenders of a social network recommender system and (2) the development and evaluation of a new collaborative filtering algorithm that synthesizes the opinions of a user's identified recommenders to generate successful recommendations for the particular user. The proposed algorithm introduces significant gains in rating prediction accuracy (4.9{\%} on average, in terms of prediction MAE reduction and 4.2{\%} on average, in terms of prediction RMSE reduction) and outperforms other algorithms. The proposed algorithm, by design, utilizes only basic information from the collaborative filtering domain (user--item ratings) and the social network domain (user relationships); therefore, it can be easily applied to any social network recommender system dataset.",
+isbn="978-3-030-67044-3",
+doi="10.1007/978-3-030-67044-3_3",
+url="https://doi.org/10.1007/978-3-030-67044-3_3"
+}
+

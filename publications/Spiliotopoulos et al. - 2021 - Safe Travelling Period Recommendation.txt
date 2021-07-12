@@ -1,0 +1,18 @@
+@Inbook{Spiliotopoulos2021,
+author="Spiliotopoulos, Dimitris
+and Margaris, Dionisis
+and Vassilakis, Costas",
+editor="{\c{C}}ak{\i}rta{\c{s}}, Mehmet
+and Ozdemir, Mehmet Kemal",
+title="Safe Travelling Period Recommendation to High Attack Risk European Destinations Based on Past Attack Information",
+bookTitle="Big Data and Social Media Analytics: Trending Applications",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="77--100",
+abstract="Terrorism is a significant deterrent for tourism. It affects both visitors and local citizens and personnel of a country or area. On one hand, the potential visitor will probably avoid travelling to a high attack risk country, due to safety reasons, hence will miss the opportunity to visit it, and, on the other hand, the country's tourism will decline. This work addresses the aforementioned problem by (1) showing that relatively safe visiting periods for high attack risk European countries can be predicted with high accuracy, using limited information, comprising of attack and fatality data from the past years, which are widely available, and (2) developing an algorithm that recommends relatively safe periods to potential travellers.",
+isbn="978-3-030-67044-3",
+doi="10.1007/978-3-030-67044-3_4",
+url="https://doi.org/10.1007/978-3-030-67044-3_4"
+}
+
