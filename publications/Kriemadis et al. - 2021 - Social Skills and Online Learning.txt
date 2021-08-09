@@ -1,0 +1,18 @@
+@Inbook{Kriemadis2021,
+author="Kriemadis, Athanasios 
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Kapnisi, Dimitra",
+editor="Loureiro, Sandra Maria Correia
+and Guerreiro, João",
+title="Social Skills and Online Learning",
+bookTitle="Handbook of Research on Developing a Post-Pandemic Paradigm for Virtual Technologies in Higher Education",
+year="2021",
+publisher="IGI Global",
+pages="261--281",
+abstract="The concept of online teaching and learning is widely adopted by universities due to the pandemic of COVID-19, which forced them to shift from blending learning (including both direct and remote education) to exclusive online education. Technology has provided a multitude of tools, which can prove very useful in the hands of people who want to serve such a great purpose as education. During the days of the pandemic, where people are isolated, virtual community and virtual learning technology brings people together to experience a sense of educational community in the virtual world. This chapter introduces the reader to the importance for social skill training of the learning communities during times that online learning is the sole type of education, exploring methodologies, tools, and practices that can be used to counterbalance the deficiencies introduced by distance learning methods regarding social skill development.",
+isbn="9781799869634",
+doi="10.4018/978-1-7998-6963-4.ch013",
+url="https://doi.org/10.4018/978-1-7998-6963-4.ch013"
+}
+
