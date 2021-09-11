@@ -1,0 +1,17 @@
+
+@Article{app11188369,
+AUTHOR = {Margaris, Dionisis and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {Augmenting Black Sheep Neighbour Importance for Enhancing Rating Prediction Accuracy in Collaborative Filtering},
+JOURNAL = {Applied Sciences},
+VOLUME = {11},
+YEAR = {2021},
+NUMBER = {18},
+ARTICLE-NUMBER = {8369},
+URL = {https://www.mdpi.com/2076-3417/11/18/8369},
+ISSN = {2076-3417},
+ABSTRACT = {In this work, an algorithm for enhancing the rating prediction accuracy in collaborative filtering, which does not need any supplementary information, utilising only the users’ ratings on items, is presented. This accuracy enhancement is achieved by augmenting the importance of the opinions of ‘black sheep near neighbours’, which are pairs of near neighbours with opinion agreement on items that deviates from the dominant community opinion on the same item. The presented work substantiates that the weights of near neighbours can be adjusted, based on the degree to which the target user and the near neighbour deviate from the dominant ratings for each item. This concept can be utilized in various other CF algorithms. The experimental evaluation was conducted on six datasets broadly used in CF research, using two user similarity metrics and two rating prediction error metrics. The results show that the proposed technique increases rating prediction accuracy both when used independently and when combined with other CF algorithms. The proposed algorithm is designed to work without the requirements to utilise any supplementary sources of information, such as user relations in social networks and detailed item descriptions. The aforesaid point out both the efficacy and the applicability of the proposed work.},
+DOI = {10.3390/app11188369}
+}
+
+
+
