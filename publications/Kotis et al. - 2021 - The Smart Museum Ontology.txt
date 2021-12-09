@@ -1,0 +1,17 @@
+
+@Article{iot2040037,
+AUTHOR = {Zachila, Konstantina and Kotis, Konstantinos and Paparidis, Evangelos and Ladikou, Stamatia and Spiliotopoulos, Dimitris},
+TITLE = {Facilitating Semantic Interoperability of Trustworthy IoT Entities in Cultural Spaces: The Smart Museum Ontology},
+JOURNAL = {IoT},
+VOLUME = {2},
+YEAR = {2021},
+NUMBER = {4},
+PAGES = {741--760},
+URL = {https://www.mdpi.com/2624-831X/2/4/37},
+ISSN = {2624-831X},
+ABSTRACT = {Nowadays, cultural spaces (e.g., museums and archaeological sites) are interested in adding intelligence in their ecosystem by deploying different types of smart applications such as automated environmental monitoring, energy saving, and user experience optimization. Such an ecosystem is better realized through semantics in order to efficiently represent the required knowledge for facilitating interoperability among different application domains, integration of data, and inference of new knowledge as insights into what may have not been observed at first sight. This paper reports on our recent efforts for the engineering of a smart museum (SM) ontology that meets the following objectives: (a) represent knowledge related to trustworthy IoT entities that &ldquo;live&rdquo; and are deployed in a SM, i.e., things, sensors, actuators, people, data, and applications; (b) deal with the semantic interoperability and integration of heterogeneous SM applications and data; (c) represent knowledge related to museum visits and visitors toward enhancing their visiting experience; (d) represent knowledge related to smart energy saving; (e) represent knowledge related to the monitoring of environmental conditions in museums; and (f) represent knowledge related to the space and location of exhibits and collections. The paper not only contributes a novel SM ontology, but also presents the updated HCOME methodology for the agile, human-centered, collaborative and iterative engineering of living, reused, and modular ontologies.},
+DOI = {10.3390/iot2040037}
+}
+
+
+
