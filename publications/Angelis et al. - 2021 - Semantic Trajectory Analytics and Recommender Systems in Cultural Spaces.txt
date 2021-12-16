@@ -1,0 +1,17 @@
+
+@Article{bdcc5040080,
+AUTHOR = {Angelis, Sotiris and Kotis, Konstantinos and Spiliotopoulos, Dimitris},
+TITLE = {Semantic Trajectory Analytics and Recommender Systems in Cultural Spaces},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {5},
+YEAR = {2021},
+NUMBER = {4},
+ARTICLE-NUMBER = {80},
+URL = {https://www.mdpi.com/2504-2289/5/4/80},
+ISSN = {2504-2289},
+ABSTRACT = {Semantic trajectory analytics and personalised recommender systems that enhance user experience are modern research topics that are increasingly getting attention. Semantic trajectories can efficiently model human movement for further analysis and pattern recognition, while personalised recommender systems can adapt to constantly changing user needs and provide meaningful and optimised suggestions. This paper focuses on the investigation of open issues and challenges at the intersection of these two topics, emphasising semantic technologies and machine learning techniques. The goal of this paper is twofold: (a) to critically review related work on semantic trajectories and knowledge-based interactive recommender systems, and (b) to propose a high-level framework, by describing its requirements. The paper presents a system architecture design for the recognition of semantic trajectory patterns and for the inferencing of possible synthesis of visitor trajectories in cultural spaces, such as museums, making suggestions for new trajectories that optimise cultural experiences.},
+DOI = {10.3390/bdcc5040080}
+}
+
+
+
