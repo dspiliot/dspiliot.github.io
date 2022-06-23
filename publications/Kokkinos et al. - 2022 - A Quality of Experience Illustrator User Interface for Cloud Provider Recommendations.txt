@@ -1,0 +1,17 @@
+@InProceedings{10.1007/978-3-031-06417-3_42,
+author="Kokkinos, Panagiotis
+and Margaris, Dionisis
+and Spiliotopoulos, Dimitris",
+editor="Stephanidis, Constantine
+and Antona, Margherita
+and Ntoa, Stavroula",
+title="A Quality of Experience Illustrator User Interface for Cloud Provider Recommendations",
+booktitle="HCI International 2022",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="308--315",
+abstract="Cloud infrastructures handle processing and storage options for a multitude of applications and services. Expert users are tasked to verify assigned resources and select optimal combinations to accommodate the infrastructure operations. For the technical users (engineers) in this specialised environment, user intent is not modelled in the traditional HCI application sense, but rather by intentionally combining the functional and non-functional requirements of the infrastructure through provider recommendations that are used as features. This work reports on the design, development and evaluation of a user interface that enable intent transfer from the specialised technical level of the expert user to the provider recommendation evaluation by the same users.",
+isbn="978-3-031-06417-3"
+}
+
