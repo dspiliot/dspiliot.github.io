@@ -1,0 +1,17 @@
+
+@Article{info13060302,
+AUTHOR = {Margaris, Dionisis and Vassilakis, Costas and Spiliotopoulos, Dimitris},
+TITLE = {On Producing Accurate Rating Predictions in Sparse Collaborative Filtering Datasets},
+JOURNAL = {Information},
+VOLUME = {13},
+YEAR = {2022},
+NUMBER = {6},
+ARTICLE-NUMBER = {302},
+URL = {https://www.mdpi.com/2078-2489/13/6/302},
+ISSN = {2078-2489},
+ABSTRACT = {The typical goal of a collaborative filtering algorithm is the minimisation of the deviation between rating predictions and factual user ratings so that the recommender system offers suggestions for appropriate items, achieving a higher prediction value. The datasets on which collaborative filtering algorithms are applied vary in terms of sparsity, i.e., regarding the percentage of empty cells in the user&ndash;item rating matrices. Sparsity is an important factor affecting rating prediction accuracy, since research has proven that collaborative filtering over sparse datasets exhibits a lower accuracy. The present work aims to explore, in a broader context, the factors related to rating prediction accuracy in sparse collaborative filtering datasets, indicating that recommending the items that simply achieve higher prediction values than others, without considering other factors, in some cases, can reduce recommendation accuracy and negatively affect the recommender system&rsquo;s success. An extensive evaluation is conducted using sparse collaborative filtering datasets. It is found that the number of near neighbours used for the prediction formulation, the rating average of the user for whom the prediction is generated and the rating average of the item concerning the prediction can indicate, in many cases, whether the rating prediction produced is reliable or not.},
+DOI = {10.3390/info13060302}
+}
+
+
+
