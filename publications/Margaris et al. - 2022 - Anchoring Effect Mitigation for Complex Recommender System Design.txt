@@ -1,0 +1,23 @@
+@InProceedings{10.1007/978-3-031-17615-9_29,
+author="Margaris, Dionisis
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas",
+editor="Kurosu, Masaaki
+and Yamamoto, Sakae
+and Mori, Hirohiko
+and Soares, Marcelo M.
+and Rosenzweig, Elizabeth
+and Marcus, Aaron
+and Rau, Pei-Luen Patrick
+and Harris, Don
+and Li, Wen-Chin",
+title="Anchoring Effect Mitigation for Complex Recommender System Design",
+booktitle="HCI International 2022 - Late Breaking Papers. Design, User Experience and Interaction",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="424--436",
+abstract="The adoption of a recommender system depends mostly on the accuracy of the computation of the rating predictions from the users. The user rating prediction accuracy has been a main topic in recent research. Collaborative filtering is one of the most prevalent algorithms for rating prediction, where ratings from close users, Near Neighbours, are used for the prediction of item ratings. For the collaborating filtering algorithm implementation, researchers utilise a large set of parameters, such as the number of close users and user proximity calculation metrics, to automatically determine these users, resulting in time-consuming decision conflicts over the most appropriate selections. This paper explores an approach that enables scientists to make informed selections for the metrics, parameters, and setups, using a prototype user interface with preloaded tools for the scientist to explore close users and attributes. The end users may create simulations to gain insight into the rating prediction process. The user study verifies that the designer anchoring effect of conflict of decision may be mitigated using the proposed approach, enabling transparency for the recommendations and informed decisions from the simulations.",
+isbn="978-3-031-17615-9"
+}
+
