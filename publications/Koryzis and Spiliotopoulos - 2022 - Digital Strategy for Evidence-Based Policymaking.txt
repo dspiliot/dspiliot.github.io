@@ -1,0 +1,17 @@
+@Inbook{Koryzis_ELF_2022,
+author="Koryzis, Dimitris 
+and Spiliotopoulos, Dimitris",
+editor="Fitsilis, Fotios
+and Mikros, George",
+title="Digital Strategy for Evidence-Based Policymaking in Parliament",
+bookTitle="Smart Parliaments Data-Driven Democracy",
+year="2022",
+publisher="European Liberal Forum",
+pages="81--86",
+abstract="In this digital era, public organisations, such as parliaments, are required to develop digital strategies to transform their operations. This strategy should use digital technologies that provide added value for parliamentary users involved in the policymaking process. Parliaments can support evidence-based policymaking (EBP) decisions in the adoption, formulation, and evaluation of pub- lic policies, using the knowledge acquired during parliamentary life cycles.
+This chapter proposes the adoption of digital tools in all decision-making stages in parliament. A roadmap is given, set in the context of a user-centric digital transformation framework and its digital technologies. Aspects that are analysed include the boundary conditions for the creation of an EBP digital environment.",
+isbn="978-2-39067-036-0",
+doi="10.5321/ELFTPS4",
+url="https://liberalforum.eu/publication/smart-parliaments-data-driven-democracy/"
+}
+
