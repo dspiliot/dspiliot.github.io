@@ -1,0 +1,23 @@
+@InProceedings{10.1007/978-3-031-22131-6_48,
+author="Spiliotopoulos, Dimitris
+and Margaris, Dionisis
+and Koutrakis, Kostas N.
+and Philippopoulos, Panos I.
+and Vassilakis, Costas",
+editor="Meiselwitz, Gabriele
+and Moallem, Abbas
+and Zaphiris, Panayiotis
+and Ioannou, Andri
+and Sottilare, Robert A.
+and Schwarz, Jessica
+and Fang, Xiaowen",
+title="Persona Finetuning for Online Gaming Using Personalisation Techniques",
+booktitle="HCI International 2022 - Late Breaking Papers. Interaction in New Media, Learning and Games",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="656--668",
+abstract="Automatic persona generation has been shown to have specific measurable benefits for application creators and users. In most situations, personas are adequately descriptive and diversified to achieve user type accuracy and coverage. For specific market segments, such as online gaming, using personas may accurately describe existing user base but not changing habit and need that are introduced by the fluidity of the offerings and the delivery methods. Changes in the ways that applications are marketed, such as new payment methods, for example, subscription models, pay-to-play and pay-to-win, payment-driven-gamification, seriously affect user needs and result in direct impact on user acceptance. This work utilises structured user needs from online gaming players to augment personas using personalisation techniques. The personas are finetuned and de-diversified to result in concise personas, based on user needs that successfully convey information for creators and users alike.",
+isbn="978-3-031-22131-6"
+}
+
