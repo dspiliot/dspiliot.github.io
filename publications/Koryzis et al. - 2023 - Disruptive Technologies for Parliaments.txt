@@ -1,0 +1,17 @@
+
+@Article{fi15020066,
+AUTHOR = {Koryzis, Dimitris and Margaris, Dionisis and Vassilakis, Costas and Kotis, Konstantinos and Spiliotopoulos, Dimitris},
+TITLE = {Disruptive Technologies for Parliaments: A Literature Review},
+JOURNAL = {Future Internet},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {2},
+ARTICLE-NUMBER = {66},
+URL = {https://www.mdpi.com/1999-5903/15/2/66},
+ISSN = {1999-5903},
+ABSTRACT = {Exploitation and use of disruptive technologies, such as the Internet of Things, recommender systems, and artificial intelligence, with an ambidextrous balance, are a challenge, nowadays. Users of the technologies, and stakeholders, could be part of a new organisational model that affects business procedures and processes. Additionally, the use of inclusive participatory organisational models is essential for the effective adoption of these technologies. Such models aim to transform organisational structures, as well. Public organisations, such as the parliament, could utilise information systems&rsquo; personalisation techniques. As there are a lot of efforts to define the framework, the methodology, the techniques, the platforms, and the suitable models for digital technologies adoption in public organisations, this paper aims to provide a literature review for disruptive technology inclusive use in parliaments. The review emphasises the assessment of the applicability of the technologies, their maturity and usefulness, user acceptance, their performance, and their correlation to the adoption of relevant innovative, inclusive organisational models. It is argued that the efficient digital transformation of democratic institutions, such as parliaments, with the use of advanced e-governance tools and disruptive technologies, requires strategic approaches for adoption, acceptance, and inclusive service adaptation.},
+DOI = {10.3390/fi15020066}
+}
+
+
+
