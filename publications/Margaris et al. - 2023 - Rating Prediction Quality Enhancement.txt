@@ -1,0 +1,16 @@
+@Article{bdcc7020059,
+AUTHOR = {Margaris, Dionisis and Vassilakis, Costas and Spiliotopoulos, Dimitris and Ougiaroglou, Stefanos},
+TITLE = {Rating Prediction Quality Enhancement in Low-Density Collaborative Filtering Datasets},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {7},
+YEAR = {2023},
+NUMBER = {2},
+ARTICLE-NUMBER = {59},
+URL = {https://www.mdpi.com/2504-2289/7/2/59},
+ISSN = {2504-2289},
+ABSTRACT = {Collaborative filtering has proved to be one of the most popular and successful rating prediction techniques over the last few years. In collaborative filtering, each rating prediction, concerning a product or a service, is based on the rating values that users that are considered close to the user for whom the prediction is being generated have given to the same product or service. In general, close users for some user u correspond to users that have rated items similarly to u and these users are termed as near neighbours. As a result, the more reliable these near neighbours are, the more successful predictions the collaborative filtering system will compute and ultimately, the more successful recommendations the recommender system will generate. However, when the dataset density is relatively low, it is hard to find reliable near neighbours and hence many predictions fail, resulting in low recommender system reliability. In this work, we present a method that enhances rating prediction quality in low-density collaborative filtering datasets, by considering predictions whose features are associated with high prediction accuracy as additional ratings. The presented method efficacy and applicability are substantiated through an extensive multi-parameter evaluation process, using widely acceptable low-density collaborative filtering datasets.},
+DOI = {10.3390/bdcc7020059}
+}
+
+
+
