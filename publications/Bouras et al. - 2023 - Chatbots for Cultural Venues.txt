@@ -1,0 +1,17 @@
+
+@Article{a16070339,
+AUTHOR = {Bouras, Vasilis and Spiliotopoulos, Dimitris and Margaris, Dionisis and Vassilakis, Costas and Kotis, Konstantinos and Antoniou, Angeliki and Lepouras, George and Wallace, Manolis and Poulopoulos, Vassilis},
+TITLE = {Chatbots for Cultural Venues: A Topic-Based Approach},
+JOURNAL = {Algorithms},
+VOLUME = {16},
+YEAR = {2023},
+NUMBER = {7},
+ARTICLE-NUMBER = {339},
+URL = {https://www.mdpi.com/1999-4893/16/7/339},
+ISSN = {1999-4893},
+ABSTRACT = {Digital assistants&mdash;such as chatbots&mdash;facilitate the interaction between persons and machines and are increasingly used in web pages of enterprises and organizations. This paper presents a methodology for the creation of chatbots that offer access to museum information. The paper introduces an information model that is offered through the chatbot, which subsequently maps the museum&rsquo;s modeled information to structures of DialogFlow, Google&rsquo;s chatbot engine. Means for automating the chatbot generation process are also presented. The evaluation of the methodology is illustrated through the application of a real case, wherein we developed a chatbot for the Archaeological Museum of Tripolis, Greece.},
+DOI = {10.3390/a16070339}
+}
+
+
+

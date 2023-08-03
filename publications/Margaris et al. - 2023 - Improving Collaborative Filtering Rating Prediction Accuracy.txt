@@ -1,0 +1,19 @@
+@Article{Margaris2023ncaa,
+author={Margaris, Dionisis
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Vasilopoulos, Dionysios},
+title={Improving collaborative filtering's rating prediction accuracy by introducing the experiencing period criterion},
+journal={Neural Computing and Applications},
+year={2023},
+month={Jan},
+day={01},
+volume={35},
+number={1},
+pages={193-210},
+abstract={Collaborative filtering algorithms take into account users' tastes and interests, expressed as ratings, in order to formulate personalized recommendations. These algorithms initially identify each user's ``near neighbors,'' i.e., users having highly similar tastes and likings. Then, their already entered ratings are used, in order to formulate rating predictions, and predictions are typically used thereafter to drive the recommendation formulation process, e.g., by selecting the items with the top-K rating predictions; henceforth, the quality of the rating predictions significantly affects the quality of the generated recommendations. However, certain types of users prefer to experience (purchase, listen to, watch, play) items the moment they become available in the stores, or even preorder, while other types of users prefer to wait for a period of time before experiencing, until a satisfactory amount of feedback (reviews and/or evaluations) becomes available for the item of interest. Notably, a user may apply varying practices on different item categories, i.e., be keen to experience new items in some categories while being uneager in other categories. To formulate successful recommendations, a recommender system should align with users' patterns of practice and avoid recommending a newly released item to users that delay to experience new items in the particular category, and vice versa. Insofar, however, no algorithm that takes into account this aspect has been proposed. In this work, we (1) present the Experiencing Period Criterion rating prediction algorithm (CFEPC) which modifies the rating prediction value based on the combination of the users' experiencing wait period in a certain item category and the period the rating to be predicted belongs to, so as to enhance the prediction accuracy of recommender systems and (2) evaluate the accuracy of the proposed algorithm using seven widely used datasets, considering two widely employed user similarity metrics, as well as four accuracy metrics. The results show that the CFEPC algorithm, presented in this paper, achieves a considerable rating prediction quality improvement, in all the datasets tested, indicating that the CFEPC algorithm can provide a basis for formulating more successful recommendations.},
+issn={1433-3058},
+doi={10.1007/s00521-020-05460-y},
+url={https://doi.org/10.1007/s00521-020-05460-y}
+}
+
