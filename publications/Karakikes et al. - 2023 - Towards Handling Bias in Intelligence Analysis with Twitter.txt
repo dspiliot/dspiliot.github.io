@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10302618,
+  author={Karakikes, Alexandros and Alexiadis, Panagiotis and Theocharopoulos, Theocharis and Skoulidas, Nikolaos and Spiliotopoulos, Dimitrios and Kotis, Konstantinos},
+  booktitle={2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)}, 
+  title={Towards Handling Bias in Intelligence Analysis with Twitter}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Integrated circuits;Sentiment analysis;Social networking (online);Blogs;Information and communication technology;Stakeholders;Security;Twitter analytics;bias;intelligence analysis},
+  doi={10.1109/DSAA60987.2023.10302618}}
