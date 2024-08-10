@@ -1,0 +1,17 @@
+
+@Article{info15080466,
+AUTHOR = {Assimakopoulos, Fotis and Vassilakis, Costas and Margaris, Dionisis and Kotis, Konstantinos and Spiliotopoulos, Dimitris},
+TITLE = {The Implementation of “Smart” Technologies in the Agricultural Sector: A Review},
+JOURNAL = {Information},
+VOLUME = {15},
+YEAR = {2024},
+NUMBER = {8},
+ARTICLE-NUMBER = {466},
+URL = {https://www.mdpi.com/2078-2489/15/8/466},
+ISSN = {2078-2489},
+ABSTRACT = {The growing global population demands an increase in agricultural production and the promotion of sustainable practices. Smart agriculture, driven by advanced technologies, is crucial to achieving these goals. These technologies provide real-time information for crop monitoring, yield prediction, and essential farming functions. However, adopting intelligent farming systems poses challenges, including learning new systems and dealing with installation costs. Robust support is crucial for integrating smart farming into practices. Understanding the current state of agriculture, technology trends, and the challenges in technology acceptance is essential for a smooth transition to Agriculture 4.0. This work reports on the pivotal synergy of IoT technology with other research trends, such as weather forecasting and robotics. It also presents the applications of smart agriculture worldwide, with an emphasis on government initiatives to support farmers and promote global adoption. The aim of this work is to provide a comprehensive review of smart technologies for precision agriculture and especially of their adoption level and results on the global scale; to this end, this review examines three important areas of smart agriculture, namely field, greenhouse, and livestock monitoring.},
+DOI = {10.3390/info15080466}
+}
+
+
+
