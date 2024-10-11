@@ -1,0 +1,17 @@
+
+@Article{mti8100087,
+AUTHOR = {Skourou, Evangelia and Spiliotopoulos, Dimitris},
+TITLE = {Assessment of Purchasing Influence of Email Campaigns Using Eye Tracking},
+JOURNAL = {Multimodal Technologies and Interaction},
+VOLUME = {8},
+YEAR = {2024},
+NUMBER = {10},
+ARTICLE-NUMBER = {87},
+URL = {https://www.mdpi.com/2414-4088/8/10/87},
+ISSN = {2414-4088},
+ABSTRACT = {Most people struggle to articulate the reasons why a promotional email they are exposed to influences them to make a purchase. Marketing experts and companies find it beneficial to understand these reasons, even if consumers themselves cannot express them, by using neuromarketing tools, specifically the technique of eye tracking. This study analyses various types of email campaigns and their metrics and explores neuromarketing techniques to examine how email recipients view promotional emails. This study deploys eye tracking to investigate and also verify user attention, gaze, and behaviour. As a result, this approach assesses which elements of an email influence consumer purchasing decisions and which elements capture their attention the most. Furthermore, this study examines the influence of salary and the multiple-choice series of emails on consumer purchasing choices. The findings reveal that only the row that people choose to see in an email affects their purchasing decisions. Regarding promotional emails, the title and brand play a significant role, while in welcome emails, the main factor is primarily the title. Through web eye tracking, it is found that, in both promotional and welcome emails, large images captivate consumers the most. Finally, this work proposes ideas on how to improve emails for similar campaigns.},
+DOI = {10.3390/mti8100087}
+}
+
+
+
