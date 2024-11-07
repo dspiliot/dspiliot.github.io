@@ -1,0 +1,17 @@
+
+@Article{electronics13224362,
+AUTHOR = {Assimakopoulos, Fotis and Vassilakis, Costas and Margaris, Dionisis and Kotis, Konstantinos and Spiliotopoulos, Dimitris},
+TITLE = {Artificial Intelligence Tools for the Agriculture Value Chain: Status and Prospects},
+JOURNAL = {Electronics},
+VOLUME = {13},
+YEAR = {2024},
+NUMBER = {22},
+ARTICLE-NUMBER = {4362},
+URL = {https://www.mdpi.com/2079-9292/13/22/4362},
+ISSN = {2079-9292},
+ABSTRACT = {This article explores the transformative potential of artificial intelligence (AI) tools across the agricultural value chain, highlighting their applications, benefits, challenges, and future prospects. With global food demand projected to increase by 70% by 2050, AI technologies—including machine learning, big data analytics, and the Internet of things (IoT)—offer critical solutions for enhancing agricultural productivity, sustainability, and resource efficiency. The study provides a comprehensive review of AI applications at multiple stages of the agricultural value chain, including land use planning, crop selection, resource management, disease detection, yield prediction, and market integration. It also discusses the significant challenges to AI adoption, such as data accessibility, technological infrastructure, and the need for specialized skills. By examining case studies and empirical evidence, the article demonstrates how AI-driven solutions can optimize decision-making and operational efficiency in agriculture. The findings underscore AI’s pivotal role in addressing global agricultural challenges, with implications for farmers, agribusinesses, policymakers, and researchers. This article aims to advance the evolving research and discussions on sustainable agriculture, contributing insights that promote the adoption of AI technologies and influence the future of farming.},
+DOI = {10.3390/electronics13224362}
+}
+
+
+
