@@ -1,0 +1,12 @@
+@InProceedings{dionissopoulos_2024_kmis,
+author={Ioannis Dionissopoulos. and Fotis Assimakopoulos. and Dimitris Spiliotopoulos. and Dionisis Margaris. and Costas Vassilakis.},
+title={Predicting Agricultural Product and Supplies Prices Using Artificial Intelligence},
+booktitle={Proceedings of the 16th International Conference on Knowledge Management and Information Systems- KMIS},
+year={2024},
+pages={371-379},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013071600003838},
+isbn={978-989-758-716-0},
+issn={2184-3228},
+}

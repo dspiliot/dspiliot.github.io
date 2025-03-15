@@ -1,0 +1,17 @@
+
+@Article{info16020100,
+AUTHOR = {Assimakopoulos, Fotis and Vassilakis, Costas and Margaris, Dionisis and Kotis, Konstantinos and Spiliotopoulos, Dimitris},
+TITLE = {AI and Related Technologies in the Fields of Smart Agriculture: A Review},
+JOURNAL = {Information},
+VOLUME = {16},
+YEAR = {2025},
+NUMBER = {2},
+ARTICLE-NUMBER = {100},
+URL = {https://www.mdpi.com/2078-2489/16/2/100},
+ISSN = {2078-2489},
+ABSTRACT = {The integration of cutting-edge technologies—such as the Internet of Things (IoT), artificial intelligence (AI), machine learning (ML), and various emerging technologies—is revolutionizing agricultural practices, enhancing productivity, sustainability, and efficiency. The objective of this study is to review the literature regarding the development and evolution of AI as well as other emerging technologies in the various fields of Agriculture as they are developed and transformed by integrating the above technologies. The areas examined in this study are open field smart farming, vertical and indoor farming, zero waste agriculture, precision livestock farming, smart greenhouses, and regenerative agriculture. This paper links current research, technological innovations, and case studies to present a comprehensive review of these emerging technologies being developed in the context of smart agriculture, for the benefit of farmers and consumers in general. By exploring practical applications and future perspectives, this work aims to provide valuable insights to address global food security challenges, minimize environmental impacts, and support sustainable development goals through the application of new technologies.},
+DOI = {10.3390/info16020100}
+}
+
+
+

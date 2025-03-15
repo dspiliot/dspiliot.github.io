@@ -1,0 +1,15 @@
+@article{10.11648/j.ebm.20251101.11,
+  author = {Nektarios Makrydakis and Dimitris Spiliotopoulos},
+  title = {Mapping Communication Plan Elements for Promoting National Strategies of Higher Education
+},
+  journal = {European Business & Management},
+  volume = {11},
+  number = {1},
+  pages = {1-11},
+  doi = {10.11648/j.ebm.20251101.11},
+  url = {https://doi.org/10.11648/j.ebm.20251101.11},
+  eprint = {https://article.sciencepublishinggroup.com/pdf/10.11648.j.ebm.20251101.11},
+  abstract = {Purpose - The purpose of this paper is to study and identify the elements of a comprehensive communication plan tailored to promote national strategies for higher education, an area where existing research has been fragmented. Methodology - Previous research has primarily focused on communication plans for universities, business enterprises or national strategies in isolation, leaving a gap in understanding the elements that constitute an effective communication plan focus on promoting national strategies for higher education. Using a systematic review guided by PRISMA approach methodology, research aimed to identify the key components of such a plan, with the objective of filling the gaps and creating a unified new holistic framework. Findings - Study identifies a holistic framework of twelve essential elements that draw up a communication plan and implement in sequence, including targeting specific stakeholder groups, integrating traditional and digital communication channels and establishing a timeline for communication activities. Also the study reveals that a well-structured communication plan can significantly enhance the alignment of national educational objectives with stakeholder engagement. Practical implications – The results offer precious knowledge on field of promoting national strategies of higher education. Findings provide a novel contribution by filling existing gaps in the literature, offering practical implications for policymakers. Originality – This is the first research on educational marketing that focus and create a holistic framework to implement from public sector in order to communicate a national strategy policy for higher education, while similar work is limited even at international level.
+},
+ year = {2025}
+}

@@ -1,0 +1,12 @@
+@InProceedings{sgardelis_2024_webist,
+author={Kiriakos Sgardelis. and Dionisis Margaris. and Dimitris Spiliotopoulos. and Costas Vassilakis. and Stefanos Ougiaroglou.},
+title={Improving Recommendation Quality in Collaborative Filtering by Including Prediction Confidence Factors},
+booktitle={Proceedings of the 20th International Conference on Web Information Systems and Technologies - WEBIST},
+year={2024},
+pages={372-379},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013052200003825},
+isbn={978-989-758-718-4},
+issn={2184-3252},
+}
