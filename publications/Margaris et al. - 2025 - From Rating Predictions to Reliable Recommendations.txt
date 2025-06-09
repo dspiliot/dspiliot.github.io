@@ -1,0 +1,17 @@
+
+@Article{bdcc9040106,
+AUTHOR = {Margaris, Dionisis and Vassilakis, Costas and Spiliotopoulos, Dimitris},
+TITLE = {From Rating Predictions to Reliable Recommendations in Collaborative Filtering: The Concept of Recommendation Reliability Classes},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {9},
+YEAR = {2025},
+NUMBER = {4},
+ARTICLE-NUMBER = {106},
+URL = {https://www.mdpi.com/2504-2289/9/4/106},
+ISSN = {2504-2289},
+ABSTRACT = {Recommender systems aspire to provide users with recommendations that have a high probability of being accepted. This is accomplished by producing rating predictions for products that the users have not evaluated, and, afterwards, the products with the highest prediction scores are recommended to them. Collaborative filtering is a popular recommender system technique which generates rating prediction scores by blending the ratings that users with similar preferences have previously given to these products. However, predictions may entail errors, which will either lead to recommending products that the users would not accept or failing to recommend products that the users would actually accept. The first case is considered much more critical, since the recommender system will lose a significant amount of reliability and consequently interest. In this paper, after performing a study on rating prediction confidence factors in collaborative filtering, (a) we introduce the concept of prediction reliability classes, (b) we rank these classes in relation to the utility of the rating predictions belonging to each class, and (c) we present a collaborative filtering recommendation algorithm which exploits these reliability classes for prediction formulation. The efficacy of the presented algorithm is evaluated through an extensive multi-parameter evaluation process, which demonstrates that it significantly enhances recommendation quality.},
+DOI = {10.3390/bdcc9040106}
+}
+
+
+

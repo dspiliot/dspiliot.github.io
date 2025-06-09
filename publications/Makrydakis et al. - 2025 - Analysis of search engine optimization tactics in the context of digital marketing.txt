@@ -1,0 +1,12 @@
+@article{10.33545/26648792.2025.v7.i1l.386,
+  author = {Nektarios Makrydakis and Dimitris Spiliotopoulos and Afroditi Lymperi},
+  title = {Analysis of search engine optimization tactics in the context of digital marketing for enhancing websites ranking and visibility in Generative AI and large language models.
+},
+  journal = {International Journal of Research in Management},
+  volume = {7},
+  number = {1},
+  pages = {1107-1113},
+  doi = {10.33545/26648792.2025.v7.i1l.386},
+  url = {https://doi.org/10.33545/26648792.2025.v7.i1l.386},
+  year = {2025}
+}

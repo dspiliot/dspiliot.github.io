@@ -1,0 +1,17 @@
+
+@Article{technologies13050181,
+AUTHOR = {Margaris, Dionisis and Spiliotopoulos, Dimitris and Sgardelis, Kiriakos and Vassilakis, Costas},
+TITLE = {Using Prediction Confidence Factors to Enhance Collaborative Filtering Recommendation Quality},
+JOURNAL = {Technologies},
+VOLUME = {13},
+YEAR = {2025},
+NUMBER = {5},
+ARTICLE-NUMBER = {181},
+URL = {https://www.mdpi.com/2227-7080/13/5/181},
+ISSN = {2227-7080},
+ABSTRACT = {Recommender systems suggest items that users are likely to accept by predicting ratings for items they have not already rated. Collaborative filtering is a widely used method that produces these predictions, based on the ratings of similar users, termed as near neighbors. However, in many cases, prediction errors occur and, therefore, the recommender system ends up either recommending unwanted products or missing out on products the user would actually desire. As a result, the quality of the recommendations that are produced is of major importance. In this paper, we introduce an advanced collaborative filtering recommendation algorithm that upgrades the quality of the recommendations that are produced by considering, along with the rating prediction value of the items computed by the plain collaborative filtering procedure, a number of confidence factors that each rating prediction fulfills. The presented algorithm maintains high recommendation coverage, and can be applied to every collaborative filtering dataset, since it is based only on the very basic information. Based on the application of the algorithm on widely used recommender systems datasets, the proposed algorithm significantly upgrades the recommendation quality, surpassing the performance of state-of-the-art research works that also consider confidence factors.},
+DOI = {10.3390/technologies13050181}
+}
+
+
+
