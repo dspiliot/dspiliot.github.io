@@ -1,0 +1,13 @@
+@Article{Sgardelis_2025_ijdsa,
+  author    = {Sgardelis, Kiriakos and Margaris, Dionisis and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+  journal   = {International Journal of Data Science and Analytics},
+  title     = {An evaluation review of user similarity metrics in sparse collaborative filtering datasets},
+  year      = {2025},
+  issn      = {2364-4168},
+  month     = jun,
+  abstract  = {Collaborative filtering (CF) is one of the most prominent recommender system (RecSys) techniques of the recent years. CF generates rating predictions for the items that the user has not evaluated yet, using the evaluations of users with similar likings to the same items. Therefore, in CF the task of finding these users (which can be considered as reliable recommenders) is of high importance, while this task is especially challenging on sparse datasets. To this end, many user similarity metrics have been introduced and used in the literature, such as the Vector (or Cosine) Similarity metric, the Spearman rank correlation, the Pearson Correlation Coefficient (PCC), and others. For a CF RecSys, the use of the most efficient similarity metric is of great importance. This paper assesses the effectiveness of 15 user similarity metrics in sparse CF datasets, by conducting an extensive set of experiments. These experiments include 10 sparse CF datasets with diverse item domains, two neighbour selection approaches, two rating prediction formulas, and three rating prediction accuracy metrics. The evaluation results show that the metrics that achieve the best prediction results are found to be the Spearman rank correlation, followed by the Adjusted Rand Index, the Constrained PCC, and the Chebysev distance. Interestingly, the most widely used similarity metrics in CF research, i.e. the PCC and the Cosine Similarity, are not among the best performing metrics.},
+  doi       = {10.1007/s41060-025-00846-4},
+  keywords  = {Recommender systems,Collaborative filtering,User similarity metrics,Sparse datasets,Evaluation review},
+  publisher = {Springer Science and Business Media LLC},
+  timestamp = {2025-06-02},
+}

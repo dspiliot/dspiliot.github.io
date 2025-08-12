@@ -27,10 +27,11 @@
 		}
 
 	body, input, select, textarea {
-		color: #646464;
-		font-family: "Lato", Helvetica, sans-serif;
+/*		color: #646464;*/
+		color: #0f0704;
+        font-family: "Lato", Helvetica, sans-serif;
 		font-size: 15pt;
-		font-weight: 300;
+		font-weight: 500;
 		line-height: 1.75em;
 	}
 
@@ -114,12 +115,13 @@
 	}
 
 	h7 {
-		font-size: 1.0em;
-        font-weight: 500;
+        font-size: 1.0em;
+        font-weight: 600;
 	}
 
 	h8 {
-		font-size: 1.0em;
+/*		color: #0f0704; */
+        font-size: 1.0em;
         font-style: italic;
 	}
 

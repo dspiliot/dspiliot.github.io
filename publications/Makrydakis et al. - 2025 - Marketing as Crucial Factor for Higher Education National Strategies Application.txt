@@ -1,0 +1,12 @@
+@article{10.51505/IJEBMR.2025.9611,
+  author = {Nektarios Makrydakis and Dimitris Spiliotopoulos and Afroditi Lymperi},
+  title = {Marketing as Crucial Factor for Higher Education National Strategies Application: A Quantitative Study of Expert Perspectives for Policy Adoption and Stakeholder Engagement in Higher Education.
+},
+  journal = {International Journal of Economics Business and Management Research},
+  volume = {9},
+  number = {6},
+  pages = {188-201},
+  doi = {10.51505/IJEBMR.2025.9611,
+  url = {https://doi.org/10.51505/IJEBMR.2025.9611},
+  year = {2025}
+}

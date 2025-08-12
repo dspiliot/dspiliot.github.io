@@ -1,0 +1,12 @@
+@article{10.33545/26633329.2025.v7.i1a.210,
+  author = {Nektarios Makrydakis and Dimitris Spiliotopoulos and Christos Michalakelis},
+  title = {Mapping key performance indicators for evaluation and monitoring the internationalization of higher education institutions.
+},
+  journal = {International Journal of Research in Marketing Management and Sales},
+  volume = {7},
+  number = {1},
+  pages = {25-36},
+  doi = {10.33545/26633329.2025.v7.i1a.210},
+  url = {https://doi.org/10.33545/26633329.2025.v7.i1a.210},
+  year = {2025}
+}
