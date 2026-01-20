@@ -1,0 +1,11 @@
+@article{10.33545/26648792.2026.v8.i1a.597,
+  author = {Nektarios Makrydakis and Dimitris Spiliotopoulos and Christos Michalakelis and Afroditi Lymperi},
+  title = {Marketing mix rebuilding for the age of generative AI: From 7P to 7G marketing mix model.
+},
+  journal = {International Journal of Research in Management},
+  volume = {8},
+  number = {1},
+  doi = {10.33545/26648792.2026.v8.i1a.597},
+  url = {https://doi.org/10.33545/26648792.2026.v8.i1a.597},
+  year = {2026}
+}
