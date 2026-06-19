@@ -1,0 +1,16 @@
+
+@article{makrydakis_international_2026,
+	title = {International marketing in the digital and artificial intelligence era: {Algorithmic} intermediation, consumer engagement, and strategic transformation},
+	volume = {8},
+	issn = {26633329, 26633337},
+	shorttitle = {International marketing in the digital and artificial intelligence era},
+	url = {https://www.marketingjournal.net/archives/2026.v8.i2.A.371},
+	doi = {10.33545/26633329.2026.v8.i2a.371},
+	number = {2},
+	urldate = {2026-06-19},
+	journal = {International Journal of Research in Marketing Management and Sales},
+	author = {Makrydakis, Nektarios and Spiliotopoulos, Dimitris and Lymperi, Afroditi and Salmon, Ioannis and Christofi, Kyriakos},
+	month = feb,
+	year = {2026},
+	pages = {49--56},
+}

@@ -1,0 +1,16 @@
+
+@article{makrydakis_tourism_2025,
+	title = {Tourism marketing in the era of {Artificial} {Intelligence}: {Digital} strategies and behavioral effects on consumer decision-making},
+	volume = {7},
+	issn = {27069583, 27069591},
+	shorttitle = {Tourism marketing in the era of {Artificial} {Intelligence}},
+	url = {https://www.tourismjournal.net/archives/2025.v7.i2.B.177},
+	doi = {10.22271/27069583.2025.v7.i2b.177},
+	number = {2},
+	urldate = {2026-06-19},
+	journal = {International Journal of Tourism and Hotel Management},
+	author = {Makrydakis, Nektarios S and Spiliotopoulos, Dimitris and Lymperi, Afroditi},
+	month = jul,
+	year = {2025},
+	pages = {129--134},
+}

@@ -1,0 +1,17 @@
+
+@Article{fi18020114,
+AUTHOR = {Lapadaki, Sofia-Anna and Nanos, John and Margaris, Dionisis and Vassilakis, Costas and Spiliotopoulos, Dimitris},
+TITLE = {Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets},
+JOURNAL = {Future Internet},
+VOLUME = {18},
+YEAR = {2026},
+NUMBER = {2},
+ARTICLE-NUMBER = {114},
+URL = {https://www.mdpi.com/1999-5903/18/2/114},
+ISSN = {1999-5903},
+ABSTRACT = {Collaborative filtering is one of the most widely used methods for user rating prediction in recommender systems. To evaluate a collaborative filtering system, rating datasets are typically used, which comprise thousands to millions of records consisting of user–item–rating tuples. Initially, a similarity metric is used to quantify the closeness between each user and every other user in the dataset, typically based on the ratings that each pair of users has given to the same items. Subsequently, the K users having the largest similarity to the target user are used to produce rating predictions, which lead to recommendations. A particularly challenging case arises when the rating dataset is very sparse. In this scenario, it is difficult not only to find users with commonly rated items but also to determine the optimal similarity metric and suitable values for variable K. Setting a small value for K results in extremely low prediction coverage, leading to unsuccessful recommendations, while setting a very large K value increases memory requirements and prediction/recommendation generation time. Through a multiparameter experiment, this work aims to determine the optimal settings for rating predictions when very sparse datasets are used in collaborative filtering recommender systems.},
+DOI = {10.3390/fi18020114}
+}
+
+
+

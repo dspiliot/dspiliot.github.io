@@ -1,0 +1,17 @@
+
+@Article{fi18020112,
+AUTHOR = {Roumeliotis, Konstantinos I. and Margaris, Dionisis and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {A Large-Scale Empirical Study of LLM Orchestration and Ensemble Strategies for Sentiment Analysis in Recommender Systems},
+JOURNAL = {Future Internet},
+VOLUME = {18},
+YEAR = {2026},
+NUMBER = {2},
+ARTICLE-NUMBER = {112},
+URL = {https://www.mdpi.com/1999-5903/18/2/112},
+ISSN = {1999-5903},
+ABSTRACT = {This paper presents a comprehensive empirical evaluation comparing meta-model aggregation strategies with traditional ensemble methods and standalone models for sentiment analysis in recommender systems beyond standalone large language model (LLM) performance. We investigate whether aggregating multiple LLMs through a reasoning-based meta-model provides measurable performance advantages over individual models and standard statistical aggregation approaches in zero-shot sentiment classification. Using a balanced dataset of 5000 verified Amazon purchase reviews (1000 reviews per rating category from 1 to 5 stars, sampled via two-stage stratified sampling across five product categories), we evaluate 12 different leading pre-trained LLMs from four major providers (OpenAI, Anthropic, Google, and DeepSeek) in both standalone and meta-model configurations. Our experimental design systematically compares individual model performance against GPT-based meta-model aggregation and traditional ensemble baselines (majority voting, mean aggregation). Results show statistically significant improvements (McNemar’s test, p < 0.001): the GPT-5 meta-model achieves 71.40% accuracy (10.15 percentage point improvement over the 61.25% individual model average), while the GPT-5 mini meta-model reaches 70.32% (9.07 percentage point improvement). These observed improvements surpass traditional ensemble methods (majority voting: 62.64%; mean aggregation: 62.96%), suggesting potential value in meta-model aggregation for sentiment analysis tasks. Our analysis reveals empirical patterns including neutral sentiment classification challenges (3-star ratings show 64.83% failure rates across models), model influence hierarchies, and cost-accuracy trade-offs ($130.45 aggregation cost vs. $0.24–$43.97 for individual models per 5000 predictions). This work provides evidence-based insights into the comparative effectiveness of LLM aggregation strategies in recommender systems, demonstrating that meta-model aggregation with natural language reasoning capabilities achieves measurable performance gains beyond statistical aggregation alone.},
+DOI = {10.3390/fi18020112}
+}
+
+
+
