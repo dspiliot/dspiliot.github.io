@@ -1,0 +1,1200 @@
+[
+    {
+        "id": 1,
+        "year": "2023",
+        "category": "edited books",
+        "pdfUrl": "",
+        "bibtexUrl": "",
+        "doiUrl": "https://doi.org/10.3390/books978-3-0365-7211-6",
+        "html": "Kotis, K., <strong>Spiliotopoulos, D.</strong>, Eds. (2023). <strong>Semantic Web Technology and Recommender Systems</strong>. <span class='journal-title'>Big Data and Cognitive Computing</span>, MDPI, Basel, April 2023, pages: 284; ISBN 978-3-0365-7210-9 (hardback); ISBN 978-3-0365-7211-6 (PDF)."
+    },
+    {
+        "id": 2,
+        "year": "2000",
+        "category": "workshops",
+        "pdfUrl": "",
+        "doiUrl": "",
+        "bibtexUrl": "",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Androutsopoulos, I. (2000). <strong>A Survey of Spoken Dialogue Management Techniques</strong>. Technical Report DEMO 2000/15, NCSR Demokritos."
+    },
+    {
+        "id": 3,
+        "year": "2012",
+        "category": "workshops",
+        "pdfUrl": "",
+        "doiUrl": "",
+        "bibtexUrl": "",
+        "html": "Pozo, A., Bywood, L., Georgakopoulou, Y., van Loenhout, G., Petukhova, V., Sepesy Maucec, M., <strong>Spiliotopoulos, D.</strong>, Trespalacios, V., Volk, M., Way, A. (2012). <strong>SUMAT: An online service for SUbtitling by MAchine Translation</strong>. In <span class='journal-title'>Proc. 16th Annual Conference of the European Association for Machine Translation</span>, Trento, Italy, 28-30 May, 2012."
+    },
+    {
+        "id": 4,
+        "year": "2014",
+        "category": "workshops",
+        "pdfUrl": "",
+        "doiUrl": "",
+        "bibtexUrl": "",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Koryzis, D., Schefbeck, G. (2014). <strong>Crowdsourcing and Transparency in the Legislative Process: The NOMAD Approach</strong>. In <span class='journal-title'>Proc. 17th Int. Symp. Legal Informatics</span>, 20-22 February 2013, Salzburg, Austria."
+    },
+    {
+        "id": 5,
+        "year": "2013",
+        "category": "workshops",
+        "pdfUrl": "",
+        "doiUrl": "",
+        "bibtexUrl": "",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Cabulea, C., Frey, D. (2013). <strong>User Interaction Issues on Searching Digitally Archived Content</strong>. In <span class='journal-title'>Proc. Int. Workshop on Archiving Community Memories</span>, 6 September 2013, Lisbon, Portugal."
+    },
+    {
+        "id": 6,
+        "year": "2010",
+        "category": "book chapters",
+        "pdfUrl": "publications/Spiliotopoulos et al. - 2010 - Integrating Usability Engineering for Designing the Web Experience.pdf",
+        "doiUrl": "https://doi.org/10.4018/978-1-60566-896-3.ch008",
+        "bibtexUrl": "publications/Spiliotopoulos et al. - 2010 - Integrating Usability Engineering for Designing the Web Experience.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2010). <strong>Usability Methodologies for Spoken Dialogue Web Interfaces</strong>. In <span class='journal-title'>T. Spiliotopoulos, P. Papadopoulou and D. Martakos (eds), Integrating Usability Engineering for Designing the Web Experience: Methodologies and Principles</span>, Chapter 8, pp. 149-165, Information Science Reference Press, Pennsylvania, USA"
+    },
+    {
+        "id": 7,
+        "year": "2011",
+        "category": "book chapters",
+        "pdfUrl": "publications/Stavropoulou et al. - 2011 - Design and Development of an Automated Voice Agent.pdf",
+        "doiUrl": "https://doi.org/10.4018/978-1-60960-617-6.ch015",
+        "bibtexUrl": "publications/Stavropoulou et al. - 2011 - Design and Development of an Automated Voice Agent.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2011). <strong>Design and Development of an Automated Voice Agent: Theory and Practice Brought Together</strong>. In <span class='journal-title'>D. Perez-Marin and I. Pascual-Nieto (eds), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices</span>, pp. 335-359, Information Science Reference Press, Pennsylvania, USA."
+    },
+    {
+        "id": 8,
+        "year": "2011",
+        "category": "book chapters",
+        "pdfUrl": "publications/Spiliotopoulos et al. - 2011 - VoiceWeb Spoken Dialogue Interfaces and Usability.pdf",
+        "doiUrl": "https://doi.org/10.4018/978-1-60960-523-0.ch019",
+        "bibtexUrl": "publications/Spiliotopoulos et al. - 2011 - VoiceWeb Spoken Dialogue Interfaces and Usability.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G., Stavropoulou, P. (2011). <strong>VoiceWeb: Spoken Dialogue Interfaces and Usability</strong>. In <span class='journal-title'>G. Alkhatib (ed), Web Engineered Applications for Evolving Organizations: Emerging Knowledge</span>, pp. 340-359, Information Science Reference Press, Pennsylvania, USA."
+    },
+    {
+        "id": 9,
+        "year": "2021",
+        "category": "book chapters",
+        "pdfUrl": "publications/Margaris et al. - 2021 - Identifying Reliable Recommenders.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-67044-3_3",
+        "bibtexUrl": "publications/Margaris et al. - 2021 - Identifying Reliable Recommenders.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2021). <strong>Identifying Reliable Recommenders in Users’ Collaborating Filtering and Social Neighbourhoods</strong>. In <span class='journal-title'>M. Çakırtaş and M.K. Ozdemir (eds), Big Data and Social Media Analytics</span>, pp. 51-76, Lecture Notes in Social Networks. Springer, Cham. https://doi.org/10.1007/978-3-030-67044-3_3"
+    },
+    {
+        "id": 10,
+        "year": "2021",
+        "category": "book chapters",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2021 - Safe Travelling Period Recommendation.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-67044-3_4",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2021 - Safe Travelling Period Recommendation.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C. (2021). <strong>Safe Travelling Period Recommendation to High Attack Risk European Destinations Based on Past Attack Information</strong>. In <span class='journal-title'>M. Çakırtaş and M.K. Ozdemir (eds), Big Data and Social Media Analytics</span>, pp. 77-100, Lecture Notes in Social Networks. Springer, Cham. https://doi.org/10.1007/978-3-030-67044-3_4"
+    },
+    {
+        "id": 11,
+        "year": "2021",
+        "category": "book chapters",
+        "pdfUrl": "/publications/Kriemadis et al. - 2021 - Social Skills and Online Learning.pdf",
+        "doiUrl": "https://doi.org/10.4018/978-1-7998-6963-4.ch013",
+        "bibtexUrl": "/publications/Kriemadis et al. - 2021 - Social Skills and Online Learning.txt",
+        "html": "Kriemadis, A., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Kapnisi, D. (2021). <strong>Social Skills and Online Learning</strong>. In <span class='journal-title'>S. Loureiro, and J. Guerreiro (eds), Handbook of Research on Developing a Post-Pandemic Paradigm for Virtual Technologies in Higher Education</span>, pp. 261-281, IGI Global. https://doi:10.4018/978-1-7998-6963-4.ch013"
+    },
+    {
+        "id": 12,
+        "year": "2022",
+        "category": "book chapters",
+        "pdfUrl": "/publications/Koryzis and Spiliotopoulos - 2022 - Digital Strategy for Evidence-Based Policymaking.pdf",
+        "doiUrl": "https://liberalforum.eu/publication/smart-parliaments-data-driven-democracy/",
+        "bibtexUrl": "/publications/Koryzis and Spiliotopoulos - 2022 - Digital Strategy for Evidence-Based Policymaking.txt",
+        "html": "Koryzis, D., <strong>Spiliotopoulos, D.</strong> (2022). <strong>Digital Strategy for Evidence-Based Policymaking in Parliament</strong>. In <span class='journal-title'>F. Fitsilis, and G. Mikros (eds), Smart Parliaments Data-Driven Democracy</span>, pp. 81-86, European Liberal Forum. https://liberalforum.eu/publication/smart-parliaments-data-driven-democracy/"
+    },
+    {
+        "id": 13,
+        "year": "2001",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2001 - Human-Robot Interaction Based on Spoken Natural Language Dialogue.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2001 - Human-Robot Interaction Based on Spoken Natural Language Dialogue.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Androutsopoulos, I., Spyropoulos, C.D. (2001). <strong>Human-Robot Interaction Based on Spoken Natural Language Dialogue</strong>. In Proc. <span class='journal-title'>European Workshop on Service and Humanoid Robots (ServiceRob-2001)</span>, Santorini, Greece, 25-27 June 2001."
+    },
+    {
+        "id": 14,
+        "year": "2002",
+        "category": "conferences",
+        "pdfUrl": "/publications/Androutsopoulos et al. - 2002 - Symbolic Authoring for Multilingual Natural Language Generation.pdf",
+        "doiUrl": "https://doi.org/10.1007/3-540-46014-4_13",
+        "bibtexUrl": "/publications/Androutsopoulos et al. - 2002 - Symbolic Authoring for Multilingual Natural Language Generation.txt",
+        "html": "Androutsopoulos, I., <strong>Spiliotopoulos, D.</strong>, Stamatakis, K., Dimitromanolaki, A., Karkaletsis, V., Spyropoulos, C.D. (2002). <strong>Symbolic Authoring for Multilingual Natural Language Generation</strong>. In <span class='journal-title'>Proc. Hellenic Conference on Artificial Intelligence</span>, LNAI 2308, pp. 131-142. Springer-Verlag Berlin Heidelberg."
+    },
+    {
+        "id": 15,
+        "year": "2003",
+        "category": "conferences",
+        "pdfUrl": "/publications/Xydas et al. - 2003 - Modelling Emphatic Events from Non-Speech Aware Documents in Speech Based User Interfaces.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Xydas et al. - 2003 - Modelling Emphatic Events from Non-Speech Aware Documents in Speech Based User Interfaces.txt",
+        "html": "Xydas, G., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2003). <strong>Modelling Emphatic Events from Non-Speech Aware Documents in Speech Based User Interfaces</strong>.  In <span class='journal-title'>Proc. 10th International Conference on Human-Computer Interaction (HCII-2003)</span>, pp. 806-810, 22-27 June, 2003, Crete, Greece."
+    },
+    {
+        "id": 16,
+        "year": "2003",
+        "category": "conferences",
+        "pdfUrl": "/publications/Xydas et al. - 2003 - Prosody Prediction from Linguistically Enriched Documents.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Xydas et al. - 2003 - Prosody Prediction from Linguistically Enriched Documents.txt",
+        "html": "Xydas, G., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2003). <strong>Prosody Prediction from Linguistically Enriched Documents Based on a Machine Learning Algorithm.</strong> In <span class='journal-title'>Proc. 6th International Conference of Greek Linguistics (ICGL-2003)</span>, 18-21 September 2003, Rethymno, Crete, Greece."
+    },
+    {
+        "id": 17,
+        "year": "2003",
+        "category": "conferences",
+        "pdfUrl": "/publications/Xydas et al. - 2003 - Building Prosodic Structures in a Concept-to-Speech System.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Xydas et al. - 2003 - Building Prosodic Structures in a Concept-to-Speech System.txt",
+        "html": "Xydas, G., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2003). <strong>Building Prosodic Structures in a Concept-to-Speech System</strong>. In <span class='journal-title'>Proc. 1st Balkan Conference on Informatics (BCI-2003)</span>, pp. 105-111, 21-23 November 2003, Thessaloniki, Greece."
+    },
+    {
+        "id": 18,
+        "year": "2004",
+        "category": "conferences",
+        "pdfUrl": "/publications/Xydas et al. - 2004 - Modeling Prosodic Structures in Linguistically Enriched Environments.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-540-30120-2_66",
+        "bibtexUrl": "/publications/Xydas et al. - 2004 - Modeling Prosodic Structures in Linguistically Enriched Environments.txt",
+        "html": "Xydas, G., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2004). <strong>Modeling Prosodic Structures in Linguistically Enriched Environments</strong>. In <span class='journal-title'>Proc. International Conference on Text, Speech and Dialogue (TSD 2004)</span>, LNAI 3206, pp. 521-528. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-540-30120-2_66"
+    },
+    {
+        "id": 19,
+        "year": "2005",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2005 - Experimentation on Spoken Format of Tables in Auditory User Interfaces.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2005 - Experimentation on Spoken Format of Tables in Auditory User Interfaces.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Xydas, G., Kouroupetroglou, G., Argyropoulos, V. (2005). <strong>Experimentation on Spoken Format of Tables in Auditory User Interfaces</strong>. In <span class='journal-title'>Proc. 11th International Conference on Human-Computer Interaction (HCII-2005)</span>, pp. 1-10, Las Vegas, USA, 22-27 July, 2005."
+    },
+    {
+        "id": 20,
+        "year": "2005",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2005 - Diction Based Prosody Modeling in Table-to-Speech Synthesis.pdf",
+        "doiUrl": "https://doi.org/10.1007/11551874_38",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2005 - Diction Based Prosody Modeling in Table-to-Speech Synthesis.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Xydas, G., Kouroupetroglou, G. (2005). <strong>Diction Based Prosody Modeling in Table-to-Speech Synthesis</strong>. <span class='journal-title'>Proc. 8th International Conference on Text, Speech and Dialogue (TSD 2005)</span>, LNAI 3658, pp. 294-301. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/11551874_38"
+    },
+    {
+        "id": 21,
+        "year": "2005",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2005 - Prosodically Enriched Text Annotation for High Quality Speech Synthesis.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2005 - Prosodically Enriched Text Annotation for High Quality Speech Synthesis.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Petasis, G., Kouroupetroglou, G. (2005). <strong>Prosodically Enriched Text Annotation for High Quality Speech Synthesis</strong>. In <span class='journal-title'>Proc. 10th International Conference on Speech and Computer (SPECOM-2005)</span>, pp. 313-316, 17-19 October 2005, Patras, Greece."
+    },
+    {
+        "id": 22,
+        "year": "2008",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2008 - A Framework for Language-Independent Analysis.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-540-87391-4_66",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2008 - A Framework for Language-Independent Analysis.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Petasis, G., Kouroupetroglou, G. (2008). <strong>A Framework for Language-Independent Analysis and Prosodic Feature Annotation of Text Corpora</strong>. In <span class='journal-title'>Proc. 11th International Conference on Text, Speech and Dialogue (TSD 2008)</span>, LNAI 5246, pp. 517-524. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-540-87391-4_66"
+    },
+    {
+        "id": 23,
+        "year": "2009",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou and Spiliotopoulos - 2009 - Prosodic Realisation of Topics.pdf",
+        "doiUrl": "https://doi.org/10.26262/istal.v19i0.5519",
+        "bibtexUrl": "/publications/Stavropoulou and Spiliotopoulos - 2009 - Prosodic Realisation of Topics.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong> (2009). <strong>Prosodic Realisation of Topics</strong>. In <span class='journal-title'>Proc. 19th International Symposium on Theoretical and Applied Linguistics</span>, Thessaloniki, 3-5 April 2009, Greece. https://doi.org/10.26262/istal.v19i0.5519"
+    },
+    {
+        "id": 24,
+        "year": "2009",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2009 - Acoustic Rendering of Data Tables using Earcons and Prosody for Document Accessibility.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-02713-0_62",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2009 - Acoustic Rendering of Data Tables using Earcons and Prosody for Document Accessibility.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Stavropoulou, P., Kouroupetroglou, G. (2009). <strong>Acoustic Rendering of Data Tables using Earcons and Prosody for Document Accessibility</strong>. In <span class='journal-title'>Proc. 13th International Conference on Human-Computer Interaction (HCII 2009)</span>, LNAI 5616, pp. 587-596. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-02713-0_62"
+    },
+    {
+        "id": 25,
+        "year": "2009",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2009 - Spoken Dialogue Interfaces Integrating Usability.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-10308-7_36",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2009 - Spoken Dialogue Interfaces Integrating Usability.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Stavropoulou, P., Kouroupetroglou, G. (2009). <strong>Spoken Dialogue Interfaces: Integrating Usability</strong>. In <span class='journal-title'>Proc. 5th Symposium of the Austrian HCI and Usability Engineering Group</span>, LNCS 5889, pp. 484-499. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-10308-7_36"
+    },
+    {
+        "id": 26,
+        "year": "2010",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou et al. - 2010 - Integrating Contrast in a Framework for Predicting Prosody.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-12116-6_63",
+        "bibtexUrl": "/publications/Stavropoulou et al. - 2010 - Integrating Contrast in a Framework for Predicting Prosody.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2010). <strong>Integrating Contrast in a Framework for Predicting Prosody</strong>. In <span class='journal-title'>Proc. 11th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2010)</span>, LNCS 6008, pp. 748-758. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-12116-6_63"
+    },
+    {
+        "id": 27,
+        "year": "2010",
+        "category": "conferences",
+        "pdfUrl": "/publications/Pino et al. - 2010 - An Open Source Freeware Assistive Technology.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-14097-6_29",
+        "bibtexUrl": "/publications/Pino et al. - 2010 - An Open Source Freeware Assistive Technology.txt",
+        "html": "Pino, Α., Kouroupetroglou, G., Kacorri, H., Sarantidou, A., <strong>Spiliotopoulos, D.</strong> (2010). <strong>An Open Source / Freeware Assistive Technology Software Inventory</strong>. In <span class='journal-title'>Proc. 12th International Conference on Computers Helping People with Special Needs (ICCHP 2010)</span>, LNCS 6179, pp. 178–185. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-14097-6_29"
+    },
+    {
+        "id": 28,
+        "year": "2011",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou et al. - 2011 - Acoustic Modeling of Dialogue Elements for Document Accessibility.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-21657-2_19",
+        "bibtexUrl": "/publications/Stavropoulou et al. - 2011 - Acoustic Modeling of Dialogue Elements for Document Accessibility.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, D. (2011). <strong>Acoustic Modeling of Dialogue Elements for Document Accessibility</strong>. In <span class='journal-title'>Proc. 13th International Conference on Human-Computer Interaction (HCII 2011)</span>, LNCS 6768, pp. 175-184. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-21657-2_19"
+    },
+    {
+        "id": 29,
+        "year": "2012",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou et al. - 2012 - Resource Evaluation for Usable Speech Interfaces, Utilizing Human–Human Dialogues.pdf",
+        "doiUrl": "https://doi.org/10.63317/2m37xeq6pwov",
+        "bibtexUrl": "/publications/Stavropoulou et al. - 2012 - Resource Evaluation for Usable Speech Interfaces, Utilizing Human–Human Dialogues.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, D. (2012). <strong>Resource Evaluation for Usable Speech Interfaces: Utilizing Human–Human Dialogues</strong>. In <span class='journal-title'>Proc. 8th International Conference on Language Resources and Evaluation</span>, Istanbul, Turkey, 23-25 May, 2012. https://doi.org/10.63317/2m37xeq6pwov"
+    },
+    {
+        "id": 30,
+        "year": "2012",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2012 - Designing User Interfaces for Social Media Driven Digital Preservation and Information Retrieval.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-31522-0_87",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2012 - Designing User Interfaces for Social Media Driven Digital Preservation and Information Retrieval.txt",
+        "html": "Spiliotopoulos, D.</strong>, Tzoannos, E., Stavropoulou, P., Kouroupetroglou, D., Pino, A. (2012). <strong>Designing user interfaces for social media driven digital preservation and information retrieval</strong>. In <span class='journal-title'>Proc. 13th International Conference on Computers Helping People with Special Needs</span>, LNCS 7382, pp. 581-584. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-31522-0_87"
+    },
+    {
+        "id": 31,
+        "year": "2012",
+        "category": "conferences",
+        "pdfUrl": "/publications/Schefbeck et al. - 2012 - The Recent Challenge in Web Archiving - Archiving the Social Web.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Schefbeck et al. - 2012 - The Recent Challenge in Web Archiving - Archiving the Social Web.txt",
+        "html": "Schefbeck, G., <strong>Spiliotopoulos, D.</strong>, Risse, T. (2012). <strong>The Recent Challenge in Web Archiving: Archiving the Social Web</strong>. <span class='journal-title'>International Council on Archives Congress</span>, pp. 1-5, Brisbane, Australia, 20-24 August 2012."
+    },
+    {
+        "id": 32,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - Obtaining societal feedback on Legislative issues through content extraction from the social web.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - Obtaining societal feedback on Legislative issues through content extraction from the social web.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Schefbeck, G., Koryzis, D. (2013). <strong>Obtaining Societal Feedback on Legislative Issues through Content Extraction from the Social Web</strong>. In <span class='journal-title'>Proc. 16th International Symposium on Legal Informatics</span>, pp. 1-4, 21-23 February 2013, Salzburg, Austria."
+    },
+    {
+        "id": 33,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - The Iterative Design and Evaluation Approach for a Socially-aware Search and Retrieval Application for Digital Archiving.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - The Iterative Design and Evaluation Approach for a Socially-aware Search and Retrieval Application for Digital Archiving.txt",
+        "html": "Spiliotopoulos, D.</strong>, Bouwmeester, R., Frey, D., Kouroupetroglou, G., Stavropoulou, P. (2013). <strong>The Iterative Design and Evaluation Approach for a Socially-aware Search and Retrieval Application for Digital Archiving</strong>. In <span class='journal-title'>Proc. 6th International Conference on Advances in Computer-Human Interaction</span>, pp. 157-161, 24 February - 1 March 2013, Nice, France."
+    },
+    {
+        "id": 34,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - User Perception Knowledge for Socially Aware Web Document Accessibility.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-39191-0_76",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - User Perception Knowledge for Socially Aware Web Document Accessibility.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Stavropoulou, P., Kouroupetroglou, G., Tsonos, D. (2013). <strong>User Perception Knowledge for Socially-aware Web document Accessibility</strong>. In <span class='journal-title'>Proc. 15th International Conference on Human-Computer Interaction (HCII 2013)</span>, pp. 710-717. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-39191-0_76"
+    },
+    {
+        "id": 35,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - Usability Design and Testing of an Interface for Search and Retrieval of Social Web Data.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-39253-5_64",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - Usability Design and Testing of an Interface for Search and Retrieval of Social Web Data.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Bouwmeester, R., Kouroupetroglou, G., Stavropoulou, P., Tsonos, D. (2013). <strong>Usability design and testing of an interface for search and retrieval of semantic web data</strong>. In <span class='journal-title'>Proc. 15th International Conference on Human-Computer Interaction (HCII 2013)</span>, pp. 575-580. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-39253-5_64"
+    },
+    {
+        "id": 36,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - Digital Archives Semantic Search and Retrieval.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-39146-0_16",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - Digital Archives Semantic Search and Retrieval.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Tzoannos, E, Cabulea, C., Frey, D. (2013). <strong>Digital Archives: Semantic Search and Retrieval</strong>, In <span class='journal-title'>Proc. Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured, Big Data. HCI-KDD-2013</span> LNCS, vol 7947, pp.173-182. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-39146-0_16"
+    },
+    {
+        "id": 37,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Papatheodorou et al. - 2013 - On the Identification and Annotation of Emotional Properties of Verbs.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-642-41033-8_75",
+        "bibtexUrl": "/publications/Papatheodorou et al. - 2013 - On the Identification and Annotation of Emotional Properties of Verbs.txt",
+        "html": "Papatheodorou, N., Stavropoulou, P., Tsonos, D., Kouroupetroglou, G., Papageorgiou, C., <strong>Spiliotopoulos, D.</strong> (2013). <strong>On the Identification and Annotation of Emotional Properties of Verbs</strong>. In <span class='journal-title'>Proc. On the Move to Meaningful Internet Systems (OTM 2013)</span>, LNCS 8186, pp.588-597. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-642-41033-8_75"
+    },
+    {
+        "id": 38,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou et al. - 2013 - Where Greek TtS Fails.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Stavropoulou et al. - 2013 - Where Greek TtS Fails.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2013). <strong>Where Greek TtS Fails</strong>. In <span class='journal-title'>Proc. 11th International Conference on Greek Linguistics</span>, 26-29 September 2013, Rhodes, Greece."
+    },
+    {
+        "id": 39,
+        "year": "2013",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2013 - Relation Visualization for Semantically Enriched Web Content.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2013 - Relation Visualization for Semantically Enriched Web Content.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Bouwmeester, R., Proios, D. (2013). <strong>Relation Visualization for Semantically Enriched Web Content</strong>. In <span class='journal-title'>Proc. 1st Communicating Complexity International Design Conference (2CO-2013)</span>, 25-26 October 2013, Alghero, Italy."
+    },
+    {
+        "id": 40,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Petasis et al. - 2014 - Sentiment Analysis for Reputation Management - Mining the Greek Web.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Petasis et al. - 2014 - Sentiment Analysis for Reputation Management - Mining the Greek Web.txt",
+        "html": "Petasis, G., <strong>Spiliotopoulos, D.</strong>, Tsirakis, N., Tsantilas, P. (2014). <strong>Sentiment Analysis for Reputation Management: Mining the Greek Web</strong>. In <span class='journal-title'>Proc. 8th Hellenic Conference in Artificial Intelligence</span>, LNCS 8445, pp. 327-340. Springer, Cham. https://doi.org/10.1007/978-3-319-07064-3_26"
+    },
+    {
+        "id": 41,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2014 - Accessibility Driven Design for Policy Argumentation Modelling.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-07509-9_10",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2014 - Accessibility Driven Design for Policy Argumentation Modelling.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Dalianis, A., Kouroupetroglou, G. (2014). <strong>Accessibility Driven Design for Policy Argumentation Modelling</strong>, In <span class='journal-title'>Proc. 16th International Conference on Human-Computer Interaction (HCII 2014)</span>, LNCS 8516, pp. 101-108. Springer, Cham. https://doi.org/10.1007/978-3-319-07509-9_10"
+    },
+    {
+        "id": 42,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2014 - Pilot Scenario Design for Evaluating a Metacognitive Skills Learning Dialogue System.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-07854-0_29",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2014 - Pilot Scenario Design for Evaluating a Metacognitive Skills Learning Dialogue System.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Petukhova, V., Koryzis, D. (2014). <strong>Pilot Scenario Design for Evaluating a Metacognitive Skills Learning Dialogue System</strong>. In <span class='journal-title'>Proc. 16th International Conference on Human-Computer Interaction (HCII 2014)</span>, CCIS 435, pp. 162-166. Springer, Cham. https://doi.org/10.1007/978-3-319-07854-0_29"
+    },
+    {
+        "id": 43,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2014 - Need driven Prototype Design for a Policy Modeling Authoring Interface.pdf",
+        "doiUrl": "",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2014 - Need driven Prototype Design for a Policy Modeling Authoring Interface.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Dalianis, A., Koryzis, D. (2014). <strong>Need driven Prototype Design for a Policy Modeling Authoring Interface</strong>. In <span class='journal-title'>Proc. 16th International Conference on Human-Computer Interaction (HCII 2014)</span>, LNCS 8518, pp. 481-487. Springer, Cham. https://doi.org/10.1007/978-3-319-07626-3_45"
+    },
+    {
+        "id": 44,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Alexandersson et al. - 2014 - A multiperspective multimodal dialogue system with metacognitive abilities for highly adaptive and flexible dialogue management.pdf",
+        "doiUrl": "https://doi.org/10.1109/IE.2014.67",
+        "bibtexUrl": "/publications/Alexandersson et al. - 2014 - A multiperspective multimodal dialogue system with metacognitive abilities for highly adaptive and flexible dialogue management.txt",
+        "html": "Alexandersson, J., Girenko, A., <strong>Spiliotopoulos, D.</strong>, Petukhova, V., Klakow, D., Koryzis, D., Taatgen, N., Specht, M., Campbell, N., Aretoulaki, M., Stricker, A., Gardner, M. (2014). <strong>Metalogue: A Multiperspective Multimodal Dialogue System with Metacognitive Abilities for Highly Adaptive and Flexible Dialogue Management</strong>. In <span class='journal-title'>Proc. 10th International Conference on Intelligent Environments</span>, pp. 365-368, 2-4 July 2014, Shanghai, China. https://doi.org/10.1109/IE.2014.67"
+    },
+    {
+        "id": 45,
+        "year": "2014",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2014 - Technically Challenging Human Factors Issues for a Policy Argumentation Approach.pdf",
+        "doiUrl": "https://doi.org/10.54941/AHFE100786",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2014 - Technically Challenging Human Factors Issues for a Policy Argumentation Approach.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Dalianis, A. (2014). <strong>Technically Challenging Human Factors Issues for a Policy Argumentation Approach</strong>. In <span class='journal-title'>Proc. 5th International Conference on Applied Human Factors and Ergonomics</span>, pp. 1-4, Krakow, Poland, 19-23 July 2014. https://doi.org/10.54941/AHFE100786"
+    },
+    {
+        "id": 46,
+        "year": "2015",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2015 - Speech Enabled Ontology Graph Navigation and Editing.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-20678-3_47",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2015 - Speech Enabled Ontology Graph Navigation and Editing.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Dalianis, A., Koryzis, D. (2015). <strong>Speech Enabled Ontology Graph Navigation and Editing</strong>. In <span class='journal-title'>Proc. 17th International Conference on Human-Computer Interaction (HCII 2015)</span>, LNCS 9175, pp. 487-494, Los Angeles, CA, USA, 2-7 August 2015. Springer, Cham. https://doi.org/10.1007/978-3-319-20678-3_47"
+    },
+    {
+        "id": 47,
+        "year": "2015",
+        "category": "conferences",
+        "pdfUrl": "/publications/Samaras et al. - 2015 - Enhancing the Trustworthiness of Service On-Demand Systems via Smart Vote Filtering.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-22846-4_6",
+        "bibtexUrl": "/publications/Samaras et al. - 2015 - Enhancing the Trustworthiness of Service On-Demand Systems via Smart Vote Filtering.txt",
+        "html": "Samaras, C., Tsioliaridou, N. A., Liaskos, C. K., <strong>Spiliotopoulos, D.</strong>, Ioannidis, S. (2015). <strong>Enhancing the Trustworthiness of Service On-Demand Systems via Smart Vote Filtering</strong>. In <span class='journal-title'>Proc. 8th International Conference on Trust &amp; Trustworthy Computing (TRUST 2015)</span>, LNCS 9229, pp. 88-103, Heraklion, Greece, 24-26 August, 2015. Springer, Cham. https://doi.org/10.1007/978-3-319-22846-4_6"
+    },
+    {
+        "id": 48,
+        "year": "2016",
+        "category": "conferences",
+        "pdfUrl": "/publications/Koryzis et al. - 2016 - METALOGUE A Multimodal Learning Journey.pdf",
+        "doiUrl": "https://doi.org/10.1145/2910674.2935860",
+        "bibtexUrl": "/publications/Koryzis et al. - 2016 - METALOGUE A Multimodal Learning Journey.txt",
+        "html": "Koryzis, D., Svolopoulos, V., Spiliotopoulos, D. (2016). <strong>Metalogue: A Multimodal Learning Journey</strong>. In <span class='journal-title'>Proc. 9th ACM International Conference on Pervasive Technologies Related to Assistive Environments</span>, pp. 1-4, Corfu, Greece, 29 June - 01 July 2016. ACM. https://doi.org/10.1145/2910674.2935860"
+    },
+    {
+        "id": 49,
+        "year": "2016",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2016 - Usability Evaluation of Accessible Complex Graphs.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-41264-1_77",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2016 - Usability Evaluation of Accessible Complex Graphs.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Antonakaki, D., Ioannidis, S., Fragopoulou, P. (2016). <strong>Usability Evaluation of Accessible Complex Graphs</strong>. In <span class='journal-title'>Proc. 15th International Conference on Computers Helping People with Special Needs</span>, LNCS 9758, pp. 571-574, Linz, Austria, 13-15 July 2016. Springer, Cham. https://doi.org/10.1007/978-3-319-41264-1_77"
+    },
+    {
+        "id": 50,
+        "year": "2016",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2016 - Motivation Effect of Social Media Posts about Well-being and Healthy Living.pdf",
+        "doiUrl": "https://doi.org/10.1145/2910674.2910688",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2016 - Motivation Effect of Social Media Posts about Well-being and Healthy Living.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Antonakaki, D., Ioannidis, S., Fragopoulou, P. (2016). <strong>Motivation Effect of Social Media Posts about Well-being and Healthy Living</strong>. In <span class='journal-title'>Proc. 9th ACM International Conference on Pervasive Technologies Related to Assistive Environments</span>, pp. 1-4, Corfu, Greece, 29 June - 01 July 2016. ACM. https://doi.org/10.1145/2910674.2910688"
+    },
+    {
+        "id": 51,
+        "year": "2016",
+        "category": "conferences",
+        "pdfUrl": "/publications/Antonakaki et al. - 2016 - Investigating the Complete Corpus of Referendum and Elections Tweets.pdf",
+        "doiUrl": "https://doi.org/10.1109/ASONAM.2016.7752220",
+        "bibtexUrl": "/publications/Antonakaki et al. - 2016 - Investigating the Complete Corpus of Referendum and Elections Tweets.txt",
+        "html": "Antonakaki, D., <strong>Spiliotopoulos, D.</strong>, Samaras, C., Ioannidis, S., Fragopoulou, P. (2016). <strong>Investigating the complete corpus of Referendum and Elections tweets</strong>. In <span class='journal-title'>Proc. 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016)</span>, pp. 1-6, San Francisco, CA, USA, 18-21 August 2016. https://doi.org/10.1109/ASONAM.2016.7752220"
+    },
+    {
+        "id": 52,
+        "year": "2017",
+        "category": "conferences",
+        "pdfUrl": "/publications/Koryzis et al. - 2017 - Visual Cue Streams for Multimodal Dialogue Interaction.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-42070-7_50",
+        "bibtexUrl": "/publications/Koryzis et al. - 2017 - Visual Cue Streams for Multimodal Dialogue Interaction.txt",
+        "html": "Koryzis, D., Samaras, CV., Makri, E., Svolopoulos, V., <strong>Spiliotopoulos, D.</strong> (2017). <strong>Visual Cue Streams for Multimodal Dialogue Interaction</strong>. In <span class='journal-title'>Proc. Advances in Human Factors</span>, Business Management, Training and Education, Advances in Intelligent Systems and Computing, vol 498. pp. 541-547, Florida, USA. Springer, Cham. https://doi.org/10.1007/978-3-319-42070-7_50"
+    },
+    {
+        "id": 53,
+        "year": "2017",
+        "category": "conferences",
+        "pdfUrl": "/publications/Fitsilis et al. - 2017 - Implementing Digital Parliament Innovative Concepts for Citizens and Policy Makers.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-58481-2_13",
+        "bibtexUrl": "/publications/Fitsilis et al. - 2017 - Implementing Digital Parliament Innovative Concepts for Citizens and Policy Makers.txt",
+        "html": "Fitsilis F., Koryzis D., Svolopoulos V., <strong>Spiliotopoulos D.</strong> (2017). <strong>Implementing Digital Parliament Innovative Concepts for Citizens and Policy Makers</strong>. In <span class='journal-title'>Proc. 19th International Conference in Human-Computer Interaction</span>, LNCS 10293, pp. 154–170, 9-14 July 2017, Vancouver, Canada. Springer, Cham. https://doi.org/10.1007/978-3-319-58481-2_13"
+    },
+    {
+        "id": 54,
+        "year": "2017",
+        "category": "conferences",
+        "pdfUrl": "/publications/Aivazoglou et al. - 2017 - Reveal Fine-grained Recommendations in Online Social Networks.pdf",
+        "doiUrl": "https://doi.org/10.1145/3110025.3110085",
+        "bibtexUrl": "/publications/Aivazoglou et al. - 2017 - Reveal Fine-grained Recommendations in Online Social Networks.txt",
+        "html": "Aivazoglou, M., Roussos, O., Ioannidis, S., <strong>Spiliotopoulos, D.</strong>, Polakis, J. (2017). <strong>Reveal: Fine Grained Recommendations in a Social Ecosystem</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017)</span>, pp. 417-420, Sydney, Australia, 31 July - 03 August 2017. ACM. https://doi.org/10.1145/3110025.3110085"
+    },
+    {
+        "id": 55,
+        "year": "2018",
+        "category": "conferences",
+        "pdfUrl": "/publications/Petukhova et al. - 2018 - The Metalogue Debate Trainee Corpus.pdf",
+        "doiUrl": "https://doi.org/10.63317/5hnqsunjmvsf",
+        "bibtexUrl": "/publications/Petukhova et al. - 2018 - The Metalogue Debate Trainee Corpus.txt",
+        "html": "Petukhova, V., Malchanau, A., Oualil, Y., Klakow, D., Luz, S., Haider, F., Campbell, N., Koryzis, D., <strong>Spiliotopoulos, D.</strong>, Albert, P., Linz, N., Alexandersson, J. (2018). <strong>The Metalogue Debate Trainee Corpus: Data Collection and Annotations</strong>. In <span class='journal-title'>Proc. International Conference on Language Resources and Evaluation (LREC-2018)</span>, pp. 1-7, Miyazaki, Japan, 7-12 May 2018. https://doi.org/10.63317/5hnqsunjmvsf"
+    },
+    {
+        "id": 56,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Varitimiadis et al. - 2019 - Towards implementing an AI chatbot platform for museums.pdf",
+        "doiUrl": "https://doi.org/10.12681/cicms.2732",
+        "bibtexUrl": "/publications/Varitimiadis et al. - 2019 - Towards implementing an AI chatbot platform for museums.txt",
+        "html": "Varitimiadis, S., Tzortzakakis, A., Kotis, K., Tsekouras, G., <strong>Spiliotopoulos, D.</strong> (2019). <strong>Towards implementing an AI chatbot platform for museums</strong>. In <span class='journal-title'>Proc. 2nd International Conference on Cultural Informatics, Communication and Media Studies</span>, pp. 1-8, Mitilini, Lesvos, 13-15 June 2019. https://doi.org/10.12681/cicms.2732"
+    },
+    {
+        "id": 57,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Makri et al. - 2019 - Metalogue Virtual Agent for Negotiation.pdf",
+        "doiUrl": "https://doi.org/10.21125/edulearn.2019.0460",
+        "bibtexUrl": "/publications/Makri et al. - 2019 - Metalogue Virtual Agent for Negotiation.txt",
+        "html": "Makri, E., Koryzis, D., <strong>Spiliotopoulos, D.</strong>, Svolopoulos, V. (2019). <strong>Metalogue's Virtual Agent for Negotiation: Its Effect On Learniing Experience, Metacognitive and Individual-and-Community-level Attitudes Pre-and-Post Interaction</strong>. In <span class='journal-title'>Proc. 11th Annual International Conference on Education and New Learning Technologies</span>, pp. 1542-1551, Palma de Mallorca, Spain, 1-3 July 2019. https://doi.org/10.21125/edulearn.2019.0460"
+    },
+    {
+        "id": 58,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2019 - A Methodology for Generated Text Annotation for High Quality Speech.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA.2019.8900720",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2019 - A Methodology for Generated Text Annotation for High Quality Speech.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Margaris, D., Kotis, K. (2019). <strong>A Methodology for Generated Text Annotation for High Quality Speech Synthesis</strong>. In <span class='journal-title'>Proc. IEEE International Conference on Information, Intelligence, Systems and Applications</span>, pp. 1-8, Patra, Greece, 16-18 July 2019. https://doi.org/10.1109/IISA.2019.8900720"
+    },
+    {
+        "id": 59,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering's Rating Prediction Accuracy.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA.2019.8900758",
+        "bibtexUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering's Rating Prediction Accuracy.txt",
+        "html": "Margaris, D., Vasilopoulos, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong> (2019). <strong>Improving Collaborative Filtering's Rating Prediction Accuracy by Introducing the Common Item Rating Past Criterion</strong>. In <span class='journal-title'>Proc. 10th IEEE International Conference on Information, Intelligence, Systems and Applications</span>, pp. 1-8, Patra, Greece, 16-18 July 2019. <b>(Best paper award)</b>. https://doi.org/10.1109/IISA.2019.8900758"
+    },
+    {
+        "id": 60,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering's Rating Prediction Coverag.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA.2019.8900678",
+        "bibtexUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering's Rating Prediction Coverag.txt",
+        "html": "Margaris, D., Vasilopoulos, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong> (2019). <strong>Improving Collaborative Filtering's Rating Prediction Coverage in Sparse Datasets through the Introduction of Virtual Near Neighbors</strong>. In <span class='journal-title'>Proc. 10th IEEE International Conference on Information, Intelligence, Systems and Applications</span>, pp. 1-8, Patra, Greece, 16-18 July 2019. https://doi.org/10.1109/IISA.2019.8900678"
+    },
+    {
+        "id": 61,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2019 - Social Relations versus Near Neighbours.pdf",
+        "doiUrl": "https://doi.org/10.1145/3341161.3345620",
+        "bibtexUrl": "/publications/Margaris et al. - 2019 - Social Relations versus Near Neighbours.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2019). <strong>Social Relations versus Near Neighbours: Reliable Recommenders in Limited Information Social Network Collaborative Filtering for Online Advertising</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2019)</span>, pp. 1160-1167, Vancouver, Canada, 27-30 August 2019. https://doi.org/10.1145/3341161.3345620"
+    },
+    {
+        "id": 62,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2019 - Data-driven Country Safety Monitoring Terrorist Attack Prediction.pdf",
+        "doiUrl": "https://doi.org/10.1145/3341161.3343527",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2019 - Data-driven Country Safety Monitoring Terrorist Attack Prediction.txt",
+        "html": "Spiliotopoulos, D.</strong>, Vassilakis, C., Margaris, D. (2019). <strong>Data-driven Country Safety Monitoring Terrorist Attack Prediction</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2019)</span>, pp. 1128-1135, Vancouver, Canada, 27-30 August 2019. https://doi.org/10.1145/3341161.3343527"
+    },
+    {
+        "id": 63,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering’s Rating Prediction Quality.pdf",
+        "doiUrl": "https://doi.org/10.1145/3350546.3352544",
+        "bibtexUrl": "/publications/Margaris et al. - 2019 - Improving Collaborative Filtering’s Rating Prediction Quality.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C.  (2019). <strong>Improving Collaborative Filtering's Rating Prediction Quality by Exploiting the Item Adoption Eagerness Information</strong>. In <span class='journal-title'>Proc. IEEE/WIC/ACM International Conference on Web Intelligence (WI 2019)</span>, pp. 1-6, Thessaloniki, Greece, 14–17 October 2019. https://doi.org/10.1145/3350546.3352544"
+    },
+    {
+        "id": 64,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2019 - A Mixed-reality Interaction-driven Game-based Learning Framework.pdf",
+        "doiUrl": "https://doi.org/10.1145/3297662.3365802",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2019 - A Mixed-reality Interaction-driven Game-based Learning Framework.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C., Petukhova, V., Kotis, K. (2019). <strong>A Mixed-reality Interaction-driven Game-based Learning Framework</strong>. In <span class='journal-title'>Proc. 11th International ACM Conference on Management of Digital EcoSystems (MEDES'19)</span>, pp. 229-236, Limassol, Cyprus, 12-14 November 2019. https://doi.org/10.1145/3297662.3365802"
+    },
+    {
+        "id": 65,
+        "year": "2019",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2019 - Citizen Engagement for Transparent and Accountable Policy Modelling.pdf",
+        "doiUrl": "https://doi.org/10.1145/3297662.3365813",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2019 - Citizen Engagement for Transparent and Accountable Policy Modelling.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C. (2019). <strong>Citizen Engagement for Transparent and Accountable Policy Modelling</strong>. In <span class='journal-title'>Proc. 11th International ACM Conference on Management of Digital EcoSystems (MEDES'19)</span>, pp. 158-165, Limassol, Cyprus, 12-14 November 2019. https://doi.org/10.1145/3297662.3365813"
+    },
+    {
+        "id": 66,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stavropoulou et al. - 2020 - Voice User Interfaces for Service Robots.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-49282-3_35",
+        "bibtexUrl": "/publications/Stavropoulou et al. - 2020 - Voice User Interfaces for Service Robots.txt",
+        "html": "Stavropoulou, P., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2020). <strong>Voice User Interfaces for Service Robots: Design Principles and Methodology</strong>. In <span class='journal-title'>Proc. 22nd International Conference on Human-Computer Interaction</span>, LNCS 12188, pp. 489-505, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-49282-3_35"
+    },
+    {
+        "id": 67,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Varitimiadis et al. - 2020 - Talking Triples to Museum Chatbots.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-50267-6_22",
+        "bibtexUrl": "/publications/Varitimiadis et al. - 2020 - Talking Triples to Museum Chatbots.txt",
+        "html": "Varitimiadis, S., Kotis, K., <strong>Spiliotopoulos, D.</strong>, Vassiliakis, C., Margaris, D. (2020). <strong>'Talking' triples to Museum Chatbots</strong>. In <span class='journal-title'>Proc. 22nd International Conference on Human-Computer Interaction</span>, LNCS 12215, pp. 281-299, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-50267-6_22"
+    },
+    {
+        "id": 68,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Koryzis et al. - 2020 - Policy Making Analysis and Practitioner User Experience.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-60114-0_29",
+        "bibtexUrl": "/publications/Koryzis et al. - 2020 - Policy Making Analysis and Practitioner User Experience.txt",
+        "html": "Koryzis, D., Fitsilis, F., <strong>Spiliotopoulos, D.</strong>, Theocharopoulos, T., Vassilakis, C., Margaris, D. (2020). <strong>Policy Making Analysis and Practitioner User Experience</strong>. In <span class='journal-title'>Proc. 22nd International Conference on Human-Computer Interaction</span>, LNCS 12423, pp. 415-431, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-60114-0_29"
+    },
+    {
+        "id": 69,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2020 - Semantics-driven Conversational Interfaces for Museum Chatbot.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-50267-6_20",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2020 - Semantics-driven Conversational Interfaces for Museum Chatbot.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Kotis, K., Margaris, D., Vassilakis, C. (2020). <strong>Semantics-driven Conversational Interfaces for Museum Chatbots</strong>. In <span class='journal-title'>Proc. 22nd International Conference on Human-Computer Interaction</span>, LNCS 12215, pp. 255-266, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-50267-6_20"
+    },
+    {
+        "id": 70,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - A User Interface for Personalized Web Service Selection in Business Processes.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-60152-2_41",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - A User Interface for Personalized Web Service Selection in Business Processes.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Karagiorgos, G. (2020). <strong>A User Interface for Personalized Web Service Selection in Business Processes</strong>, LNCS 12427, pp. 560-573, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-60152-2_41"
+    },
+    {
+        "id": 71,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2020 - MOOC Accessibility from the Educator Perspective.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-60149-2_10",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2020 - MOOC Accessibility from the Educator Perspective.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Poulopoulos, V., Margaris, D., Makri, E., Vassilakis, C. (2020). <strong>MOOC Accessibility from the Educator Perspective</strong>. In <span class='journal-title'>Proc. 22nd International Conference on Human-Computer Interaction</span>, LNCS 12426, pp. 114-125, Copenhagen, Denmark, 19-24 July 2020. https://doi.org/10.1007/978-3-030-60149-2_10"
+    },
+    {
+        "id": 72,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Vassilakis et al. - 2020 - Database Knowledge Enrichment Utilizing Trending Topics from Twitter.pdf",
+        "doiUrl": "https://doi.org/10.1109/ASONAM49781.2020.9381421",
+        "bibtexUrl": "/publications/Vassilakis et al. - 2020 - Database Knowledge Enrichment Utilizing Trending Topics from Twitter.txt",
+        "html": "Vassilakis, C., Maniataki, D., Lepouras, G., Antoniou, A., <strong>Spiliotopoulos, D.</strong>, Poulopoulos, V., Wallace, M., Margaris, D. (2020). <strong>Database Knowledge Enrichment Utilizing Trending Topics from Twitter.</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2020)</span>, pp. 870-876, 7-10 December 2020. https://doi.org/10.1109/ASONAM49781.2020.9381421"
+    },
+    {
+        "id": 73,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - Neighbourhood Aging Factors for Limited Information Social Network Collaborative Filtering.pdf",
+        "doiUrl": "https://doi.org/10.1109/ASONAM49781.2020.9381314",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - Neighbourhood Aging Factors for Limited Information Social Network Collaborative Filtering.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2020). <strong>Neighbourhood Aging Factors for Limited Information Social Network Collaborative Filtering</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2020)</span>, pp. 877-883, 7-10 December 2020. https://doi.org/10.1109/ASONAM49781.2020.9381314"
+    },
+    {
+        "id": 74,
+        "year": "2020",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2020 - On Recommending Safe Travel Periods to High Attack Risk Destinations.pdf",
+        "doiUrl": "https://doi.org/10.1109/ASONAM49781.2020.9381391",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2020 - On Recommending Safe Travel Periods to High Attack Risk Destinations.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Margaris, D. (2020). <strong>On Recommending Safe Travel Periods to High Attack Risk Destinations</strong>. In <span class='journal-title'>Proc. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2020)</span>, pp. 854-861, 7-10 December 2020. https://doi.org/10.1109/ASONAM49781.2020.9381391"
+    },
+    {
+        "id": 75,
+        "year": "2021",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2021 - A User Interface for Personalising WS-BPEL Scenarios.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-77750-0_25",
+        "bibtexUrl": "/publications/Margaris et al. - 2021 - A User Interface for Personalising WS-BPEL Scenarios.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vasilopoulos, D., Vassilakis, C. (2021). <strong>A User Interface for Personalizing WS-BPEL Scenarios</strong>. In <span class='journal-title'>Proc. 23rd International Conference on Human-Computer Interaction</span>, LNCS 12783, pp. 399-416, Washington DC, USA, 24-29 July 2021. https://doi.org/10.1007/978-3-030-77750-0_25"
+    },
+    {
+        "id": 76,
+        "year": "2021",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2021 - An Interface for User-Centred Process and Correlation Between Large Datasets.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-030-78221-4_32",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2021 - An Interface for User-Centred Process and Correlation Between Large Datasets.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Giannakopoulos, T., Vassilakis, C., Wallace, M., Lantzouni, M., Poulopoulos, V., Margaris, D. (2021). <strong>An Interface for User-centered Process and Correlation between Large Datasets</strong>. In <span class='journal-title'>Proc. 23rd International Conference on Human-Computer Interaction</span>, LNCS 12779, pp. 477-494, Washington DC, USA, 24-29 July 2021. https://doi.org/10.1007/978-3-030-78221-4_32"
+    },
+    {
+        "id": 77,
+        "year": "2022",
+        "category": "conferences",
+        "pdfUrl": "/publications/Kokkinos et al. - 2022 - A Quality of Experience Illustrator User Interface for Cloud Provider Recommendations.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-031-06417-3_42",
+        "bibtexUrl": "/publications/Kokkinos et al. - 2022 - A Quality of Experience Illustrator User Interface for Cloud Provider Recommendations.txt",
+        "html": "Kokkinos, P., Margaris, D., <strong>Spiliotopoulos, D.</strong> (2022). <strong>A Quality of Experience Illustrator User Interface for Cloud Provider Recommendations</strong>. In <span class='journal-title'>Proc. 24th International Conference on Human-Computer Interaction</span>, CCIS 1580, pp. 308-315, Virtual, 26 June - 1 July 2022. https://doi.org/10.1007/978-3-031-06417-3_42"
+    },
+    {
+        "id": 78,
+        "year": "2022",
+        "category": "conferences",
+        "pdfUrl": "/publications/Margaris et al. - 2022 - Anchoring Effect Mitigation for Complex Recommender System Design.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-031-17615-9_29",
+        "bibtexUrl": "/publications/Margaris et al. - 2022 - Anchoring Effect Mitigation for Complex Recommender System Design.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2022). <strong>Anchoring Effect Mitigation for Complex Recommender System Design</strong>. In <span class='journal-title'>Proc. 24th International Conference on Human-Computer Interaction</span>, LNCS 13516, pp. 424-436, Virtual, 26 June - 1 July 2022. https://doi.org/10.1007/978-3-031-17615-9_29"
+    },
+    {
+        "id": 79,
+        "year": "2022",
+        "category": "conferences",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2022 - Persona Finetuning for Online Gaming.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-031-22131-6_48",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2022 - Persona Finetuning for Online Gaming.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Koutrakis, K.N., Philippopoulos, P.I., Vassilakis, C. (2022). <strong>Persona Finetuning for Online Gaming Using Personalisation Techniques</strong>. In <span class='journal-title'>Proc. 24th International Conference on Human-Computer Interaction</span>, LNCS 13517, pp. 656-668, Virtual, 26 June - 1 July 2022. https://doi.org/10.1007/978-3-031-22131-6_48"
+    },
+    {
+        "id": 80,
+        "year": "2023",
+        "category": "conferences",
+        "pdfUrl": "/publications/Karakikes et al. - 2023 - Towards Handling Bias in Intelligence Analysis with Twitter.pdf",
+        "doiUrl": "https://doi.org/10.1109/DSAA60987.2023.10302618",
+        "bibtexUrl": "/publications/Karakikes et al. - 2023 - Towards Handling Bias in Intelligence Analysis with Twitter.txt",
+        "html": "Karakikes, A., Alexiadis, P., Theocharopoulos, T., Skoulidas, N., <strong>Spiliotopoulos, D.</strong>, Kotis, K. (2023). <strong>Towards Handling Bias in Intelligence Analysis with Twitter</strong>. In <span class='journal-title'>Proc. 2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)</span>, Thessaloniki, Greece, pp. 1-10, 9-13 October 2023. https://doi.org/10.1109/DSAA60987.2023.10302618"
+    },
+    {
+        "id": 81,
+        "year": "2023",
+        "category": "conferences",
+        "pdfUrl": "/publications/Sgardelis et al. - 2023 - A User Interface for Tuning QoS Parameters in Recommendation-Based Business Process Scenario Adaptation.pdf",
+        "doiUrl": "https://doi.org/10.5220/0012207500003584",
+        "bibtexUrl": "/publications/Sgardelis et al. - 2023 - A User Interface for Tuning QoS Parameters in Recommendation-Based Business Process Scenario Adaptation.txt",
+        "html": "Sgardelis, K., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2023). <strong>A User Interface for Tuning QoS parameters in Recommendation-Based Business Process Scenario Adaptation</strong>. In <span class='journal-title'>Proc. 19th International Conference on Web Information Systems and Technologies (WEBIST 2023)</span>, pp. 414-421, Rome, Italy, 15-17 November 2023. https://doi.org/10.5220/0012207500003584"
+    },
+    {
+        "id": 82,
+        "year": "2024",
+        "category": "conferences",
+        "pdfUrl": "/publications/Dionissopoulos et al. - 2024 - Predicting Agricultural Product and Supplies Prices Using Artificial Intelligence.pdf",
+        "doiUrl": "https://doi.org/10.5220/0013071600003838",
+        "bibtexUrl": "/publications/Dionissopoulos et al. - 2024 - Predicting Agricultural Product and Supplies Prices Using Artificial Intelligence.txt",
+        "html": "Dionissopoulos, I., Assimakopoulos, F., <strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C. (2024). <strong>Predicting Agricultural Product and Supplies Prices using Artificial Intelligence</strong>. In <span class='journal-title'>Proc. 16th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2024)</span>, Volume 3: KMIS. pp. 371-379, Porto, Portugal, 17-19 November 2024. https://doi.org/10.5220/0013071600003838"
+    },
+    {
+        "id": 83,
+        "year": "2024",
+        "category": "conferences",
+        "pdfUrl": "/publications/Sgardelis et al. - 2024 - Improving Recommendation Quality in Collaborative Filtering.pdf",
+        "doiUrl": "https://doi.org/10.5220/0013052200003825",
+        "bibtexUrl": "/publications/Sgardelis et al. - 2024 - Improving Recommendation Quality in Collaborative Filtering.txt",
+        "html": "Sgardelis, K., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Ougiaroglou, S. (2024). <strong>Improving Recommendation Quality in Collaborative Filtering by Including Prediction Confidence Factors</strong>. In <span class='journal-title'>Proc. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024)</span>, pp. 372-379, Porto, Portugal, 17-19 November 2024. https://doi.org/10.5220/0013052200003825"
+    },
+    {
+        "id": 84,
+        "year": "2005",
+        "category": "journals",
+        "pdfUrl": "/publications/Xydas et al. - 2005 - Modeling Improved Prosody Generation from High-Level Linguistically Annotated Corpora.pdf",
+        "doiUrl": "https://doi.org/10.1093/ietisy/e88-d.3.510",
+        "bibtexUrl": "/publications/Xydas et al. - 2005 - Modeling Improved Prosody Generation from High-Level Linguistically Annotated Corpora.txt",
+        "html": "Xydas, G., <strong>Spiliotopoulos, D.</strong>, Kouroupetroglou, G. (2005). <strong>Modeling Improved Prosody Generation from High-Level Linguistically Annotated Corpora</strong>. <span class='journal-title'>IEICE Trans. of Inf. and Syst.</span> E88-D(3):510-518."
+    },
+    {
+        "id": 85,
+        "year": "2009",
+        "category": "journals",
+        "pdfUrl": "/publications/Kouroupetroglou and Spiliotopoulos - 2009 - Usability Methodologies for real-life Voice User Interfaces.pdf",
+        "doiUrl": "https://doi.org/10.4018/jitwe.2009100105",
+        "bibtexUrl": "/publications/Kouroupetroglou and Spiliotopoulos - 2009 - Usability Methodologies for real-life Voice User Interfaces.txt",
+        "html": "Kouroupetroglou, G., <strong>Spiliotopoulos, D.</strong> (2009). <strong>Usability Methodologies for Real-Life Voice User Interfaces</strong>. <span class='journal-title'>Int. Journal of Information Technology and Web Engineering</span> 4(4):78-94. https://doi.org/10.4018/jitwe.2009100105"
+    },
+    {
+        "id": 86,
+        "year": "2010",
+        "category": "journals",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2010 - Auditory universal accessibility of data tables using naturally derived prosody specification.pdf",
+        "doiUrl": "https://doi.org/10.1007/s10209-009-0165-0",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2010 - Auditory universal accessibility of data tables using naturally derived prosody specification.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Xydas, G., Kouroupetroglou, G., Argyropoulos, V., Ikospentaki, K. (2010). <strong>Auditory Universal Accessibility of Data Tables using Naturally Derived Prosody Specification</strong>. <span class='journal-title'>Univ Access Inf Soc</span> 9:169-183. https://doi.org/10.1007/s10209-009-0165-0"
+    },
+    {
+        "id": 87,
+        "year": "2014",
+        "category": "journals",
+        "pdfUrl": "/publications/Hendley et al. - 2014 - CASAM collaborative human-machine annotation of multimedia.pdf",
+        "doiUrl": "https://doi.org/10.1007/s11042-012-1255-1",
+        "bibtexUrl": "/publications/Hendley et al. - 2014 - CASAM collaborative human-machine annotation of multimedia.txt",
+        "html": "Hendley, R., Beale, R., Georgousopoulos, C., Vassiliou, C., Petridis, S., Moeller, R., Karstens, E., <strong>Spiliotopoulos, D.</strong> (2014). <strong>CASAM: Collaborative Human-Machine Annotation of Multimedia</strong>. <span class='journal-title'>Multimedia Tools and Applications</span> 70(2):1277-1308. https://doi.org/10.1007/s11042-012-1255-1"
+    },
+    {
+        "id": 88,
+        "year": "2014",
+        "category": "journals",
+        "pdfUrl": "/publications/Demidova et al - 2014 - Analysing and Enriching Focused Semantic Web Archives for Parliament Applications.pdf",
+        "doiUrl": "https://doi.org/10.3390/fi6030433",
+        "bibtexUrl": "/publications/Demidova et al - 2014 - Analysing and Enriching Focused Semantic Web Archives for Parliament Applications.txt",
+        "html": "Demidova, E., Barbieri, N., Dietze, S., Funk, A., Holzmann, H., Maynard, D., Papailiou, N., Peters, W., Risse, T., <strong>Spiliotopoulos, D.</strong> (2014). <strong>Analysing and Enriching Focused Semantic Web Archives for Parliament Applications</strong>. <span class='journal-title'>Future Internet</span> 6(3):433-456. https://doi.org/10.3390/fi6030433"
+    },
+    {
+        "id": 89,
+        "year": "2014",
+        "category": "journals",
+        "pdfUrl": "/publications/Risse et al. - 2014 - The ARCOMEM Architecture for Social- and Semantic-Driven Web Archiving.pdf",
+        "doiUrl": "https://doi.org/10.3390/fi6040688",
+        "bibtexUrl": "/publications/Risse et al. - 2014 - The ARCOMEM Architecture for Social- and Semantic-Driven Web Archiving.txt",
+        "html": "Risse, T., Demidova, E., Dietze, S., Peters, W., Papailiou, N., Doka, K., Stavrakas, Y., Plachouras, V., Senellart, P., Carpentier, F., Mantrach, A., Cautis, B., Siehndel, P., <strong>Spiliotopoulos, D.</strong> (2014). <strong>The ARCOMEM Architecture for Social and Semantic Driven Web Archiving</strong>. <span class='journal-title'>Future Internet</span> 6(4):688-716. https://doi.org/10.3390/fi6040688"
+    },
+    {
+        "id": 90,
+        "year": "2017",
+        "category": "journals",
+        "pdfUrl": "/publications/Antonakaki et al. - 2017 - Plos One - Social media analysis during political turbulence.pdf",
+        "doiUrl": "https://doi.org/10.1371/journal.pone.0186836",
+        "bibtexUrl": "/publications/Antonakaki et al. - 2017 - Plos One - Social media analysis during political turbulence.txt",
+        "html": "Antonakaki, D., <strong>Spiliotopoulos, D.</strong>, Samaras, C.V., Pratikakis, P., Ioannidis, S., Fragopoulou, P. (2017). <strong>Social media analysis during political turbulence</strong>. <span class='journal-title'>PLOS ONE</span>  12(10): e0186836, 1-23. https://doi.org/10.1371/journal.pone.0186836"
+    },
+    {
+        "id": 91,
+        "year": "2019",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2019 - Handling uncertainty in social media textual information.pdf",
+        "doiUrl": "https://doi.org/10.1007/s13278-019-0610-x",
+        "bibtexUrl": "/publications/Margaris et al. - 2019 - Handling uncertainty in social media textual information.txt",
+        "html": "Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>, (2019). <strong>Handling uncertainty in social media textual information for improving venue recommendation formulation quality in social networks</strong>. <span class='journal-title'>Social Network Analysis and Mining</span>  9(1):64. https://doi.org/10.1007/s13278-019-0610-x"
+    },
+    {
+        "id": 92,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Kotis et al. - 2020 - Ontology engineering methodologies for the evolution of living and reused ontologies.pdf",
+        "doiUrl": "https://doi.org/10.1017/S0269888920000065",
+        "bibtexUrl": "/publications/Kotis et al. - 2020 - Ontology engineering methodologies for the evolution of living and reused ontologies.txt",
+        "html": "Kotis, K., Vouros, G.A., <strong>Spiliotopoulos, D.</strong>, (2020). <strong>Ontology engineering methodologies for the evolution of living and reused ontologies: Status, trends, findings and recommendations</strong>. <span class='journal-title'>The Knowledge Engineering Review</span>  35, E4. doi:10.1017/S026988892000006"
+    },
+    {
+        "id": 93,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - An Adaptive Social Network-Aware Collaborative Filtering Algorithm for Improved Rating Prediction Accuracy.pdf",
+        "doiUrl": "https://doi.org/10.1109/ACCESS.2020.2981567",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - An Adaptive Social Network-Aware Collaborative Filtering Algorithm for Improved Rating Prediction Accuracy.txt",
+        "html": "Margaris, D., Kobusińska, A., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2020). <strong>An Adaptive Social Network-Aware Collaborative Filtering Algorithm for Improved Rating Prediction Accuracy</strong>. <span class='journal-title'>IEEE Access</span> 8(1):68301-68310. https://doi.org/10.1109/ACCESS.2020.2981567"
+    },
+    {
+        "id": 94,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Vassilakis et al. - 2020 - A Semantic Mixed Reality Framework for Shared Cultural Experiences Ecosystems.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc4020006",
+        "bibtexUrl": "/publications/Vassilakis et al. - 2020 - A Semantic Mixed Reality Framework for Shared Cultural Experiences Ecosystems.txt",
+        "html": "Vassilakis, C., Kotis, K., <strong>Spiliotopoulos, D.</strong>, Margaris, D., Kasapakis, V., Anagnostopoulos, C.N., Santipantakis, G., Vouros, G.A., Kotsilieris, T., Petukhova, V., Malchanau, A., Lykourentzou, I., Helin, K.M., Revenko, A., Gligoric, N., Pokric, B. (2020). <strong>A Semantic Mixed Reality Framework for Shared Cultural Experiences Ecosystems</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 4(2):6; doi:10.3390/bdcc4020006."
+    },
+    {
+        "id": 95,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Kotis et al. - 2020 - Intelligent Collaborative Authoring of Place-based, Cross-cultural and Media-rich Experiences.pdf",
+        "doiUrl": "https://doi.org/10.3390/challe11010010",
+        "bibtexUrl": "/publications/Kotis et al. - 2020 - Intelligent Collaborative Authoring of Place-based, Cross-cultural and Media-rich Experiences.txt",
+        "html": "Kotis, K., <strong>Spiliotopoulos, D.</strong>, Papasalouros, A. (2020). <strong>Intelligent Collaborative Authoring of Place-based, Cross-cultural and Media-rich Experiences</strong>. <span class='journal-title'>Challenges</span> 11(1), 10; doi:10.3390/challe11010010. "
+    },
+    {
+        "id": 96,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Makri et al. - 2020 - Human behaviour in multimodal interaction.pdf",
+        "doiUrl": "https://doi.org/10.1007/s12652-020-01846-x",
+        "bibtexUrl": "/publications/Makri et al. - 2020 - Human behaviour in multimodal interaction.txt",
+        "html": "Makri, E., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Margaris, D. (2020). <strong>Human behaviour in multimodal interaction: main effects of civic action and interpersonal and problem-solving skills</strong>. <span class='journal-title'>Journal of Ambient Intelligence and Humanized Computing</span> 11:5991–6006; doi:10.1007/s12652-020-01846-x. "
+    },
+    {
+        "id": 97,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - An Algorithm for Density Enrichment of Sparse Collaborative Filtering Datasets.pdf",
+        "doiUrl": "https://doi.org/10.3390/a13070174",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - An Algorithm for Density Enrichment of Sparse Collaborative Filtering Datasets.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Karagiorgos, G., Vassilakis, C. (2020). <strong>An Algorithm for Density Enrichment of Sparse Collaborative Filtering Datasets, using Robust Predictions as Derived Ratings</strong>. <span class='journal-title'>Algorithms</span> 13(7), 174. https://doi.org/10.3390/a13070174"
+    },
+    {
+        "id": 98,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - An integer programming-based algorithm for optimising the WS-BPEL scenario execution adaptation process.pdf",
+        "doiUrl": "https://doi.org/10.1504/IJWET.2020.113068",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - An integer programming-based algorithm for optimising the WS-BPEL scenario execution adaptation process.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Kardiasmenos, A., Pantazopoulos, D. (2020). <strong>An integer programming-based algorithm for optimizing the WS-BPEL scenario execution adaptation process</strong>. <span class='journal-title'>International Journal Web Engineering Technology</span> 15(3):307-332. https://doi.org/10.1504/IJWET.2020.113068"
+    },
+    {
+        "id": 99,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2020 - Data-Assisted Persona Construction Using Social Media Data.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc4030021",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2020 - Data-Assisted Persona Construction Using Social Media Data.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Vasilakis, C. (2020). <strong>Data-Assisted Persona Construction Using Social Media Data</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 4(3), 21. https://doi.org/10.3390/bdcc4030021"
+    },
+    {
+        "id": 100,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2020 - Multimodal Interaction. Correlates of Learners’ Metacognitive Skill Training Negotiation Experience.pdf",
+        "doiUrl": "https://doi.org/10.3390/info11080381",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2020 - Multimodal Interaction. Correlates of Learners’ Metacognitive Skill Training Negotiation Experience.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Makri, E., Vassilakis, C., Margaris, D. (2020). <strong>Multimodal Interaction: Correlates of Learners’ Metacognitive Skill Training Negotiation Experience</strong>. <span class='journal-title'>Information</span>, 11(8), 381. https://doi.org/10.3390/info11080381"
+    },
+    {
+        "id": 101,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - What makes a review a reliable rating in recommender systems.pdf",
+        "doiUrl": "https://doi.org/10.1016/j.ipm.2020.102304",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - What makes a review a reliable rating in recommender systems.txt",
+        "html": "Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>, (2020). <strong>What makes a review a reliable rating in recommender systems?</strong>. <span class='journal-title'>Information Processing and Management</span> 57(6), 102304. https://doi.org/10.1016/j.ipm.2020.102304"
+    },
+    {
+        "id": 102,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Aivazoglou et al. - 2020 - A Fine-grained Social Network Recommender System.pdf",
+        "doiUrl": "https://doi.org/10.1007/s13278-019-0621-7",
+        "bibtexUrl": "/publications/Aivazoglou et al. - 2020 - A Fine-grained Social Network Recommender System.txt",
+        "html": "Aivazoglou, M., Roussos, A.O., Margaris, D., Vassilakis, C., Ioannidis, S., Polakis, J., <strong>Spiliotopoulos, D.</strong> (2020). <strong>A Fine-grained Social Network Recommender System</strong>. <span class='journal-title'>Social Network Analysis and Mining</span> 10(1):8. https://doi.org/10.1007/s13278-019-0621-7"
+    },
+    {
+        "id": 103,
+        "year": "2020",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2020 - Improving Collaborative Filtering Rating Prediction Accuracy.pdf",
+        "doiUrl": "https://doi.org/10.1007/s00521-020-05460-y",
+        "bibtexUrl": "/publications/Margaris et al. - 2020 - Improving Collaborative Filtering Rating Prediction Accuracy.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Vasilopoulos, D. (2020). <strong>Improving Collaborative Filtering’s Rating Prediction Accuracy by Introducing the Experiencing Period Criterion</strong>. <span class='journal-title'>Neural Computing and Applications</span> 35(1): 193-210. https://doi.org/10.1007/s00521-020-05460-y"
+    },
+    {
+        "id": 104,
+        "year": "2021",
+        "category": "journals",
+        "pdfUrl": "/publications/Koryzis et al. - 2021 - ParlTech.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc5010015",
+        "bibtexUrl": "/publications/Koryzis et al. - 2021 - ParlTech.txt",
+        "html": "Koryzis, D., Dalas, A., <strong>Spiliotopoulos, D.</strong>, Fitsilis, F. (2021). <strong>ParlTech: Transformation Framework for the Digital Parliament</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 5(1), 15. https://doi.org/10.3390/bdcc5010015"
+    },
+    {
+        "id": 105,
+        "year": "2021",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2021 - Augmenting Black Sheep Neighbour Importance.pdf",
+        "doiUrl": "https://doi.org/10.3390/app11188369",
+        "bibtexUrl": "/publications/Margaris et al. - 2021 - Augmenting Black Sheep Neighbour Importance.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2021). <strong>Augmenting Black Sheep Neighbour Importance for Enhancing Rating Prediction Accuracy in Collaborative Filtering</strong>. <span class='journal-title'>Applied Sciences</span> 11(18), 8369. https://doi.org/10.3390/app11188369"
+    },
+    {
+        "id": 106,
+        "year": "2021",
+        "category": "journals",
+        "pdfUrl": "/publications/Kotis et al. - 2021 - The Smart Museum Ontology.pdf",
+        "doiUrl": "https://doi.org/10.3390/iot204003711",
+        "bibtexUrl": "/publications/Kotis et al. - 2021 - The Smart Museum Ontology.txt",
+        "html": "Zachila, K., Kotis, K., Paparidis, E., Ladikou, S., <strong>Spiliotopoulos, D.</strong>  (2021). <strong>Facilitating Semantic Interoperability of Trustworthy IoT Entities in Cultural Spaces: The Smart Museum Ontology</strong>. <span class='journal-title'>IoT</span> 2:741–760. https://doi.org/10.3390/iot204003711"
+    },
+    {
+        "id": 107,
+        "year": "2021",
+        "category": "journals",
+        "pdfUrl": "/publications/Angelis et al. - 2021 - Semantic Trajectory Analytics and Recommender Systems in Cultural Spaces.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc5040080",
+        "bibtexUrl": "/publications/Angelis et al. - 2021 - Semantic Trajectory Analytics and Recommender Systems in Cultural Spaces.txt",
+        "html": "Angelis, S., Kotis, K., <strong>Spiliotopoulos, D.</strong> (2021). <strong>Semantic Trajectory Analytics and Recommender Systems in Cultural Spaces</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 5(4), 80. https://doi.org/10.3390/bdcc5040080"
+    },
+    {
+        "id": 108,
+        "year": "2021",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2021 - On Addressing the Low Rating Prediction Coverage in Sparse Datasets Using Virtual Ratings.pdf",
+        "doiUrl": "https://doi.org/10.1007/s42979-021-00668-8",
+        "bibtexUrl": "/publications/Margaris et al. - 2021 - On Addressing the Low Rating Prediction Coverage in Sparse Datasets Using Virtual Ratings.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Karagiorgos, G., Vassilakis, C., Vasilopoulos, D. (2021). <strong>On Addressing the Low Rating Prediction Coverage in Sparse Datasets Using Virtual Ratings</strong>. <span class='journal-title'>SN Computer Science</span> 2(4), 255. https://doi.org/10.1007/s42979-021-00668-8"
+    },
+    {
+        "id": 109,
+        "year": "2022",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2022 - On Producing Accurate Rating Predictions in Sparse Collaborative Filtering Datasets.pdf",
+        "doiUrl": "https://doi.org/10.3390/info13060302",
+        "bibtexUrl": "/publications/Margaris et al. - 2022 - On Producing Accurate Rating Predictions in Sparse Collaborative Filtering Datasets.txt",
+        "html": "Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong> (2022). <strong>On Producing Accurate Rating Predictions in Sparse Collaborative Filtering Datasets</strong>. <span class='journal-title'>Information</span> 13(6), 302. https://doi.org/10.3390/info13060302"
+    },
+    {
+        "id": 110,
+        "year": "2022",
+        "category": "journals",
+        "pdfUrl": "/publications/Spiliotopoulos et al. - 2022 - On Exploiting Rating Prediction Accuracy Features in Dense Collaborative Filtering Datasets.pdf",
+        "doiUrl": "https://doi.org/10.3390/info13090428",
+        "bibtexUrl": "/publications/Spiliotopoulos et al. - 2022 - On Exploiting Rating Prediction Accuracy Features in Dense Collaborative Filtering Datasets.txt",
+        "html": "<strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C. (2022). <strong>On Exploiting Rating Prediction Accuracy Features in Dense Collaborative Filtering Datasets</strong>. <span class='journal-title'>Information</span> 13(9), 428. https://doi.org/10.3390/info13090428"
+    },
+    {
+        "id": 111,
+        "year": "2023",
+        "category": "journals",
+        "pdfUrl": "/publications/Koryzis et al. - 2023 - Disruptive Technologies for Parliaments.pdf",
+        "doiUrl": "https://doi.org/10.3390/fi15020066",
+        "bibtexUrl": "/publications/Koryzis et al. - 2023 - Disruptive Technologies for Parliaments.txt",
+        "html": "Koryzis, D., Margaris, D., Vassilakis, C., Kotis, K. <strong>Spiliotopoulos. D.</strong>, (2023). <strong>Disruptive Technologies for Parliaments: A Literature Review</strong>. <span class='journal-title'>Future Internet</span> 15(2), 66. https://doi.org/10.3390/fi15020066"
+    },
+    {
+        "id": 112,
+        "year": "2023",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis and Spiliotopoulos - 2023 - A stochastic review of the impact of artificial intelligence, machine learning and artificial neural networks in marketing.pdf",
+        "doiUrl": "https://www.managejournal.com/archives/2023/vol9/issue3/9053",
+        "bibtexUrl": "/publications/Makrydakis and Spiliotopoulos - 2023 - A stochastic review of the impact of artificial intelligence, machine learning and artificial neural networks in marketing.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong> (2023). <strong>A stochastic review of the impact of artificial intelligence, machine learning and artificial neural networks in marketing</strong>. <span class='journal-title'>International Journal of Commerce and Management Research</span> 9(3): 49-54."
+    },
+    {
+        "id": 113,
+        "year": "2023",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2023 - Rating Prediction Quality Enhancement.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc7020059",
+        "bibtexUrl": "/publications/Margaris et al. - 2023 - Rating Prediction Quality Enhancement.txt",
+        "html": "Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>, Ougiaroglou, S. (2023). <strong>Rating Prediction Quality Enhancement in Low-Density Collaborative Filtering Datasets</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 7(2), 59. https://doi.org/10.3390/bdcc7020059"
+    },
+    {
+        "id": 114,
+        "year": "2023",
+        "category": "journals",
+        "pdfUrl": "/publications/Bouras et al. - 2023 - Chatbots for Cultural Venues.pdf",
+        "doiUrl": "https://doi.org/10.3390/a16070339",
+        "bibtexUrl": "/publications/Bouras et al. - 2023 - Chatbots for Cultural Venues.txt",
+        "html": "Bouras, V., <strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C., Kotis, K., Antoniou, A., Lepouras, G., Wallace, M., Poulopoulos, V. (2023). <strong>Chatbots for Cultural Venues: A Topic-Based Approach</strong>. <span class='journal-title'>Algorithms</span> 16(7), 339. https://doi.org/10.3390/a16070339"
+    },
+    {
+        "id": 115,
+        "year": "2024",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2024 - Exploiting Rating Prediction Certainty for Recommendation Formulation in Collaborative Filtering.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc8060053",
+        "bibtexUrl": "/publications/Margaris et al. - 2024 - Exploiting Rating Prediction Certainty for Recommendation Formulation in Collaborative Filtering.txt",
+        "html": "Margaris, D., Sgardelis, K., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2024). <strong>Exploiting Rating Prediction Certainty for Recommendation Formulation in Collaborative Filtering</strong>. <span class='journal-title'>Big Data Cogn. Comput.</span> 8, 53. https://doi.org/10.3390/bdcc8060053"
+    },
+    {
+        "id": 116,
+        "year": "2024",
+        "category": "journals",
+        "pdfUrl": "/publications/Assimakopoulos et al. - 2024 - The Implementation of Smart Technologies in the Agricultural Sector.pdf",
+        "doiUrl": "https://doi.org/10.3390/info15080466",
+        "bibtexUrl": "/publications/Assimakopoulos et al. - 2024 - The Implementation of Smart Technologies in the Agricultural Sector.txt",
+        "html": "Assimakopoulos, F., Vassilakis, C., Margaris, D., Kotis, K., <strong>Spiliotopoulos, D.</strong> (2024). <strong>The Implementation of “Smart” Technologies in the Agricultural Sector: A Review</strong>. <span class='journal-title'>Information</span> 15(8), 466. https://doi.org/10.3390/info15080466"
+    },
+    {
+        "id": 117,
+        "year": "2024",
+        "category": "journals",
+        "pdfUrl": "/publications/Skourou and Spiliotopoulos - 2024 - Assessment of Purchasing Influence of Email Campaigns Using Eye Tracking.pdf",
+        "doiUrl": "https://doi.org/10.3390/mti8100087",
+        "bibtexUrl": "/publications/Skourou and Spiliotopoulos - 2024 - Assessment of Purchasing Influence of Email Campaigns Using Eye Tracking.txt",
+        "html": "Skourou, E., <strong>Spiliotopoulos, D.</strong> (2024). <strong>Assessment of Purchasing Influence of Email Campaigns Using Eye Tracking</strong>. <span class='journal-title'>Multimodal Technol. Interact. </span> 8(10), 87. https://doi.org/10.3390/mti8100087"
+    },
+    {
+        "id": 118,
+        "year": "2024",
+        "category": "journals",
+        "pdfUrl": "/publications/Assimakopoulos et al. - 2024 - Artificial Intelligence Tools for the Agriculture Value Chain.pdf",
+        "doiUrl": "https://doi.org/10.3390/electronics13224362",
+        "bibtexUrl": "/publications/Assimakopoulos et al. - 2024 - Artificial Intelligence Tools for the Agriculture Value Chain.txt",
+        "html": "Assimakopoulos, F., Vassilakis, C., Margaris, D., Kotis, K., <strong>Spiliotopoulos, D.</strong> (2024). <strong>Artificial Intelligence Tools for the Agriculture Value Chain: Status and Prospects</strong>. <span class='journal-title'>Electronics</span> 2024, 13, 4362. https://doi.org/10.3390/electronics13224362"
+    },
+    {
+        "id": 119,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Doumanas et al. - 2025 - Fine-Tuning Large Language Models for Ontology Engineering.pdf",
+        "doiUrl": "https://doi.org/10.3390/app15042146",
+        "bibtexUrl": "/publications/Doumanas et al. - 2025 - Fine-Tuning Large Language Models for Ontology Engineering.txt",
+        "html": "Doumanas, D., Soularidis, A., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Kotis, K. (2025). <strong>Fine-Tuning Large Language Models for Ontology Engineering: A Comparative Analysis of GPT-4 and Mistral</strong>. <span class='journal-title'>Applied Sciences</span> 15(5), 2146. https://doi.org/10.3390/app15042146"
+    },
+    {
+        "id": 120,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis and Spiliotopoulos - 2025 - Mapping Communication Plan Elements for Promoting National Strategies of Higher Education.pdf",
+        "doiUrl": "https://doi.org/10.11648/j.ebm.20251101.11",
+        "bibtexUrl": "/publications/Makrydakis and Spiliotopoulos - 2025 - Mapping Communication Plan Elements for Promoting National Strategies of Higher Education.txt",
+        "html": "Makrydakis N., <strong>Spiliotopoulos, D.</strong> (2025). <strong>Mapping Communication Plan Elements for Promoting National Strategies of Higher Education</strong>. <span class='journal-title'>European Business &amp; Management</span> 11(1), pp. 1-11. https://doi.org/10.11648/j.ebm.20251101.11"
+    },
+    {
+        "id": 121,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Assimakopoulos et al. - 2025 - AI and Related Technologies in the Fields of Smart Agriculture.pdf",
+        "doiUrl": "https://doi.org/10.3390/info16020100",
+        "bibtexUrl": "/publications/Assimakopoulos et al. - 2025 - AI and Related Technologies in the Fields of Smart Agriculture.txt",
+        "html": "Assimakopoulos, F., Vassilakis, C., Margaris, D., Kotis, K., <strong>Spiliotopoulos, D.</strong> (2025). <strong>AI and Related Technologies in the Fields of Smart Agriculture: A Review</strong>. <span class='journal-title'>Information</span> 16(2), 100. https://doi.org/10.3390/info16020100"
+    },
+    {
+        "id": 122,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 - Analysis of search engine optimization tactics in the context of digital marketing.pdf",
+        "doiUrl": "https://doi.org/10.33545/26648792.2025.v7.i1l.386",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 - Analysis of search engine optimization tactics in the context of digital marketing.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2025). <strong>Analysis of search engine optimization tactics in the context of digital marketing for enhancing websites ranking and visibility in Generative AI and large language models. </strong> <span class='journal-title'>Int. Journal of Research in Management</span> 7(1), pp. 1107-1113. https://doi.org/10.33545/26648792.2025.v7.i1l.386"
+    },
+    {
+        "id": 123,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 - Mapping key performance indicators for evaluation and monitoring the internationalization of higher education institutions.pdf",
+        "doiUrl": "https://doi.org/10.33545/26633329.2025.v7.i1a.210",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 - Mapping key performance indicators for evaluation and monitoring the internationalization of higher education institutions.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Michalakelis, C. (2025). <strong>Mapping key performance indicators for evaluation and monitoring the internationalization of higher education institutions. </strong> <span class='journal-title'>Int. Journal of Research in Marketing Management and Sales </span>7(1), pp. 25-36. https://doi.org/10.33545/26633329.2025.v7.i1a.210"
+    },
+    {
+        "id": 124,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 - Marketing as Crucial Factor for Higher Education National Strategies Application.pdf",
+        "doiUrl": "https://doi.org/10.51505/IJEBMR.2025.9611",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 - Marketing as Crucial Factor for Higher Education National Strategies Application.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2025). <strong>Marketing as Crucial Factor for Higher Education National Strategies Application: A Quantitative Study of Expert Perspectives for Policy Adoption and Stakeholder Engagement in Higher Education. </strong> <span class='journal-title'>Int. Journal of Economics Business and Management Research  </span> 9(6), pp. 188-201. https://doi.org/10.51505/IJEBMR.2025.9611"
+    },
+    {
+        "id": 125,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 - Strategic communication and promotion key factors.pdf",
+        "doiUrl": "https://doi.org/10.33545/26648792.2025.v7.i2j.545",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 - Strategic communication and promotion key factors.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2025). <strong>Strategic communication and promotion key factors for successful implementation of national strategies. </strong> <span class='journal-title'>Int. Journal of Research in Management </span> 7(2), pp. 916-924. https://doi.org/10.33545/26648792.2025.v7.i2j.545"
+    },
+    {
+        "id": 126,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2025 - From Rating Predictions to Reliable Recommendations.pdf",
+        "doiUrl": "https://doi.org/10.3390/bdcc9040106",
+        "bibtexUrl": "/publications/Margaris et al. - 2025 - From Rating Predictions to Reliable Recommendations.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2025). <strong>From Rating Predictions to Reliable Recommendations in Collaborative Filtering: The Concept of Recommendation Reliability Classes. </strong> <span class='journal-title'>Big Data Cogn. Comput. </span>, 2025, 9, 106. https://doi.org/10.3390/bdcc9040106"
+    },
+    {
+        "id": 127,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2025 - Using Prediction Confidence Factors to Enhance Collaborative Filtering Recommendation Quality.pdf",
+        "doiUrl": "https://doi.org/10.3390/technologies13050181",
+        "bibtexUrl": "/publications/Margaris et al. - 2025 - Using Prediction Confidence Factors to Enhance Collaborative Filtering Recommendation Quality.txt",
+        "html": "Margaris, D., <strong>Spiliotopoulos, D.</strong>, Sgardelis, K., Vassilakis, C. (2025). <strong>Using Prediction Confidence Factors to Enhance Collaborative Filtering Recommendation Quality.</strong> <span class='journal-title'>Technologies</span>, 13(5), 181. https://doi.org/10.3390/technologies13050181"
+    },
+    {
+        "id": 128,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2025 - An evaluation review of user similarity metrics in sparse collaborative filtering dataset.pdf",
+        "doiUrl": "https://doi.org/10.1007/s41060-025-00846-4",
+        "bibtexUrl": "/publications/Margaris et al. - 2025 - An evaluation review of user similarity metrics in sparse collaborative filtering dataset.txt",
+        "html": "Sgardelis, K., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2025). <strong>An evaluation review of user similarity metrics in sparse collaborative filtering datasets.</strong> <span class='journal-title'>International Journal of Data Science and Analytics</span>, 20, 6665–6693. https://doi.org/10.1007/s41060-025-00846-4"
+    },
+    {
+        "id": 129,
+        "year": "2025",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 -Tourism marketing in the era of Artificial Intelligence.pdf",
+        "doiUrl": "https://doi.org/10.22271/27069583.2025.v7.i2b.177",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 -Tourism marketing in the era of Artificial Intelligence.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2025). <strong>Tourism Marketing in the era of Artificial Intelligence: Digital strategies and Behavioral Effects on Consumer Decision-making</strong> <span class='journal-title'>Int. Journal of Tourism and Hotel Management</span>, 7(2):129-134. https://doi.org/10.22271/27069583.2025.v7.i2b.177"
+    },
+    {
+        "id": 130,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2026 - Marketing mix rebuilding for the age of generative AI.pdf",
+        "doiUrl": "https://doi.org/10.33545/26648792.2026.v8.i1a.597",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2026 - Marketing mix rebuilding for the age of generative AI.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Michalakelis, C., Lymperi, A., Poulis, A., Rizomyliotis, I. (2026). <strong>Marketing Mix Rebuilding for the Age of Generative AI: From 7P to 7G Marketing Mix Model.</strong> <span class='journal-title'>Int. Journal of Research in Management</span>, 8(1):30-41. https://doi.org/10.33545/26648792.2026.v8.i1a.597"
+    },
+    {
+        "id": 131,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2026 - International marketing in the digital and artificial intelligence era.pdf",
+        "doiUrl": "https://doi.org/10.33545/26633329.2026.v8.i2a.371",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2026 - International marketing in the digital and artificial intelligence era.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A., Salmon, I., Christofi, K. (2026). <strong>International Marketing in the Digital and Artificial Intelligence Era: Algorithmic Intermediation, Consumer Engagement, and Strategic Transformation</strong> <span class='journal-title'>Int. Journal of Research in Management</span>, 8(2):49-56. https://doi.org/10.33545/26633329.2026.v8.i2a.371"
+    },
+    {
+        "id": 132,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Roumeliotis et al. - 2026 - A Large-Scale Empirical Study of LLM Orchestration.pdf",
+        "doiUrl": "https://doi.org/10.3390/fi18020112",
+        "bibtexUrl": "/publications/Roumeliotis et al. - 2026 - A Large-Scale Empirical Study of LLM Orchestration.txt",
+        "html": "Roumeliotis, K.I., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2026). <strong>A Large-Scale Empirical Study of LLM Orchestration and Ensemble Strategies for Sentiment Analysis in Recommender Systems</strong> <span class='journal-title'>Future Internet</span>, 18(2), 112. https://doi.org/10.3390/fi18020112"
+    },
+    {
+        "id": 133,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Lapadaki et al. - 2026 - Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets.pdf",
+        "doiUrl": "https://doi.org/10.3390/fi18020114",
+        "bibtexUrl": "/publications/Lapadaki et al. - 2026 - Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets.txt",
+        "html": "Lapadaki, S.A., Nanos, J., Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets</strong> <span class='journal-title'>Future Internet</span>, 18(2), 114. https://doi.org/10.3390/fi18020114"
+    }
+]                             
+  

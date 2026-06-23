@@ -28,11 +28,12 @@
 
 	body, input, select, textarea {
 /*		color: #646464;*/
-		color: #0f0704;
+/*		color: #0f0704;*/
         font-family: "Lato", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 500;
 		line-height: 1.75em;
+            
 	}
 
 	a {
@@ -75,7 +76,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #545454;
+		color: #545454; 
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -105,8 +106,8 @@
 	}
 
 	h5 {
-		font-size: 0.9em;
-		line-height: 1.5em;
+		font-size: 1.75em;
+		line-height: 0.9em;
 	}
 
 	h6 {
@@ -266,6 +267,250 @@ h7-opacity{
 		header.major p {
 			margin: -1em 0 3.5em 0;
 		}
+
+
+                
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+
+picture {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding-left: 100px;
+}
+
+socialmedialinks {
+    float: right;
+    max-width: 200px;
+    margin: 0;
+    padding-right: 100px;
+}
+
+    
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 5px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+        .controls-container {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border: 1px solid #e2e8f0;
+            max-width: 950px;
+            margin: 40px auto;
+        }
+        .toggle-group {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .toggle-label {
+            font-weight: bold;
+            color: #4a5568;
+            margin-right: 4px;
+        }
+        .view-btn {
+            background: none;
+            border: none;
+            color: #64748b;
+            padding: 6px 14px;
+            font-size: 14px;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: background-color 0.2s, color 0.2s;
+        }
+        .view-btn:hover {
+            background-color: #e2e8f0;
+            color: #334155;
+        }
+        .view-btn.active {
+            background-color: #cbd5e1;
+            color: #1e293b;
+        }
+        #searchBar {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #bdc3c7;
+            border-radius: 6px;
+            box-sizing: border-box;
+        }
+        #searchBar:focus {
+            border-color: #3498db;
+            outline: none;
+        }
+        .group-section {
+            margin-bottom: 30px;
+        }
+        .group-heading {
+            font-size: 1.5rem; 
+            color: #2c3e50;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            text-transform: capitalize;
+            text-align: left;
+            max-width: 950px;
+            margin: 10px auto;            
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .counter-badge {
+            background-color: #e2e8f0;
+            color: #475569;
+            font-size: 0.9rem;
+            font-weight: bold;
+            padding: 2px 8px;
+            border-radius: 20px;
+        }
+
+        }
+/*
+        .citation-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .citation-item {
+            margin-bottom: 15px;
+            font-size: 1.15em;
+            text-align: justify; 
+            max-width: 950px;
+            margin: 10px auto;
+        }
+*/
+
+
+
+        .citation-list {
+            list-style-type: none;
+            padding-left: 0;
+            /* Set up an isolated counter context for each year/category group block */
+            counter-reset: citation-counter; 
+        }
+
+        .citation-item {
+            margin-bottom: 25px;
+            padding-left: 50px;       /* Margin gap spacing to hold the bracketed number */
+            position: relative;       /* Allows absolute positioning of our custom marker */
+            text-align: justify; 
+            max-width: 1050px;
+            margin: 10px auto;
+            font-size: 1.15em;
+
+/*            
+            margin-bottom: 15px;
+            font-size: 1.15em;
+            text-align: justify; 
+            max-width: 950px;
+            margin: 10px auto;
+*/
+        }
+
+        /* Create an inline block before the text to act as the [number] prefix */
+        .citation-item::before {
+            /* Fetch the variable passed down by JavaScript and convert it to text */
+            content: "[" counter(citation-counter) "]"; 
+            counter-set: citation-counter var(--num);
+
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 40px;              /* Fixed width container keeps text perfectly aligned */
+            font-weight: bold;
+            color: #2c3e50;           /* Clean dark slate accent color */
+            text-align: right;        /* Right-aligns numbers like a standard list */
+        }
+
+
+
+
+
+        .journal-title, .book-title, .proceedings-title {
+            font-style: italic;
+        }
+        .citation-actions {
+            text-indent: 0;
+/*            padding-left: 36px; */
+            margin-top: 8px;
+            display: flex;
+            gap: 10px;
+        }
+        .btn {
+            color: #ffffff !important;
+            background-color: transparent;
+		    display: inline-flex;
+            align-items: center;
+            padding: 0 1em;
+            font-size: 13px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 0.5em;
+            border: 1px solid transparent !important;
+            cursor: pointer;
+            transition: background-color 0.2s; 
+            min-width: 65px;  /* Minimum clickable width asset boundaries */
+        }
+    
+        /* Style rules for inactive/disabled action buttons */
+        .btn.inactive {
+            background-color: #cbd5e1 !important; /* Muted gray background */
+            color: #64748b !important;            /* Muted text color */
+            cursor: not-allowed;                  /* Shows a disabled cursor symbol */
+            pointer-events: none;                 /* Blocks clicking and hover transitions */
+            opacity: 0.6;
+        }
+
+    
+        .btn-pdf { background-color: #e74c3c; }
+        .btn-pdf:hover { background-color: #c0392b; color: white !important;  }
+
+        .btn-bibtex { background-color: gray; color: white; }
+        .btn-bibtex:hover { background-color: #2c3e50; color: white !important; }
+        
+        .btn-doi { background-color: #3498db; color: white; }
+        .btn-doi:hover { background-color: #2980b9; color: white !important; }
+
+        mark {
+            background-color: #f1c40f;
+            color: #000;
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+        .no-results {
+            display: none;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+    
+    
+
+
+
+
+
 
 /* Form */
 
@@ -589,13 +834,13 @@ h7-opacity{
 		}
 
 	ul {
-		list-style: disc;
+		list-style: none;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 0em;
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-left: 0.0em;
 		}
 
 		ul.alt {

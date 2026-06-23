@@ -289,14 +289,14 @@ img {
 
                 const ul = document.createElement('ul');
                 ul.className = 'citation-list';
-/*
+
                 groups[groupName].forEach((item) => {
                     const li = document.createElement('li');
                     li.className = 'citation-item';
                     
                     // Maps display numbers contextually based on the routing parameters executed above
                     const numberPrefix = `<strong>[${item.displayNumber}]</strong>&nbsp;`; 
-
+//                    const numberPrefix = `<span style="display: inline-block; width: 45px; text-indent: 0; font-weight: bold;">[${item.displayNumber}]</span>`; 
                     if (searchTerm === '') {
                         li.innerHTML = numberPrefix + item.html;
                     } else {
@@ -306,26 +306,6 @@ img {
 
                     const actionsDiv = document.createElement('div');
                     actionsDiv.className = 'citation-actions';
-*/
-
-                groups[groupName].forEach((item) => {
-                    const li = document.createElement('li');
-                    li.className = 'citation-item';
-
-                    // Pass the calculated sequential layout index straight down to the CSS style layer
-                    li.style.setProperty('--num', item.displayNumber);
-
-                    // Inject the HTML text directly into the node without manual number prefixes
-                    if (searchTerm === '') {
-                        li.innerHTML = item.html;
-                    } else {
-                        const regex = new RegExp(`(${escapeRegExp(searchTerm)})`, 'gi');
-                        li.innerHTML = highlightHTML(item.html, regex);
-                    }
-
-                    const actionsDiv = document.createElement('div');
-                    actionsDiv.className = 'citation-actions';
-
 
                     function configureButton(element, url, activeText, inactiveText) {
                         if (url && url.trim() !== "") {
