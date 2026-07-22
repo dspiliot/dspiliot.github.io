@@ -1,0 +1,17 @@
+
+@Article{info17070633,
+AUTHOR = {Koryzis, Dimitris and Spiliotopoulos, Dimitris and Margaris, Dionisis and Vassilakis, Costas and Fitsilis, Fotios},
+TITLE = {The Evolution of the Digital Parliament: Enabling Technologies, Research Gaps, and Future Directions},
+JOURNAL = {Information},
+VOLUME = {17},
+YEAR = {2026},
+NUMBER = {7},
+ARTICLE-NUMBER = {633},
+URL = {https://www.mdpi.com/2078-2489/17/7/633},
+ISSN = {2078-2489},
+ABSTRACT = {The evolution of digital technologies is reshaping parliaments worldwide, driving fundamental changes in their operations. Parliaments, being traditionally conservative institutions, typically lean toward “mature” emerging or disruptive technologies through cautious, incremental digital transformation attempts, resulting in complex digital parliamentary environments for their users, processes, systems, and tools. The paper employs an integrative literature review as its methodological tool, examining the concept of the “digital parliament” and the technologies that enable it. Using a PRISMA-informed methodology as a guide, we conducted an integrative review covering the period 2006–2025, and in this context, we retrieved 535 publications, screened 260, thoroughly examined 57, and analyzed and synthesized 34 studies addressing digital parliamentary technologies, digital platforms, and cooperative workspaces. We found that while specific parliamentary technology (ParlTech) applications—including big data analytics, artificial intelligence (AI), and hybrid parliamentary tools—are reaching institutional maturity, the concept of a digital parliament remains fragmented, lacking a unified definitional and operational framework. Key research gaps have been identified concerning user classification, the digitization of parliamentary functions, operations, and processes, as well as the institutionalization of cooperation platforms. Based on these findings, we propose strategic directions toward establishing a responsible, inclusive, and evidence-based digital parliament. This research contributes as a guideline for parliamentary organizations seeking to create, retain, and disseminate public value through the responsible adoption of emerging digital technologies.},
+DOI = {10.3390/info17070633}
+}
+
+
+

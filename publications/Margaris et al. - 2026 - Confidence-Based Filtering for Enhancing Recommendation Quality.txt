@@ -1,0 +1,19 @@
+@InProceedings{10.1007/978-3-032-25534-1_13,
+author="Margaris, Dionisis
+and Sgardelis, Kiriakos
+and Spiliotopoulos, Dimitris
+and Vassilakis, Costas
+and Ougiaroglou, Stefanos",
+editor="Marchiori, Massimo
+and Garc{\'i}a Pe{\~{n}}alvo, Francisco
+and Aberer, Karl",
+title="Confidence-Based Filtering for Enhancing Recommendation Quality",
+booktitle="Web Information Systems and Technologies",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="290--306",
+abstract="In this article, we present an algorithm that leverages rating prediction confidence factors to enhance recommendation quality. More specifically, this algorithm filters candidate recommendation items, by removing those whose rating predictions do not fulfil any rating prediction confidence factor and subsequently proceeds in formulating the recommendation(s) with the remaining candidate items. Under this approach, only rating predictions that have increased accuracy guarantees are utilized, and therefore the quality of the recommendation is enhanced. The presented approach extends previous works, and is proven to maintain high recommendation coverage. At the same time it can be applied to every collaborative filtering dataset, since it is based only on the essential collaborative filtering data (i.e., rating records which include the user id, the item id and the respective rating). To evaluate the proposed extension, datasets commonly used in the recommender systems research field are used. The evaluation results indicate its effectiveness towards recommendation quality, outreaching the performance of state-of-the-art collaborative filtering research works that also consider rating prediction confidence factors. The presented approach can finally be easily combined with collaborative filtering recommendation algorithms that also consider the rating prediction confidence factors.",
+isbn="978-3-032-25534-1"
+}
+

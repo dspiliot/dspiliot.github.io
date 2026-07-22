@@ -1,0 +1,17 @@
+
+@Article{admsci16070345,
+AUTHOR = {Makrydakis, Nektarios and Spiliotopoulos, Dimitris and Lymperi, Afroditi},
+TITLE = {Effectiveness and Efficiency of Digital Marketing Strategies in the Process of Conversion Rate Optimisation in E-Commerce},
+JOURNAL = {Administrative Sciences},
+VOLUME = {16},
+YEAR = {2026},
+NUMBER = {7},
+ARTICLE-NUMBER = {345},
+URL = {https://www.mdpi.com/2076-3387/16/7/345},
+ISSN = {2076-3387},
+ABSTRACT = {Conversion Rate Optimisation (CRO) has emerged as a central strategic priority in e-commerce management, yet its positioning within the broader interactive marketing paradigm remains theoretically underdeveloped. Interactive marketing, defined as a multi-directional value creation process through active customer connection, engagement, participation, and interaction, provides a critical lens through which the effectiveness and efficiency of digital marketing tactics can be understood, as each tactic mediates a distinct form of consumer brand interactivity. The academic literature, however, remains fragmented; no unified comparative framework exists that simultaneously assesses both effectiveness and efficiency of digital marketing tactics within an interactive marketing context. Drawing on the classical effectiveness and efficiency framework and interactive marketing theory, this study addresses this gap through a cross-sectional quantitative survey of 302 digital marketing professionals, evaluating a broad range of tactics across both dimensions using a validated psychometric instrument. The findings reveal that Email Marketing consistently dominates across effectiveness and efficiency assessments, reflecting its permission-based structure and its capacity to sustain ongoing consumer–brand dialogue. Search Engine Marketing exhibits the most pronounced divergence between effectiveness and efficiency, consistent with auction-driven cost dynamics that constrain interactive value creation. Attribution modelling difficulty emerges as the primary structural barrier to CRO implementation, revealing a systemic challenge to evidence-based resource allocation in multi-channel interactive environments. An exploratory factor analysis identifies a three-factor taxonomy of tactic effectiveness, distinguishing Paid Conversion tactics, data-driven optimisation tools, and organic or relationship-based channels, each representing a qualitatively distinct mode of consumer–brand interaction. This study advances interactive marketing theory by providing the first empirically validated effectiveness–efficiency framework for e-commerce CRO, and offers actionable guidance for cross-channel budget allocation decisions in interactive digital environments.},
+DOI = {10.3390/admsci16070345}
+}
+
+
+

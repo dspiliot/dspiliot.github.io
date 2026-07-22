@@ -1155,9 +1155,9 @@
         "id": 129,
         "year": "2025",
         "category": "journals",
-        "pdfUrl": "/publications/Makrydakis et al. - 2025 -Tourism marketing in the era of Artificial Intelligence.pdf",
+        "pdfUrl": "/publications/Makrydakis et al. - 2025 - Tourism marketing in the era of Artificial Intelligence.pdf",
         "doiUrl": "https://doi.org/10.22271/27069583.2025.v7.i2b.177",
-        "bibtexUrl": "/publications/Makrydakis et al. - 2025 -Tourism marketing in the era of Artificial Intelligence.txt",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2025 - Tourism marketing in the era of Artificial Intelligence.txt",
         "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2025). <strong>Tourism Marketing in the era of Artificial Intelligence: Digital strategies and Behavioral Effects on Consumer Decision-making.</strong> <span class='journal-title'>Int. Journal of Tourism and Hotel Management</span>, 7(2):129-134. https://doi.org/10.22271/27069583.2025.v7.i2b.177"
     },
     {
@@ -1195,6 +1195,43 @@
         "doiUrl": "https://doi.org/10.3390/fi18020114",
         "bibtexUrl": "/publications/Lapadaki et al. - 2026 - Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets.txt",
         "html": "Lapadaki, S.A., Nanos, J., Margaris, D., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>Optimizing Collaborative Filtering for Accurate Rating Predictions in Very Sparse Datasets.</strong> <span class='journal-title'>Future Internet</span>, 18(2), 114. https://doi.org/10.3390/fi18020114"
+    },
+    {
+        "id": 134,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Confidence-Based Filtering for Enhancing Recommendation Quality.pdf",
+        "doiUrl": "https://doi.org/10.1007/978-3-032-25534-1_13",
+        "bibtexUrl": "/publications/Confidence-Based Filtering for Enhancing Recommendation Quality.txt",
+        "html": "Margaris, D., Sgardelis, K., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C., Ougiaroglou, S. (2026). <strong>Confidence-Based Filtering for Enhancing Recommendation Quality.</strong> <span class='journal-title'> In: Marchiori, M., García Peñalvo, F., Aberer, K. (eds) Web Information Systems and Technologies. WEBIST 2024.</span>, Lecture Notes in Business Information Processing, vol 583, pp. 290–306. Springer, Cham. https://doi.org/10.1007/978-3-032-25534-1_13"
+    },
+    {
+        "id": 135,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Koryzis et al. - 2026 - The Evolution of the Digital Parliament.pdf",
+        "doiUrl": "https://doi.org/10.3390/info17070633",
+        "bibtexUrl": "/publications/Koryzis et al. - 2026 - The Evolution of the Digital Parliament.txt",
+        "html": "Koryzis, D., <strong>Spiliotopoulos, D.</strong>, Margaris, D., Vassilakis, C., Fitsilis, F. (2026). <strong>The Evolution of the Digital Parliament: Enabling Technologies, Research Gaps, and Future Directions.</strong> <span class='journal-title'>Information</span>, 17(7), 633. https://doi.org/10.3390/info17070633"
+    },
+    {
+        "id": 136,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Roumeliotis et al. - 2026 - Large Language Models as Explainable AI Ensemble Aggregators.pdf",
+        "doiUrl": "https://doi.org/10.3390/app16136479",
+        "bibtexUrl": "/publications/Roumeliotis et al. - 2026 - Large Language Models as Explainable AI Ensemble Aggregators.txt",
+        "html": "Roumeliotis, K. I., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2026). <strong>Large Language Models as Explainable AI Ensemble Aggregators for Business Review Sentiment Analysis: A Comparative Study with Classical Ensembles.</strong> <span class='journal-title'>Applied Sciences</span>, 16(13), 6479. https://doi.org/10.3390/app16136479"
+    },
+    {
+        "id": 137,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Makrydakis et al. - 2026 -  Effectiveness and Efficiency of Digital Marketing Strategies.pdf",
+        "doiUrl": "https://doi.org/10.3390/admsci16070345",
+        "bibtexUrl": "/publications/Makrydakis et al. - 2026 -  Effectiveness and Efficiency of Digital Marketing Strategies.txt",
+        "html": "Makrydakis, N., <strong>Spiliotopoulos, D.</strong>, Lymperi, A. (2026). <strong>Effectiveness and Efficiency of Digital Marketing Strategies in the Process of Conversion Rate Optimisation in E-Commerce.</strong> <span class='journal-title'>Administrative Sciences</span>, 16(7), 345. https://doi.org/10.3390/admsci16070345"
     }
+    
 ]                             
   
