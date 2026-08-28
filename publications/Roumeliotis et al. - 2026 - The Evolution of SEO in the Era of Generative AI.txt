@@ -1,0 +1,17 @@
+
+@Article{electronics15163541,
+AUTHOR = {Roumeliotis, Konstantinos I. and Margaris, Dionisis and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {The Evolution of SEO in the Era of Generative AI: A Business Intelligence Perspective},
+JOURNAL = {Electronics},
+VOLUME = {15},
+YEAR = {2026},
+NUMBER = {16},
+ARTICLE-NUMBER = {3541},
+URL = {https://www.mdpi.com/2079-9292/15/16/3541},
+ISSN = {2079-9292},
+ABSTRACT = {The rapid paradigm shift from traditional keyword-matching algorithms to AI-driven answer engines has fundamentally disrupted Search Engine Optimization (SEO). As Large Language Models (LLMs) power modern Search Generative Experiences (SGEs), organizations must transition from legacy web analytics to sophisticated Business Intelligence (BI) frameworks to capture visibility. Despite the immense strategic implications of this shift, academic literature remains fragmented across computer science, information systems, and digital marketing management. To bridge this gap, this paper adopts an integrative literature review methodology, synthesizing 70 high-value studies selected from an initial corpus of 11,382 papers filtered to 2962 on-topic studies. Rather than utilizing restrictive systematic protocols (e.g., PRISMA) that isolate empirical data within narrow boundaries, the integrative approach enables a holistic synthesis of emerging, multi-disciplinary concepts necessary to decode a rapidly evolving phenomenon. Through this methodological lens, this study introduces the Signal–Structure–Surface–Score (4S) lifecycle framework, illustrating how AI-BI systems capture conversational search intents (Signal), architect machine-readable, entity-based data (Structure), optimize content for LLM retrieval and Generative Engine Optimization (Surface), and define novel attribution metrics for zero-click environments (Score). Furthermore, the paper maps the critical technical and strategic landscape, systematically evaluating prevailing trends (e.g., zero-click searches, AI-generated content velocity), core organizational challenges (e.g., search data attribution loss, algorithmic opacity), and emerging strategic opportunities (e.g., real-time intent mapping, competitor LLM audit trails). Ultimately, this paper bridges the gap between AI search mechanics and strategic BI measurement, providing a robust future research agenda designed to guide scholars and practitioners in navigating data-driven visibility in the age of generative search.},
+DOI = {10.3390/electronics15163541}
+}
+
+
+
