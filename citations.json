@@ -355,7 +355,7 @@
         "year": "2014",
         "category": "conferences",
         "pdfUrl": "/publications/Petasis et al. - 2014 - Sentiment Analysis for Reputation Management - Mining the Greek Web.pdf",
-        "doiUrl": "",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-07064-3_26",
         "bibtexUrl": "/publications/Petasis et al. - 2014 - Sentiment Analysis for Reputation Management - Mining the Greek Web.txt",
         "html": "Petasis, G., <strong>Spiliotopoulos, D.</strong>, Tsirakis, N., Tsantilas, P. (2014). <strong>Sentiment Analysis for Reputation Management: Mining the Greek Web</strong>. In <span class='journal-title'>Proc. 8th Hellenic Conference in Artificial Intelligence</span>, LNCS 8445, pp. 327-340. Springer, Cham. https://doi.org/10.1007/978-3-319-07064-3_26"
     },
@@ -382,7 +382,7 @@
         "year": "2014",
         "category": "conferences",
         "pdfUrl": "/publications/Spiliotopoulos et al. - 2014 - Need driven Prototype Design for a Policy Modeling Authoring Interface.pdf",
-        "doiUrl": "",
+        "doiUrl": "https://doi.org/10.1007/978-3-319-07626-3_45",
         "bibtexUrl": "/publications/Spiliotopoulos et al. - 2014 - Need driven Prototype Design for a Policy Modeling Authoring Interface.txt",
         "html": "<strong>Spiliotopoulos, D.</strong>, Dalianis, A., Koryzis, D. (2014). <strong>Need driven Prototype Design for a Policy Modeling Authoring Interface</strong>. In <span class='journal-title'>Proc. 16th International Conference on Human-Computer Interaction (HCII 2014)</span>, LNCS 8518, pp. 481-487. Springer, Cham. https://doi.org/10.1007/978-3-319-07626-3_45"
     },
