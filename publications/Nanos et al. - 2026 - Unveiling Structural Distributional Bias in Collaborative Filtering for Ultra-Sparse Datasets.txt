@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11705590,
+  author={Nanos, John and Margaris, Dionisis and Mpardis, Giorgos and Roumeliotis, Konstantinos I. and Vassilakis, Costas and Spiliotopoulos, Dimitris},
+  booktitle={2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
+  title={Unveiling Structural Distributional Bias in Collaborative Filtering for Ultra-Sparse Datasets}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Measurement;Printing;Modeling;Collaborative filtering;Recommender systems;Algorithms;Conferences;Filters;Social networking (online);Accuracy;Collaborative Filtering;Recommender Systems;Ultra-Sparse datasets;Structural Distributional Bias;Similarity Metrics;Performance Evaluation},
+  doi={10.1109/IISA71656.2026.11705590}}

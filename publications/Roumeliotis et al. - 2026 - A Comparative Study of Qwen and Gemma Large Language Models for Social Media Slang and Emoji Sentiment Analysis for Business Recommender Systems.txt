@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11705608,
+  author={Roumeliotis, Konstantinos I. and Margaris, Dionisis and Spiliotopoulos, Dimitris and Mpardis, Giorgos and Tryfonopoulos, Christos and Vassilakis, Costas},
+  booktitle={2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
+  title={A Comparative Study of Qwen and Gemma Large Language Models for Social Media Slang and Emoji Sentiment Analysis for Business Recommender Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Modeling;Social networking (online);Training;Tuning;Sentiment analysis;Printing;Labeling;Emojis;Testing;Accuracy;Sentiment Analysis;Large Language Models;Social Media;Gemma;Qwen;LoRA;Unsloth;Quantization},
+  doi={10.1109/IISA71656.2026.11705608}}

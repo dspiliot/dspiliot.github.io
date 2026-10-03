@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11705501,
+  author={Singh, Manvir and Roumeliotis, Konstantinos I and Vassilakis, Costas and Margaris, Dionisis and Mpardis, Giorgos and Spiliotopoulos, Dimitris},
+  booktitle={2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
+  title={A Multimodal Pipeline for Personalized Recommendations from Greek YouTube Content: Integrating Automatic Speech Recognition and Aspect-Based Sentiment Analysis}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Modeling;Printing;Sentiment analysis;Automatic speech recognition;Videos;Tracking;Reviews;Pipelines;Engines;Lexicon;Aspect-Based Sentiment Analysis (ABSA);Personalized Recommender Systems;Modern Greek NLP;Automatic Speech Recognition (ASR);Multimedia Data Mining;User Preference Modeling},
+  doi={10.1109/IISA71656.2026.11705501}}

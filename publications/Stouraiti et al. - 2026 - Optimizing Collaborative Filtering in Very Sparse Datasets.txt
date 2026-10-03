@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11705472,
+  author={Stouraiti, Vassiliki and Mpardis, Giorgos and Roumeliotis, Konstantinos I. and Vassilakis, Costas and Tryfonopoulos, Christos and Spiliotopoulos, Dimitris},
+  booktitle={2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
+  title={Optimizing Collaborative Filtering in Very Sparse Datasets: a Confidence-based Approach}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Accuracy;Printing;Collaborative filtering;Measurement;Distance measurement;Recommender systems;Filters;Correlation;Limiting;Reviews;Collaborative Filtering;Recommender Systems;Rating Predictions;Sparse Datasets;Optimization;Confidence Factors},
+  doi={10.1109/IISA71656.2026.11705472}}

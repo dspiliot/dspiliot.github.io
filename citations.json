@@ -1240,7 +1240,55 @@
         "doiUrl": "https://doi.org/10.3390/electronics15163541",
         "bibtexUrl": "/publications/Roumeliotis et al. - 2026 - The Evolution of SEO in the Era of Generative AI.txt",
         "html": "Roumeliotis, K. I., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2026). <strong>The Evolution of SEO in the Era of Generative AI: A Business Intelligence Perspective.</strong> <span class='journal-title'>Electronics</span>, 16(15), 3541. https://doi.org/10.3390/electronics15163541"
+    },
+    {
+        "id": 139,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Mpardis et al. - 2026 - The Enhancement of Passenger Ground Transfer Management by the BPMN modeling and Real-Time Flight Data.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA71656.2026.11705464",
+        "bibtexUrl": "/publications/Mpardis et al. - 2026 - The Enhancement of Passenger Ground Transfer Management by the BPMN modeling and Real-Time Flight Data.txt",
+        "html": "Mpardis, G., Margaris, D., Roumeliotis, K. I., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>The Enhancement of Passenger Ground Transfer Management by the BPMN modeling and Real-Time Flight Data.</strong> <span class='journal-title'>2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)</span>, Rhodos, Greece, 2026, pp. 1-8. https://doi.org/10.1109/IISA71656.2026.11705464"
+    },
+    {
+        "id": 140,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Nanos et al. - 2026 - Unveiling Structural Distributional Bias in Collaborative Filtering for Ultra-Sparse Datasets.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA71656.2026.11705590",
+        "bibtexUrl": "/publications/Nanos et al. - 2026 - Unveiling Structural Distributional Bias in Collaborative Filtering for Ultra-Sparse Datasets.txt",
+        "html": "Nanos, J., Margaris, D., Mpardis, G., Roumeliotis, K. I., Vassilakis, C., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>Unveiling Structural Distributional Bias in Collaborative Filtering for Ultra-Sparse Datasets.</strong> <span class='journal-title'>2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)</span>, Rhodos, Greece, 2026, pp. 1-8. https://doi.org/10.1109/IISA71656.2026.11705590"
+    },
+    {
+        "id": 141,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Singh et al. - 2026 - A Multimodal Pipeline for Personalized Recommendations from Greek YouTube Content.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA71656.2026.11705501",
+        "bibtexUrl": "/publications/Singh et al. - 2026 - A Multimodal Pipeline for Personalized Recommendations from Greek YouTube Content.txt",
+        "html": "Singh, M., Roumeliotis, K. I., Vassilakis, C., Margaris, D., Mpardis, G., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>A Multimodal Pipeline for Personalized Recommendations from Greek YouTube Content: Integrating Automatic Speech Recognition and Aspect-Based Sentiment Analysis.</strong> <span class='journal-title'>2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)</span>, Rhodos, Greece, 2026, pp. 1-8. https://doi.org/10.1109/IISA71656.2026.11705501"
+    },
+    {
+        "id": 142,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Stouraiti et al. - 2026 - Optimizing Collaborative Filtering in Very Sparse Datasets.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA71656.2026.11705472",
+        "bibtexUrl": "/publications/Stouraiti et al. - 2026 - Optimizing Collaborative Filtering in Very Sparse Datasets.txt",
+        "html": "Stouraiti, V., Mpardis, G., Roumeliotis, K. I., Vassilakis, C., Tryfonopoulos, C., <strong>Spiliotopoulos, D.</strong>  (2026). <strong>Optimizing Collaborative Filtering in Very Sparse Datasets: a Confidence-based Approach.</strong> <span class='journal-title'>2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)</span>, Rhodos, Greece, 2026, pp. 1-8. https://doi.org/10.1109/IISA71656.2026.11705472"
+    },
+    {
+        "id": 143,
+        "year": "2026",
+        "category": "conferences",
+        "pdfUrl": "/publications/Roumeliotis et al. - 2026 - A Comparative Study of Qwen and Gemma Large Language Models for Social Media Slang and Emoji Sentiment Analysis for Business Recommender Systems.pdf",
+        "doiUrl": "https://doi.org/10.1109/IISA71656.2026.11705608",
+        "bibtexUrl": "/publications/Roumeliotis et al. - 2026 - A Comparative Study of Qwen and Gemma Large Language Models for Social Media Slang and Emoji Sentiment Analysis for Business Recommender Systems.txt",
+        "html": "Roumeliotis, K. I., Margaris, D., <strong>Spiliotopoulos, D.</strong>, Mpardis, G., Tryfonopoulos, C.,  Vassilakis, C. (2026). <strong>A Comparative Study of Qwen and Gemma Large Language Models for Social Media Slang and Emoji Sentiment Analysis for Business Recommender Systems.</strong> <span class='journal-title'>2026 17th International Conference on Information, Intelligence, Systems & Applications (IISA)</span>, Rhodos, Greece, 2026, pp. 1-8. https://doi.org/10.1109/IISA71656.2026.11705608"
     }
+
+
+
 
 ]                             
   
