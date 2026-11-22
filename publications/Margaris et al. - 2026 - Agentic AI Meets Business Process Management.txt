@@ -1,0 +1,17 @@
+
+@Article{info17111143,
+AUTHOR = {Margaris, Dionisis and Roumeliotis, Konstantinos I. and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {Agentic AI Meets Business Process Management: A Systematic Literature Review and Taxonomy of How Process Models Frame LLM Agents},
+JOURNAL = {Information},
+VOLUME = {17},
+YEAR = {2026},
+NUMBER = {11},
+ARTICLE-NUMBER = {1143},
+URL = {https://www.mdpi.com/2078-2489/17/11/1143},
+ISSN = {2078-2489},
+ABSTRACT = {Large language model (LLM) agents and agentic artificial intelligence (AI) are entering business process management, yet how process models should frame their behavior remains unclear. This PRISMA 2020 systematic literature review examines how process models, business rules, and standard operating procedures frame LLM-based systems. Searching Scopus, arXiv, AIS eLibrary, and DBLP on 3 October 2026, we screened 1775 records in duplicate and included 126 studies, coded on 18 variables. Process specifications play three roles: context the model reasons over (31%); control that constrains its actions (27%); and governance that allocates work, sequence, and autonomy (42%). The standard notations, Business Process Model and Notation and its decision and case counterparts, appear in 21% of studies, while other formal models, rules, and natural-language procedures dominate, and a third of the systems combine several of them. Each role has a typical form: procedures rendered as text for context, rules enforced by engines for control, and formal models, often with multiple agents and human oversight, for governance. Notation inadequacies are reported mainly for governance, and the evidence is emergent. We contribute a seven-dimension taxonomy (role, secondary role, notation, representation, autonomy, system type, and orchestration), and a research agenda for notations that govern agentic AI.},
+DOI = {10.3390/info17111143}
+}
+
+
+

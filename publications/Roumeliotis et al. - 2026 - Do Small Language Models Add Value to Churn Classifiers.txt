@@ -1,0 +1,17 @@
+
+@Article{info17111073,
+AUTHOR = {Roumeliotis, Konstantinos I. and Margaris, Dionisis and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {Do Small Language Models Add Value to Churn Classifiers? An Ablation and Faithfulness Audit of Zero-Shot Explanations for Business Intelligence},
+JOURNAL = {Information},
+VOLUME = {17},
+YEAR = {2026},
+NUMBER = {11},
+ARTICLE-NUMBER = {1073},
+URL = {https://www.mdpi.com/2078-2489/17/11/1073},
+ISSN = {2078-2489},
+ABSTRACT = {Tree-ensemble classifiers predict customer churn accurately but explain little, and small language models (SLMs) are increasingly proposed as a zero-shot narration layer on top of them. We test whether such SLMs add decision value or trustworthy explanations, combining a nine-condition prompt-ablation grid with XGBoost, Random Forest, and two 4-billion-parameter SLMs (Qwen3.5-4B, Gemma3-4B) on 7501 test customers, non-LLM baselines, and blinded human audits. Gemma3-4B’s parity with XGBoost (balanced accuracy 0.8855) is imitation: without classifier-derived input it falls to chance, and it follows a falsified verdict, presented as that of the best model, in 99.8% of cases. Neither SLM adds predictive value: given XGBoost’s SHAP attributions without its verdict, both score below a one-line rule that sums those attributions, and Qwen3.5-4B’s overrides are no more accurate than random flips. A diagnostic human audit finds 42–44% of explanations faithful; a one-sentence prompt fix, re-audited on new customers against all five faithfulness dimensions, raises Qwen3.5-4B’s fully faithful explanations from 15% to 45% but leaves Gemma3-4B’s essentially unchanged (20% to 25%), as it misstates factor directions. A deterministic template restates the supplied evidence and, by construction, nothing else. The contribution is a method for measuring, rather than inferring, an SLM’s decision value and explanation faithfulness.},
+DOI = {10.3390/info17111073}
+}
+
+
+
