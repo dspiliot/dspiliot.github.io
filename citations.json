@@ -1303,8 +1303,16 @@
         "doiUrl": "https://doi.org/10.3390/info17111143",
         "bibtexUrl": "/publications/Margaris et al. - 2026 - Agentic AI Meets Business Process Management.txt",
         "html": "Margaris, D., Roumeliotis, K. I., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2026). <strong>Agentic AI Meets Business Process Management: A Systematic Literature Review and Taxonomy of How Process Models Frame LLM Agents.</strong> <span class='journal-title'>Information</span>, 17(11), 1143. https://doi.org/10.3390/info17111143"
+    },
+    {
+        "id": 146,
+        "year": "2026",
+        "category": "journals",
+        "pdfUrl": "/publications/Margaris et al. - 2026 - Decision Models as Product Rerankers for E-Business Search and Recommendation.pdf",
+        "doiUrl": "https://doi.org/10.3390/electronics15235443",
+        "bibtexUrl": "/publications/Margaris et al. - 2026 - Decision Models as Product Rerankers for E-Business Search and Recommendationt.txt",
+        "html": "Margaris, D., Roumeliotis, K. I., <strong>Spiliotopoulos, D.</strong>, Vassilakis, C. (2026). <strong>Decision Models as Product Rerankers for E-Business Search and Recommendation: An Independent Evaluation on the Amazon Shopping Queries Dataset.</strong> <span class='journal-title'>Electronics</span>, 15(23), 5443. https://doi.org/10.3390/electronics15235443"
     }
-
 
 
 

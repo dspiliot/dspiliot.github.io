@@ -1,0 +1,17 @@
+
+@Article{electronics15235443,
+AUTHOR = {Margaris, Dionisis and Roumeliotis, Konstantinos I. and Spiliotopoulos, Dimitris and Vassilakis, Costas},
+TITLE = {Decision Models as Product Rerankers for E-Business Search and Recommendation: An Independent Evaluation on the Amazon Shopping Queries Dataset},
+JOURNAL = {Electronics},
+VOLUME = {15},
+YEAR = {2026},
+NUMBER = {23},
+ARTICLE-NUMBER = {5443},
+URL = {https://www.mdpi.com/2079-9292/15/23/5443},
+ISSN = {2079-9292},
+ABSTRACT = {Retailers increasingly let language models decide which products shoppers see first. Decision models (Jev, Clef and Perplexity Decider) return a probability for each permitted judgement, not generated text, which makes them natural rerankers. We present the first independent evaluation of decision models on the Amazon Shopping Queries (ESCI) benchmark: 1000 US-English, 200 Spanish and 200 Japanese queries. Comparisons included a dedicated reranker (Qwen3-Reranker), general-purpose language models, BM25 and a supervised reference; two reranker sizes with three instructions each, a second BM25 analyser and three further settings were added after a pre-specified main run. Every decision model improved nDCG@10 over BM25 in every market, by 0.083 to 0.172. Against the strongest reranker configuration, Perplexity Decider was significantly better in English (0.822 versus 0.795) and on a second retailer’s benchmark (WANDS), and when run locally, in Japanese as well; most others were statistically tied. Behind a first-stage retriever, gains over BM25 persisted, but the strongest reranker matched or beat every decision model. A training-split probe found no sign that zero-shot systems had learned from the ESCI training split. Question design (four-way, ordinal or yes/no) mattered little. All systems confused Exact with Substitute products, and Complement recall in English ranged from 15% to 68%. The hosted Perplexity API reranked 1000 queries for US$0.10–0.14, but its outputs changed within a month.},
+DOI = {10.3390/electronics15235443}
+}
+
+
+
